@@ -17,6 +17,8 @@ K: C
 %%gchord Am=1;X,0,2,2,1,0
 %%gchord G/B=1;X,2,0,0,3,X
 %%gchord C=1;X,3,2,0,1,0
+%%gchord G=1;3,2,0,0,0,3
+%%gchord E=1;0,2,2,1,0,0
 
 V:guitar0 style=tab bracket=10
 V:melody1 style=jianpu 
@@ -30,7 +32,8 @@ V:melody1 style=jianpu
 |"F" [fx/2dx/2]c0/2cx/2b3/2 a0/2b3/2[fx/2cx/2]c0/2 [fx/2d2/2]c0/2cx/2b3/2 a0/2b3/2cx/2c0/2 
 |"F" [fx/2dx/2]c0/2cx/2b3/2 a0/2b3/2[fx/2cx/2]c0/2 [fx/2d2/2]c0/2cx/2b3/2 a0/2b3/2d2/2b3/2 
 |"F" B[fx*4dx*4cx*4bx*4] B[dx*2cx*2bx*2] B[dx*2cx*2b3*2]
-|: "Fadd9b5" dxax bxcx dxax bxcx
+|:
+"Fadd9b5" dxax bxcx dxax bxcx
 |"Fadd9b5" dxax bxcx dxax bxcx
 |"Fadd9b5" dxax bxcx dxax bxcx
 |"Fadd9b5" dxax bxcx dxax bxcx
@@ -51,12 +54,32 @@ V:melody1 style=jianpu
 |"C"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
 |"Fmaj7"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
 |"E7"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"Am"V[ax*8bx*8cx*8dx*8ex*8]
+|z*4 "F" B[dx*2cx*2bx*2] B[dx*2cx*2b3*2]
+|"Fadd9b5" dxax bxcx dxax bxcx
+|"Fadd9b5" dxax bxcx dxax bxcx
+|"Fadd9b5" dxax bxcx dxax bxcx
+|"Fadd9b5" dxax bxcx dxax bxcx
+|"Bm7b5"exbx cxdx "E7"[fxcx]dx axbx
+|"Bm7b5"exbx cxdx "E7"[fxcx]dx axbx
+|"Am" [excx]dx bxdx b3dx a3dx
+|"Am"  [ex/2cx/2]b0/2bx/2cx/2 "G/B" [ex/2b0/2]b1/2bx/2b0/2 "C" [ex/2bx/2]b3/2ax/2bx/2 [dx/2b3/2]ax/2a1/2a3/2
+|"Dm"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"G"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"C"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"Fmaj7"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"E7"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
 |"Am"V[exdxcx]V[ex/2dx/2cx/2]U[ex/2dx/2cx/2] "G"V[exdxcxbx]V[ex/2dx/2cx/2bx/2]U[ex/2dx/2cx/2bx/2] "C"V[exdxcxbx]V[ex/2dx/2cx/2bx/2]U[ex/2dx/2cx/2bx/2] V[dxcxbxax]V[dx/2cx/2bx/2ax/2]U[dx/2cx/2bx/2ax/2]
-|z*8
-|z*8
-|z*8
-|z*8
-|z*8
+|"Dm"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"G"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"C"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"Fmaj7"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"E7"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"Am"V[ax*8bx*8cx*8dx*8ex*8]
+|"Dm"d0c2/2b3/2 -b3/2a0/2d0/2c0/2 "G" fxcx/2b3/2 -b3/2a0/2dx/2cx/2
+|"C" excx/2bx/2 -bx/2ax/2bx/2cx/2  "F"fxdx/2cx/2 -cx/2ax/2bx/2cx/2
+|"E"fxdx/2cx/2 -cx/2ax/2bx/2cx/2 fxdx/2cx/2 -cx/2ax/2bx/2cx/2
+|"Am" exdx/2cx/2 -cx/2bx/2cx/2dx/2 ex/2dx/2cx/2c4/2 -H-bx/2cx/2dx/2ax/2
 |z*8
 |z*8
 |z*8
@@ -88,7 +111,8 @@ w:
 w: 
 |Z4 C'2 D'2
 w: 在雨
-|: E'3B/2-A/2 A3E
+|:
+E'3B/2-A/2 A3E
 w: 中漫*步 蓝
 w: 洒我*面 难
 |E'E'/2E'/2 -E'B/2-A/2 A4
@@ -127,6 +151,35 @@ w: 变 只牵强地相*
 |C'8
 w: 处
 |Z2 F'F' E'F' E'F'
+w: 冷雨夜我不想
+|E'/2-D'D'/2 -D'2 D'B D'D'
+w: 归*家 *怕望你背
+|E'3E' E'D' C'D'/2E'/2
+w: 影 只苦笑望雨点
+|-E'2 ZE' E'C' C'E'
+w: * 须知要说清
+|D'3D' D'C' BC'/2-D'/2
+w: 楚 可惜我没胆*
+|C'8
+w: 试
+|Z4 C'2 D'2
+w: 在雨
+|E'3B/2-A/2 A3E
+w: 中漫*步 尝
+|E'E'/2E'/2 -E'B/2-A/2 A4
+w: 水中的 *味*道
+|E'3B/2-A/2 A3E
+w: 仿似* 是 情
+|E'E'/2E'/2 -E'B/2-A/2 A2 BC'
+w: 此刻的*尽*时 未了
+|D'3A ^G3E
+w: 解结合 留
+|D'D'/2D'/2 -D'A ^G2 E'D'/2-C'/2
+w: 低思忆*片段 不经*
+|C8
+w: 意
+|Z8
+|Z2 F'F' E'F' E'F'
 w: 冷雨夜我在你
 |E'/2-D'D'/2 -D'2 D'B D'D'
 w: 身*边 *盼望你会
@@ -138,8 +191,18 @@ w: * 比当初已改
 w: 变 只牵强地相*
 |C'8
 w: 处
-|Z8
-w: 
+|Z2 F'F' E'F' E'F'
+w: 冷雨夜我不想
+|E'/2-D'D'/2 -D'2 D'B D'D'
+w: 归*家 *怕望你背
+|E'3E' E'D' C'D'/2E'/2
+w: 影 只苦笑望雨点
+|-E'2 ZE' E'C' C'E'
+w: * 须知要说清
+|D'3D' D'C' BC'/2-D'/2
+w: 楚 可惜我没胆*
+|C'8
+w: 试
 |Z8
 w: 
 |Z8
