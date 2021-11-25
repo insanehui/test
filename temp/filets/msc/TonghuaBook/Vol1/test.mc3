@@ -8,7 +8,7 @@ tracks :
   - name: guitar
     format: tab
 =================
-<guitar> "F"[1234]^^i0
+<guitar> "F"1234
 <guitar> "C"[1234]^(^v)i0
 <guitar> "Dm7"[1234]^^i(0)"Bb"(v)
 <guitar> "Bb"(_[1234]^v) (_^v) (iv) 0
