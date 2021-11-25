@@ -107,8 +107,8 @@ V:melody1 style=jianpu
 |"Fmaj7"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
 |"E7"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
 |1"Am"V[exdxcx]V[ex/2dx/2cx/2]U[ex/2dx/2cx/2] "G"V[exdxcxbx]V[ex/2dx/2cx/2bx/2]U[ex/2dx/2cx/2bx/2] "C"V[exdxcxbx]V[ex/2dx/2cx/2bx/2]U[ex/2dx/2cx/2bx/2] V[dxcxbxax]V[dx/2cx/2bx/2ax/2]U[dx/2cx/2bx/2ax/2] 
-:|2"Am" V[exdxcx]V[ex/2dx/2cx/2]U[ex/2dx/2cx/2] V[exdxb0]V[ex/2dx/2b0/2]U[ex/2dx/2b0/2] V[dxcxbx]V[dx/2cx/2bx/2]U[dx/2cx/2bx/2] V[cxbxax]V[cx/2bx/2ax/2]U[cx/2bx/2ax/2]
-|"Am" B[ex*8dx*8cx*8bx*8ax*8]|
+:|2"Am" V[exdxcx]V[ex/2dx/2cx/2]U[ex/2dx/2cx/2] V[exdxb0]V[ex/2dx/2b0/2]U[ex/2dx/2b0/2] B[dx*2cx*2bx*2] B[cx*2bx*2ax*2]
+|"Am(6)" B[ex*8dx*8cx*8bx*8ax*8]|
 
 [V:melody1]
 Z8
@@ -272,11 +272,11 @@ w: อÛ บว อÛบว
 |G2 G'2 G'-D' -D'-E'
 w: บว บว บว* **
 |C'4 E'-D' C'-D'/2-C'/2
-w: บว อÛ บว
-|-C'4 E'D' C'-D'/2-B/2
-w: *บว อÛ
+w: บว อÛ *บว
+|-C'4 E'-D' C'-D'/2-B/2
+w: *บว *อÛ
 |-B4 C'-B A-B
-w: * อÛ บว
+w: * อÛ *บว
 |1B2 -A6 
 w: บว
 :|2B2 -A6
