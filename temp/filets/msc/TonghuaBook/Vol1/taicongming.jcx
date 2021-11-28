@@ -30,6 +30,8 @@ K: E
 %%gchord G#m7(1)=4;1,X,1,1,4,1
 %%gchord Amaj7add13=4;X,0,X,3,4,1
 %%gchord Esus4=3;0,X,X,2,3,3
+%%gchord E(4)=4;0,X,3,1,2,X
+%%gchord B7/E=1;0,X,4,2,4,X
 %%gchord F#madd9=2;1,X,X,1,1,3
 %%gchord Eaug=1;0,3,2,1,X,0
 %%gchord E6=1;0,4,2,1,X,0
@@ -40,7 +42,7 @@ V:guitar0 style=tab bracket=10
 V:melody1 style=jianpu 
 
 [V:guitar0]
-"E" fxdx/2cx/2 -cx/2ax/2fx/2bx/2 fxX[dxcx] fx/2[d4*3/2c2*3/2]
+"E" fxdx/2cx/2 -cx/2ax/2fx/2bx/2 fx[dxcx] fx/2[d4*3/2c2*3/2]
 |"E" [fxcx]dx/2cx/2 -cx/2ax/2fx/2bx/2 fx[dxcx] fx/2[d4*3/2c2*3/2]
 |"E" [fx*3/2cx*3/2]ex/2 -ex/2dxcx/2 "Eaug" fx*3/2ex/2 -ex/2dxcx/2
 |"E6" fx*3/2ex/2 -ex/2dxcx/2 "E7" fx*3/2dx/2 -dx/2cxbx/2
@@ -49,8 +51,8 @@ V:melody1 style=jianpu
 |"F#m7" [fx*3/2bx*3/2]ex/2 -ex/2dxcx/2 "F#m7b5" fx*3/2ex/2 -ex/2dxcx/2
 |"G#m7" [fxbx]ex/2dx/2 -dx/2cx/2fx/2cx/2 "C#7" [exbx]dx/2ax/2 -ax/2bx/2fx
 |"F#m7" [fx*3/2bx*3/2]ex/2 -ex/2dxcx/2 "A/B"exdxcxbx
-|""  f0d4/4-S-d6/4b5/2 c4/2d6/2b4/2d6/2  [f0/2b2/2]d4/2c2/2b4/2 d4/2c2/2b0/2c2/2
-|""  f0d4/4-S-d6/4b5/2 c4/2d6/2b4/2d6/2  [f0/2b2/2]d4/2c2/2b4/2 d4/2c2/2b0/2c2/2
+|"E(4)"  fxd4/4-S-dx/4bx/2 cx/2dx/2b4/2dx/2 "B7/E"  [fx/2b2/2]dx/2cx/2bx/2 dx/2cx/2b0/2cx/2
+|"E(4)"  fxd4/4-S-dx/4bx/2 cx/2dx/2b4/2dx/2 "B7/E"  [fx/2b2/2]dx/2cx/2bx/2 dx/2cx/2b0/2cx/2
 |"E" [fx*3/2cx*3/2]ex/2 -ex/2dxcx/2 "Eaug" fx*3/2ex/2 -ex/2dxcx/2
 |"E6" fx*3/2ex/2 -ex/2dxcx/2 "E7" fx*3/2dx/2 -dx/2cxbx/2
 |"A7" [exbx]dx/2ax/2 -ax/2bx/2dx/2cx/2 "Am" [exbx]dx/2a2/2-P- a0/2bx/2cx/2dx/2
@@ -58,15 +60,15 @@ V:melody1 style=jianpu
 |"F#m7" [fx*3/2bx*3/2]ex/2 -ex/2dxcx/2 "F#m7b5" fx*3/2ex/2 -ex/2dxcx/2
 |"G#m7" [fxbx]ex/2dx/2 -dx/2ax/2fx/2cx/2 "C#7" [exbx]dx/2ax/2 -ax/2bx/2fx
 |"F#m7" [fx*3/2bx*3/2]ex/2 -ex/2dxcx/2 "A/B"exdxcxbx
-|""  f0d4/4-S-d6/4b5/2 c4/2d6/2b4/2d6/2  [f0/2b2/2]d4/2c2/2b4/2 d4/2c2/2b0/2c2/2
-|""  f0d4/4-S-d6/4b5/2 c4/2d6/2b4/2d6/2  [f0/2b2/2]d4/4-S-d6/4b4/2d6/4-S-d7/4 b5/2d7/4-S-d9/4b9
+|"E(4)"  fxd4/4-S-dx/4bx/2 cx/2dx/2b4/2dx/2 "B7/E"  [fx/2b2/2]dx/2cx/2bx/2 dx/2cx/2b0/2cx/2
+|"E(4)"  fxd4/4-S-dx/4bx/2 cx/2dx/2b4/2dx/2 "B7/E"  [fx/2b2/2]dx/4-S-d6/4bx/2d6/4-S-d7/4 b5/2d7/4-S-d9/4b9
 |"Aadd11+" [exax]bx/2cx/2 -cx/2axbx/2 ex/2cxax/2 -ax/2bx/2ex 
 |"Emaj7/#G" [fxbx]cx/2ax/2 -ax/2bx/2fx/2cx/2 fxcx/2ax/2 -ax/2bx/2fx
 |"F#m7(1)" [fxbx]cx/2ax/2 -ax/2bx/2fx/2cx/2  "A/B(1)" [exbx]cx/2ax/2 -ax/2bx/2ex/2cx/2 
 |"E" [fx/2bx/2]dx/2cx/2bx/2 "F#m7(1)" [fxbx]cx/2bx/2 "Emaj7/#G" [fxbx]cx/2bx/2 "Bm/#C" ex/2[cx*3/2bx*3/2]
 |"Aadd11+" [exax]bx/2cx/2 -cx/2axbx/2 ex/2cxax/2 -ax/2bx/2ex 
 |"Emaj7/#G" [fxbx]cx/2ax/2 fx/2bx/2-S-b6/2c6/2 "C#" ex/2cx/2bx/2ax/2 -ax/2bx/2fx
-|"F#m7" [fx*3/2bx*3/2]dx/2 -dx/2cx/2fx "Am/#F(1)" fxcx/2bxax/2fx/2cx/2
+|"F#m7" [fx*3/2bx*3/2]dx/2 -dx/2cx/2fx "Am/#F(1)" fxcx/2bx/2 -bx/2ax/2fx/2cx/2
 |"A/B(1)" excx/2bx/2 -bx/2ax/2ex/2cx/2  [cx/2-S-bx/2-S-][c4*3/2b4*3/2] "A/B" B[ex*2dx*2cx*2bx*2]
 |"E" [fx*3/2cx*3/2]ex/2 -ex/2dxcx/2 "Eaug" fx*3/2ex/2 -ex/2dxcx/2
 |"E6" fx*3/2ex/2 -ex/2dxcx/2 "E7" fx*3/2dx/2 -dx/2cxbx/2
@@ -75,24 +77,24 @@ V:melody1 style=jianpu
 |"F#m7" [fx*3/2bx*3/2]ex/2 -ex/2dxcx/2 "F#m7b5" fx*3/2ex/2 -ex/2dxcx/2
 |"G#m7" [fxbx]ex/2dx/2 -dx/2bx/2fx/2cx/2 "C#7" [exbx]dx/2ax/2 -ax/2bx/2fx
 |"F#m7" [fx*3/2bx*3/2]ex/2 -ex/2dxcx/2 "A/B"exdxcxbx
-|""  f0d4/4-S-d6/4b5/2 c4/2d6/2b4/2d6/2  [f0/2b2/2]d4/2c2/2b4/2 d4/2c2/2b0/2c2/2
-|""  f0d4/4-S-d6/4b5/2 c4/2d6/2b4/2d6/2  [f0/2b2/2]d4/4-S-d6/4b4/2d6/4-S-d7/4 b5/2d7/4-S-d9/4b7
-| e0/2a5/2-P-a4/2b7/2 b5/2-P-b4/2c6/2b4/2 [e0/4b4/4-H-]b5/4-P-b4/2c6/2b4/2 [e0/4b4/4-H-]b5/4-P-b4/2c6/2c4/2  
-|f0b0/2[c4/2a4/2] f0/2[c2/2a2/2]f0/2[c2/4-S-a2/4-S-][c4/4a4/4] f0b0/2[c4/2a4/2] f0/2[c2/2a2/2]f0/2[c2/4-S-a2/4-S-][c4/4a4/4]
-| e0/2a5/2-P-a4/2b7/2 b5/2-P-b4/2c6/2b4/2 [e0/4b4/4-H-]b5/4-P-b4/2c6/2b4/2 [e0/4b4/4-H-]b5/4-P-b4/2c6/2c4/2  
-|f0b0/2[c4/2a4/2] f0/2[c2/2a2/2]f0/2[c2/4-S-a2/4-S-][c4/4a4/4] f0b0/2[c4/2a4/2] f0/2[c2/2a2/2]f0/2[c1/2a0/2] 
+|"E(4)"  fxd4/4-S-dx/4bx/2 cx/2dx/2b4/2dx/2 "B7/E"  [fx/2b2/2]dx/2cx/2bx/2 dx/2cx/2b0/2cx/2
+|"E(4)"  fxd4/4-S-dx/4bx/2 cx/2dx/2b4/2dx/2 "B7/E"  [f0/2b2/2]d4/4-S-d6/4b4/2d6/4-S-d7/4 b5/2d7/4-S-d9/4b7
+|"A"  e0/2a5/2-P-a4/2b7/2 b5/2-P-b4/2c6/2b4/2 [e0/4b4/4-H-]b5/4-P-b4/2c6/2b4/2 [e0/4b4/4-H-]b5/4-P-b4/2c6/2c4/2  
+|"E" f0b0/2[c4/2a4/2] f0/2[c2/2a2/2]f0/2[c2/4-S-a2/4-S-][c4/4a4/4] "E" f0b0/2[c4/2a4/2] f0/2[c2/2a2/2]f0/2[c2/4-S-a2/4-S-][c4/4a4/4]
+|"A"  e0/2a5/2-P-a4/2b7/2 b5/2-P-b4/2c6/2b4/2 [e0/4b4/4-H-]b5/4-P-b4/2c6/2b4/2 [e0/4b4/4-H-]b5/4-P-b4/2c6/2c4/2  
+|"E" f0b0/2[c4/2a4/2] f0/2[c2/2a2/2]f0/2[c2/4-S-a2/4-S-][c4/4a4/4] "E" f0b0/2[c4/2a4/2] f0/2[c2/2a2/2]f0/2[c1/2a0/2] 
 |"Amaj7add13" [ex*3/4cx*3/4]b5/4ax/2bx/2 ex/2ax/2ex/2cx/2 ex/2axbx/2 ex/2ax/2ex/2cx/2 
 |"Emaj7/#G" [fxbx]cx/2ax/2 fx/2bx/2-S-b6/2c6/2 "C#" ex/2cx/2bx/2e0/2 cx/2bx/2fx/2cx/2
 |"F#m7(1)" [fxax]cx/2bx/2 -bx/2ax/2fx/2cx/2 "A/B(1)" excx/2bx/2-S- b4/2c4/2a2/2-P-ax/2
-|""  f0d4/4-S-d6/4b5/2 c4/2d6/2b4/2d6/2  [f0/2b2/2]d4/2c2/2b4/2 d4/2c2/2b0/2c2/2
-|""  f0d4/4-S-d6/4b5/2 c4/2d6/2b4/2d6/2  [f0/2b2/2]d4/4-S-d6/4b4/2d6/4-S-d7/4 b5/2d7/4-S-d9/4b9
+|"E(4)"  fxd4/4-S-dx/4bx/2 cx/2dx/2b4/2dx/2 "B7/E"  [fx/2b2/2]dx/2cx/2bx/2 dx/2cx/2b0/2cx/2
+|"E(4)"  fxd4/4-S-dx/4bx/2 cx/2dx/2b4/2dx/2 "B7/E"  [fx/2b2/2]dx/4-S-d6/4bx/2d6/4-S-d7/4 b5/2d7/4-S-d9/4b9
 |"Aadd11+" [exax]bx/2cx/2 -cx/2axbx/2 ex/2cxax/2 -ax/2bx/2ex 
 |"Emaj7/#G" [fxbx]cx/2ax/2 -ax/2bx/2fx/2cx/2 fxcx/2ax/2 -ax/2bx/2fx
 |"F#m7(1)" [fxbx]cx/2ax/2 -ax/2bx/2fx/2cx/2  "A/B(1)" [exbx]cx/2ax/2 -ax/2bx/2ex/2cx/2 
 |"Esus4"[fx/2ax/2]bx/2cx "F#madd9" [fx/2ax/2]bx/2cx "G#m7(1)" [fx/2bx/2]cx/2dx "C#m7" ex/2[cx*3/2bx*3/2]
 |"Aadd11+" [exax]bx/2cx/2 -cx/2axbx/2 z[exax] cx/2ax*3/2
 |"Emaj7/#G" [fxbx]cx/2ax/2 fx/2bx/2-S-b6/2c6/2 "C#" excx/2b7/2 -b7/2cx/2fx
-|"F#m7(1)" fxcx/2bx/2 -bx/2ax/2fx/2cx/2 "Am/#F(1)" [fxbx]cx/2ax/2 -ax/2bx/2fx/2cx/2
+|"F#m7(1)" fxcx/2bx/2 -bx/2ax/2fx/2cx/2 "Am/#F(1)" fxcx/2bx/2 -bx/2ax/2fx/2cx/2
 |"A/B(1)" excx/2bx/2 -bx/2ax/2ex/2cx/2  [cx/2-S-bx/2-S-][c4*3/2b4*3/2] "A/B" B[ex*2dx*2cx*2bx*2]
 |"E" [fx*3/2cx*3/2]ex/2 -ex/2dxcx/2 "Eaug" fx*3/2ex/2 -ex/2dxcx/2
 |"E6" fx*3/2ex/2 -ex/2dxcx/2 "E7" fx*3/2dx/2 -dx/2cxbx/2
