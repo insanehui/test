@@ -3,7 +3,7 @@ T: 遇见
 T: 孙燕姿
 M: 4/4
 L: 1/8
-Q: 1/4=90
+Q: 1/4=92
 C: 童话吉他记谱
 K: G
 
@@ -70,7 +70,7 @@ z*4 z*2 b3b0
 |"G." fxdx cxbx "G" [fxcxbxax]b3 a0a2
 |"C." [exax]cx a2ax "D/C." [exax]a0 -a0b3/2b1/2
 |"Bm7" [exbx]dx cxbx ".Em7." [fx*2dx*2cx*2] c2bx
-|"Am7" [exbx]b0 c2cx "Dsus4." [dx*4cx*4bx*4]
+|"Am7" [exbx]b0 c2cx "Dsus4." B[dx*4cx*4bx*4]
 |: "G."fxdx bxcx "D/#F" fxdx bxcx
 |"Em7" fxa3 bxcx [bx*4a3*4]
 |"Cadd9" exdx bxcx "Dsus4" dxcx axbx
@@ -95,8 +95,8 @@ z*4 z*2 b3b0
 |"Dm7" [dxax]cx bx/2-H-b3/2ax "G7" [fxax]dx cxdx
 |"Cm7" ex[dxcxbx] b3bx "F/bE" [e0*3/2cx*3/2bx*3/2][ex/2cx/2bx/2ax/2] -[excxbxax]a8
 |".G." [fx*8cx*8bx*8a7*8] 
-:|2"Ebmaj7" [dxbxax]cx [bxax]cx "F" [fxbxax]cx [bxax]d5
-|"Ebmaj7" [dxbxax]cx [bxax]cx "F" [fxbxax]cx [bxax]d5
+:|2"Ebmaj7" [dxbxax]cx [bxax]cx "F" [fxbxax]cx [bxax]cx
+|"Ebmaj7" [dxbxax]cx [bxax]cx "F" [fxbxax]cx [bxax]cx
 |"Dsus4" [dxbxax]cx [bxax]cx "D"B[dx*4cx*4bx*4ax*4]
 |"Cadd9" exdx bxcx "Dsus4" dxcx axbx
 |"Bm7"exdx bxcx "Em" fxcx [bxax]cx
@@ -105,11 +105,11 @@ z*4 z*2 b3b0
 |"C"excx [bxax]cx "D"dxcx [bxax]cx
 |"G" [fxax]cx [f2a2]cx "Em7"[fxax]cx [dxbx]cx
 |"Cadd9" excx [b1ax]cx "D7sus4" B[dx*2cx*2bx*2ax*2] cx*2
-|".G." [fxcxb1]dx [cxb3-P-]b1 [fx*4dx*4cx*4bx*4]
+|".G." [fxcxb1]dx [cxb3-P-]b1 B[fx*4dx*4cx*4bx*4]
 |z*8
 |z*8
-|"Am7" [exdxbx][d0b0] [e3c2][e2cx] "Dsus4." [dx*2cx*2bx*2] "D7sus4." [dx*2cx*2bx*2]
-|"Gadd9" [fx*8dx*8cx*8bx*8]|
+|"Am7" [exdxbx][d0b0] [e3c2][e2cx] "Dsus4." B[dx*2cx*2bx*2] "D7sus4." B[dx*2cx*2bx*2]
+|"Gadd9" B[fx*8dx*8cx*8bx*8]|
 
 [V:melody1]
 Z8
@@ -155,7 +155,7 @@ w: *向左
 w: *向右 *向前
 |-BC' -C'4 CB,
 w: *看 *爱要
-|A,B, CB, -B,C D2
+|A,B, CB, -B,-C D2
 w: 拐几个弯**才
 |C4 ZG AB
 w: 来 我遇见
@@ -171,6 +171,7 @@ w: *来 *我听见
 w: 风来自地铁和人
 |-E'G -G2 ZC DE
 w: *海 *我排着
+w: ***　~　~　~　~　 　~　~　 　
 |F2 EF ED -DC
 w: 队 拿着爱的*号
 |B,C -C6
