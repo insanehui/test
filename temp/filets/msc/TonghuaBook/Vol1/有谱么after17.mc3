@@ -3,8 +3,8 @@ artist : tcli记谱
 info: 原调1=#C，女生可以夹1品
 timeSign : 4/4
 beat : 1/8
-tempo : 1/4=68
-key : C
+tempo : 1/4=70
+key : '#C'
 tracks : 
   - name: guitar
     format: tab
@@ -36,7 +36,7 @@ patterns :
 =================
 # 可以自动处理减半音之后匹配和弦
 
-<melody> {translate: -1, env: jcx}
+<melody> {translate: 11, env: jcx}
 <guitar> {translate: -1, env: jcx}
 
 <melody> {translate: 24, env: gp5}
@@ -72,17 +72,18 @@ patterns :
 <guitar> %A6
 
 <guitar> <Dm7>[#2#1'#4']b7 [#1'#4']#2 <Dm7/G>[#5.#1'#4']b7 [#1'#4']#5.
-<guitar> <Cmaj7> [#1#51']#5 [#51']#1 <A7> b7.#5 [2'4']b7.
-<guitar> <Dm7>[#2#1'#4']b7 [#1'#4']#2 <Dm7/G>#5.b7 [#1'#4']b7 
+<guitar> <Cmaj7> [#11'4']#5 [1'4']#1 <A7> b7.#5 [2'4']b7.
+<guitar> <Dm7>[#2#1'#4']b7 [#1'#4']#2 <Dm7/G>#5.#2 [#1'b7]#2
 <guitar> <A7>b7.#5 #2'(#52') b7.(#54') b7.#5
 
-<guitar> "Dm7"[412]3 [12](4[12]) "Dm7/G"63 [12]6
-<guitar> "Cmaj7"[512]3 [12]5 <A7sus2> [b7.#51'4']-  <A7> [b7.#52'4']-
+<guitar> <Dm7>[#2#1'#4']b7 [#1'#4'](#2[#1'#4']) <Dm7/G> #5.b7 [#1'#4']#5.
+
+<guitar> <Cmaj7> [#11'4']#5 [1'4']#1  <A7sus2> [b7.#51'4']-  <A7> [b7.#52'4']-
 <guitar> %A25b
 <guitar> %A6
 
 
-<guitar> "Dm7"[412]3 24 "Dm7/G"63 2-
+<guitar> <Dm7>[#2#1'#4']b7 #1'#2 <Dm7/G>#5.b7 #1'-
 <guitar> %A6
 
 #include ./after17简谱.mc3

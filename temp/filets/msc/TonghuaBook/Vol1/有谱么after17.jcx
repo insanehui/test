@@ -4,9 +4,9 @@ T: 陈绮贞
 I: 原调1=#C，女生可以夹1品
 M: 4/4
 L: 1/8
-Q: 1/4=68
+Q: 1/4=70
 C: tcli记谱
-K: C
+K: #C
 
 %%gchord Dm7=1;X,X,0,2(2),1(1),1(1)
 %%gchord Fmaj7=1;X,X,3,2,1,0
@@ -41,67 +41,77 @@ V:melody1 style=jianpu
 |"Dm7"[dx*4cx*4bx*4ax*4] "Dm7/G" [fx*4cx*4bx*4ax*4]
 |"A7"excx b3cx/2bx/2 ex*4
 |"Dm7"[dxbxax]cx [bxax]dx "Dm7/G"[fxbxax]cx [bxax]fx
-|"Cmaj7" [excxbx]cx [cxbx]ex "A7" excx [bxax]ex
-|"Dm7"[dxbxax]cx [bxax]dx "Dm7/G"fxcx [bxax]cx
+|"Cmaj7" [exbxax]cx [bxax]ex "A7" excx [bxax]ex
+|"Dm7"[dxbxax]cx [bxax]dx "Dm7/G"fxdx [bxcx]dx
 |"A7"excx b3cx/2bx/2 excx/2ax/2 excx
-|"Dm7"[dxaxbx]cx [axbx]dx/2[ax/2bx/2] "Dm7/G"fxcx [axbx]fx
-|"Cmaj7"[exaxbx]cx [axbx]ex "A7sus2" [ex*2cx*2bx*2ax*2] "A7" [ex*2cx*2bx*2ax*2]
+|"Dm7"[dxbxax]cx [bxax]dx/2[bx/2ax/2] "Dm7/G" fxcx [bxax]fx
+|"Cmaj7" [exbxax]cx [bxax]ex "A7sus2" [ex*2cx*2bx*2ax*2] "A7" [ex*2cx*2bx*2ax*2]
 |"Dm7"[dx*4cx*4bx*4ax*4] "Dm7/G" [fx*4cx*4bx*4ax*4]
 |"A7"excx b3cx/2bx/2 ex*4
-|"Dm7"[dxaxbx]cx bxdx "Dm7/G"fxcx bx*2
+|"Dm7"[dxbxax]cx bxdx "Dm7/G"fxcx bx*2
 |"A7"excx b3cx/2bx/2 ex*4|
 
 [V:melody1]
-|: ZE/2D/2 ED/2G/2 -GF ED
+|: ZE'/2D'/2 E'D'/2G'/2 -G'F' E'D'
 w: 一步一步走*过昨天
-|DE/2D/2 -DE/2B,/2 -B,4
+|D'E'/2D'/2 -D'E'/2B/2 -B4
 w: 我的孩*子气
-|ZE/2D/2 ED/2G/2 -GF ED
+|ZE'/2D'/2 E'D'/2G'/2 -G'F' E'D'
 w: 我的孩子气*给我勇
 w: 孩子气保护*我的身
-|E8
+|E'8
 w: 气
 w: 体
-|ZE/2D/2 ED/2G/2 -GF ED
+|ZE'/2D'/2 E'D'/2G'/2 -G'F' E'D'
 w: 每天每天电*视里贩
-|DE D/2EB,/2 -B,4
+|D'E' D'/2E'B/2 -B4
 w: 卖新的玩具
-|ZE/2D/2 ED/2G/2 -GF ED
-w: 我的玩具是我的秘
-w: 我的玩具就是我自
-|E6 A,/2B,/2C/2D/2
+|ZE'/2D'/2 E'D'/2G'/2 -G'F' E'D'
+w: 我的玩具是*我的秘
+w: 我的玩具就*是我自
+|E'6 A/2B/2C'/2D'/2
 w: 密 自从那一
 w: 己 自从那一
-|E2 -E3/2D/2 -D3Z/2G,/2
+|E'2 -E'3/2D'/2 -D'3Z/2G/2
 w: 天*起 *我
-|DE/2D/2 -D/2E/2-E/2B,/2 -B,2 A,/2B,/2C/2D/2
+|D'E'/2D'/2 -D'/2E'/2-E'/2B/2 -B2 A/2B/2C'/2D'/2
 w: 自己做*决*定 *自从那一
-|E2 -E3/2D/2 -D3Z/2G,/2
+|E'2 -E'3/2D'/2 -D'3Z/2G/2
 w: 天*起 * 不
-|D/2D/2D/2D/2 DG/2F/2 -FE A,/2B,/2C/2D/2
+|D'/2D'/2D'/2D'/2 D'G'/2F'/2 -F'E' A/2B/2C'/2D'/2
 w: 轻易接受谁的邀*请 自从那一
 w: 在*意谁* 的否*定 自从那一
-|E2 -E3/2D/2 -D3G,
+|E'2 -E'3/2D'/2 -D'3G
 w: 天*起* 听
-|DE/2D/2 -D/2E/2-E/2B,/2 -B,2 ZA,
+|D'E'/2D'/2 -D'/2E'/2-E'/2B/2 -B2 ZA
 w: 我说的*道*理 *When 
-|E3/2D/2 -DC C2 B,/2B,A,/2
+|E'3/2D'/2 -D'C' C'2 B/2BA/2
 w: I am *af-ter se-ven-teen
-|1-A,8 
-:|2-A,6 A,A
+|1-A8 
+:|2-A6 AA'
 w: *When I
-|ZF -F/2DC/2 C2 B,/2B,A,/2
+|ZF' -F'/2D'C'/2 C'2 B/2BA/2
 w: am *a-f-ter se-ven-teen
-|-A,8
-|A3/2B/2 -BC' G3/2A/2 -AB
-|G3/2A/2 -AB D2 E2
-|G3/2E/2 -EC B,3/2C/2 -CD
-|E/2F/2E -E6
-|A3/2B/2 -BC' G3/2A/2 -AB
-|G3/2A/2 -AB D2 E2
-|A3/2F/2 -FD C3/2B,/2 -B,A,
-|E6 ZA,
-|A3/2F/2 -FD C2 B,2
-|A,8|
+|-A8
+|A'3/2B'/2 -B'C'' G'3/2A'/2 -A'B'
+w: 哒哒*哒 哒哒*哒
+|G'3/2A'/2 -A'B' D'2 E'2
+w: 哒哒*哒 哒哒
+|G'3/2E'/2 -E'C' B3/2C'/2 -C'D'
+w: 哒哒*哒 哒哒*哒
+|E'/2-F'/2E' -E'6
+w: 哒*哒
+|A'3/2B'/2 -B'C'' G'3/2A'/2 -A'B'
+w: 哒哒*哒 哒哒*哒
+|G'3/2A'/2 -A'B' D'2 E'2
+w: 哒哒*哒 哒哒
+|A'3/2F'/2 -F'D' C'3/2B/2 -BA
+w: 哒哒*哒 哒哒*哒
+|E'6 ZA
+w: 哒哒
+|A'3/2F'/2 -F'D' C'2 B2
+w: 哒哒*哒 哒哒
+|A8|
+w: 哒
 
   
