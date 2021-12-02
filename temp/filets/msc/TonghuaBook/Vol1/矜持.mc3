@@ -1,0 +1,181 @@
+# 词：许常德
+# 曲：郭子
+title : [矜持, 王菲]
+artist : tcli编谱
+timeSign : 4/4
+beat : 1/8
+key : C
+tempo : 1/4=79
+tracks : 
+  - name: guitar
+    format: tab
+  - name: melody
+    format: jianpu
+    instrument: flute
+    volume: 16
+customChords : 
+patterns : 
+  T : "<C>0- -- -- --"
+  P5 : '[125]3 [12]3 [12]3 [12]3'
+  p5 : '[125]3 [12]3'
+  p6 : '[126]3 [12]3'
+  P6 : '[126]3 [12]3 [12]3 [12]3'
+  B5 : '[1235]- -- [123]- [123]-'
+  P4 : '[124]3 [12]3 [12]3 [12]3'
+  p4 : '[124]3 [12]3'
+  B4 : '[1234]- -- [123]- [123]-'
+  b4 : '[1234]- [123]-'
+  b6 : '[1236]- [123]-'
+  s5 : '[2345]^- [1234]^(^v)'
+  S5 : '[2345]^- [1234]^(^v) (_^v^v) ^(^v)'
+  s6 : '[3456]^- [1234]^(^v)'
+  s4 : '[1234]^- [1234]^(^v)'
+  S4 : '[1234]^- [1234]^(^v) (_^v^v) ^(^v)'
+=================
+<melody> {translate: 12, env: gp5}
+<melody> {key: E}
+
+<guitar> %T
+<melody> 0- -7. 76 65
+w: 我从来不曾
+
+<guitar> %T
+<melody> 44 44 *- 5(-7.)
+w: 抗拒你的*魅力
+
+<guitar> %T
+<melody> -- -- 07. 13
+w: * 虽然你
+
+<guitar> %T
+<melody> 44 43 44 5(-3)
+w: 从来不曾对我着迷
+
+<guitar> %T
+<melody> -- -- 03 76 
+w: * 我总是
+
+<guitar> %T
+<melody> 65 *3 4- 54
+w: 微笑*的看着你
+
+<guitar> %T
+<melody> -- -- 17. 13
+w: * 我的情意
+
+<guitar> %T
+<melody> 43 45 65 67
+w: 总是轻易就洋溢眼
+
+<guitar> %T
+<melody> -4 *- -- --
+w: *底
+
+<guitar> %T
+<melody> 0- -7. 76 65
+w: 我曾经想过
+
+<guitar> %T
+<melody> 44 44 *- 5(-7.)
+w: 在寂寞的*夜里
+
+<guitar> %T
+<melody> -- -- 07. 13
+w: * 你终于
+
+<guitar> %T
+<melody> -- -- -- --
+w: 在意在我的房间里
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+

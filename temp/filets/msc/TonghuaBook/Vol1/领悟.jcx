@@ -46,12 +46,12 @@ V:melody1 style=jianpu
 |-[f3*8c0*8b0*8a3*8]
 |"Csus2"B[ex*4cx*4bx*4ax*4] bx*2 cx*2
 |"F/G"[fx*8ax*8bx*8cx*8]
-|"Csus2"[ax*2bx*2cx*2ex*2] [ax*2bx*2cx*2] [ax*2bx*2cx*2] [ax*2bx*2cx*2]
-|"Fadd9"[ax*2bx*2cx*2dx*2] [ax*2bx*2cx*2] [ax*2bx*2cx*2] [ax*2bx*2cx*2]
+|"Csus2"[ax*4bx*4cx*4ex*4] [ax*2bx*2cx*2] [ax*2bx*2cx*2]
+|"Fadd9"[ax*4bx*4cx*4dx*4] [ax*2bx*2cx*2] [ax*2bx*2cx*2]
 |"Dm7"[ax*2bx*2cx*2dx*2] [ax*2bx*2cx*2] "Em7"[ax*2bx*2cx*2dx*2] [ax*2bx*2cx*2]
 |"Fmaj7"[ax*2bx*2cx*2dx*2] [ax*2bx*2cx*2] "C"[ax*2bx*2cx*2dx*2] [ax*2bx*2cx*2]
 |"Dm7"[ax*2bx*2cx*2dx*2] [ax*2bx*2cx*2] "F/G"[ax*2bx*2cx*2fx*2] [ax*2bx*2cx*2]
-|"Csus2"[ax*2bx*2cx*2dx*2] [ax*2bx*2cx*2] [ax*2bx*2cx*2] [ax*2bx*2cx*2]
+|"Csus2"[ax*4bx*4cx*4dx*4] [ax*2bx*2cx*2] [ax*2bx*2cx*2]
 |"Csus2"[axbxex]cx [axbx]cx [axbx]cx [axbx]cx
 |"Am"[axbxex]cx [axbx]cx [axbx]cx [axbx]cx
 |"Csus2"[axbxex]cx [axbx]cx [axbx]cx [axbx]cx
@@ -67,8 +67,8 @@ V:melody1 style=jianpu
 |"Cadd9"V[bx*2cx*2dx*2ex*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "G/B"V[bx*2cx*2dx*2ex*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
 |"Am"V[bx*2cx*2dx*2ex*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "Am7/G"V[cx*2dx*2ex*2fx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
 |"Fmaj7"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "C"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
-|"Dm7"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "F/G"V[cx*2dx*2ex*2fx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
-|-V[ax*4bx*4cx*4dx*4]
+|"Dm7"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "F/G"B[ax*4bx*4cx*4dx*4ex*4fx*4]
+|-B[ax*8bx*8cx*8dx*8ex*8fx*8]
 |"Fmaj7" [dx*4cx*4bx*4ax*4]  (3[bxa3][bxax][cxb3]  (3[dxbx][cxb3][bxax]
 |"Fsus4/#D" [dxcxbxax]cx b4ax/2b4/4b3/4 "G#" [fx/2cx/2bx/2]b3/2b4/2c3/2 -c3/2bx/2b3/2c0/2
 |[c0/2b1/2a1/2]c3/2[e1/2b1/2]d3/2 -d3*3/2c0/2 [f4/2c3/2]c1/2c0/2d3/2 [e3/2d3/2]c0/2d3
@@ -82,7 +82,7 @@ V:melody1 style=jianpu
 |"Fmaj7"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] -V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "C"V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
 |"Dm7"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "Em7"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
 |"Fmaj7"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "C"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
-|"Dm7"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "F/G"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"Dm7"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "F/G"V[cx*2dx*2ex*2fx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
 |"C"V[bx*2cx*2dx*2ex*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] -V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
 |"Csus2"V[bx*2cx*2dx*2ex*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] -V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
 |"Am"V[bx*2cx*2dx*2ex*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] -V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
@@ -172,7 +172,7 @@ w: 全*部*** 只愿你挣脱
 w: 情的枷*锁 爱的束*缚 
 |E'F'/2E'/2 -E'/2E'/2-D' -D'4
 w: 任意追逐*
-|-D'2 D'3/4D'3/4D'/2
+|-D'6 D'3/4D'3/4D'/2
 w: *别再为
 | (3E'D'C' -C'6
 w: 爱受苦
