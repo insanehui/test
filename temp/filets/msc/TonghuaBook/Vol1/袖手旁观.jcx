@@ -1,0 +1,324 @@
+%MUSE2
+T: 袖手旁观
+T: 齐秦
+M: 4/4
+L: 1/8
+Q: 1/4=86
+C: tcli编谱
+K: C
+
+
+V:guitar0 style=tab bracket=10
+V:melody1 style=jianpu 
+
+[V:guitar0]
+"D"dxcxbxcxaxcxbxcx
+|"D"dxcxbxcxaxcxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"Gm"fxcxbxcxaxcxbxcx
+|"Gm"fxcxbxcxaxcxbxcx
+|"D"dxcxbxcxaxcxbxcx
+|"D"dxcxbxcxaxcxbxcx
+|"D"dxcxbxcxaxcxbxcx
+|"D"dxcxbxcxaxcxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"G"fxcxbxcxaxcxbxcx
+|"Em"fxcxbxcx "A"excxbxcx
+|"D"dxcxbxcxaxcxbxcx
+|"D"dxcxbxcxaxcxbxcx
+|"D"dxcxbxcxaxcxbxcx
+|"D"dxcxbxcxaxcxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"G"fxcxbxcxaxcxbxcx
+|"Em"fxcxbxcx "A"excxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"D"dxcxbxcxaxcxbxcx
+|"D"dxcxbxcxaxcxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"G"fxcxbxcxaxcxbxcx
+|"Em"fxcxbxcxaxcxbxcx
+|"A"excxbxcxaxcxbxcx
+|"A"excxbxcxaxcxbxcx
+|"D"dxcxbxcxaxcxbxcx
+|"F#"fxcxbxcxaxcxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"G"fxcxbxcxaxcxbxcx
+|"F#m"fxcxbxcx "Bm"excxbxcx
+|"Em"fxcxbxcxaxcxbxcx
+|"A"excxbxcxaxcxbxcx
+|"D"dxcxbxcxaxcxbxcx
+|"F#"fxcxbxcxaxcxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"G"fxcxbxcxaxcxbxcx
+|"F#m"fxcxbxcx "Bm"excxbxcx
+|"Em"fxcxbxcxaxcxbxcx
+|"Gm"fxcxbxcxaxcxbxcx
+|"D"dxcxbxcxaxcxbxcx
+|"D"dxcxbxcxaxcxbxcx
+|"D"dxcxbxcxaxcxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"G"fxcxbxcxaxcxbxcx
+|"Em"fxcxbxcx "A"excxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"D"dxcxbxcxaxcxbxcx
+|"D"dxcxbxcxaxcxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"G"fxcxbxcxaxcxbxcx
+|"Em"fxcxbxcxaxcxbxcx
+|"A"excxbxcxaxcxbxcx
+|"A"excxbxcxaxcxbxcx
+|"D"dxcxbxcxaxcxbxcx
+|"F#"fxcxbxcxaxcxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"G"fxcxbxcxaxcxbxcx
+|"F#m"fxcxbxcx "Bm"excxbxcx
+|"Em"fxcxbxcxaxcxbxcx
+|"A"excxbxcxaxcxbxcx
+|"D"dxcxbxcxaxcxbxcx
+|"F#"fxcxbxcxaxcxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"Bm"excxbxcxaxcxbxcx
+|"G"fxcxbxcxaxcxbxcx
+|"F#m"fxcxbxcx "Bm"excxbxcx
+|"Em"fxcxbxcxaxcxbxcx
+|"Gm"fxcxbxcxaxcxbxcx
+|"D"dxcxbxcxaxcxbxcx
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8|
+
+[V:melody1]
+Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z4 D'^C' -^C'/4A3/4E
+w: 寂寞*让人
+|^F8
+w: 盲
+|Z4 D'^C' -^C'/4A3/4E
+w: 思念*让人
+|^F8
+w: 慌
+|Z4 D'^C' D'3/4^F'/4-^F'
+w: 多喝一点
+|B4 -B/4D'3/4^C' D'3/4^F'/4-^F'
+w: 酒 *多吹一些
+|B4 Z/4D'3/4-D'/2^C'/2 -^C'A
+w: 风 能*不*能
+|-AE ^F2 -^F4
+w: *解放
+|Z4 D'3/2^C'/2 -^C'A
+w: 生活有
+|-AE ^F6
+w: *些忙
+|-^F4 D'-D'/4^C'3/4 -^C'/4A3/4-A
+w: *坚*持* 有 
+|E^F -^F4 ZE
+w: 点难* 嗯
+|D4 D'-D'/8^C'3/8-^C'/2 D'^F'
+w: 嗯 闭*上*一只
+|B4 D'-D'/8^C'3/8-^C'/2 D'^F'
+w: 眼 点*上*一根
+|B4 -B/4D'3/4-D'/4^C'3/4 -^C'/4A3/4-A
+w: 烟 *能 *不 *能
+|E^F -^F6
+w: 不管
+|-^F4 Z/4D'3/4-D' ^C'A
+w: * 你*最近
+|-A/4E3/4-E/4^F3/4 -^F6
+w: *好吗
+|Z4 Z/4D'3/4-D'/2^C'/2 -^C'/4A3/4E
+w: 身 *体 *可无
+|^F8
+w: 恙
+|Z4 D'-D'/8^C'3/8-^C'/2 D'^F'
+w: 多*想*不去
+|Z/4B3/4-B -B2 D'^C' D'3/4^F'/4-^F'
+w: 想** 夜夜偏又
+|B4 ZB D'E'
+w: 想真教人
+|^F'6 -^F'-E'
+w: 为*
+|E'6 -E'A
+w: 难*你
+|G'3^F' ^F'3G'
+w: 的脸庞闭
+|G'^F' ^F'E' E'D' ^C'E'
+w: 上眼 睛 就 在我面前
+|E'3D' D'3^C'
+w: 转呀转 我
+|E'D' D'^C' ^C'B BA
+w: 拿什么条件能够把
+|^C'3D' B3B
+w: 你遗忘 除
+|A2 D'D' -D'3^F'
+w: 非我们*从
+|^F'E' E'D' D'B -B2
+w: 一开始 就不曾
+|^F'2 E'2 D'E' -E'A
+w: 爱过对方* 你
+|G'3^F' ^F'3G'
+w: 的近况断
+|G'^F' ^F'E' E'D' ^C'E'
+w: 续 从朋友口中传到
+|E'3D' D'3^C'
+w: 我耳畔 我
+|E'-E'/4D'3/4 D'^C' ^C'B BA
+w: 拿*什么条件可以袖
+|^C'3D' -D'/4B3/4-B2B
+w: 手旁*观 *除
+|A2 D'D' -D'3^F'
+w: 非你说*离
+|^F'E' E'D' ^F'E' E'D'
+w: 离开我 你从不曾觉得
+|E'2 D'2 -D'4
+w: 遗憾
+|Z4 D'-D'/4^C'3/4 AE
+w: 生*活有些
+|^F8
+w: 忙
+|Z4 D'-D'/4^C'3/4 -^C'/4A3/4-A/4E3/4
+w: 坚*持*有*点
+|-E/4^F3/4-^F -^F6
+w: 难
+|Z4 D'^C' D'^F'
+w: 闭上一只
+|B4 D'^C' D'^F'
+w: 眼 点上一根
+|B4 D'^C' A2
+w: 烟能不能
+|E^F -^F6
+w: 不管
+|-^F4 Z/4D'3/4-D'/2^C'/2 -^C'/2A/2-A
+w: *你*最*近
+|E^F -^F6
+w: 好吗
+|Z4 D'-D'/4^C'3/4 -^C'/4A3/4-A/4E3/4
+w: 身*体*可*无
+|-E/4^F3/4-^F -^F6
+w: *恙 
+|Z4 D'^C' D'^F'
+w: 多想不去
+|B4 D'^C' D'^F'
+w: 想 夜夜偏又
+|B4 ZB D'E'
+w: 想真教人为难
+|^F'6 -^F'-E'
+w: 为*
+|E'6 -E'A
+w: 难*你
+|G'3^F' ^F'3G'
+w: 的脸庞闭
+|G'^F' ^F'E' E'D' ^C'E'
+w: 上眼 睛 就 在我面前
+|E'3D' D'3^C'
+w: 转呀转 我
+|E'D' D'^C' ^C'B BA
+w: 拿什么条件能够把
+|^C'3D' B3B
+w: 你遗忘 除
+|A2 D'D' -D'3^F'
+w: 非我们*从
+|^F'E' E'D' D'B -B2
+w: 一开始 就不曾
+|^F'2 E'2 D'E' -E'A
+w: 爱过对方* 你
+|G'3^F' ^F'3G'
+w: 的近况断
+|G'^F' ^F'E' E'D' ^C'E'
+w: 续 从朋友口中传到
+|E'3D' D'3^C'
+w: 我耳畔 我
+|E'3/2D'/2 D'^C' ^C'B BA
+w: 拿什么条件可以袖
+|^C'3D' B3B
+w: 手旁观 除
+|A2 D'D' -D'3^F'
+w: 非你说*离
+|^F'E' E'D' ^F'E' E'D'
+w: 离开我 你从不曾觉得
+|-D'2 -D'/4E'3/4-E' -E'D'3
+w: **遗**憾
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8|
+w:
+
+  
