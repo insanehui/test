@@ -7,60 +7,84 @@ Q: 1/4=86
 C: tcli编谱
 K: C
 
+%%gchord D=1;X,X,0,2,3,2
+%%gchord Bm=2;X,1,3,3,2,1
+%%gchord Gm=3;1,3,3,1,1,1
+%%gchord G=1;3,2,0,0,0,3
+%%gchord A7=1;X,0,2,0,2,0
+%%gchord Bm7=2;X,1,3,1,2,1
+%%gchord Bm6=1;X,2,0,1,3,2
+%%gchord Em7=1;0,2,0,0,0,0
+%%gchord Emadd9=1;0,2,4,0,0,0
+%%gchord G/A=1;X,0,0,0,0,3
+%%gchord D/A=1;X,0,4,2,3,2
+%%gchord Em/A=1;X,0,2,0,0,0
+%%gchord Fmaj7=1;1,3,2,2,1,0
+%%gchord Cm=3;X,1,3,3,2,1
 
 V:guitar0 style=tab bracket=10
 V:melody1 style=jianpu 
 
 [V:guitar0]
-"D"dxcxbxcxaxcxbxcx
-|"D"dxcxbxcxaxcxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"Gm"fxcxbxcxaxcxbxcx
-|"Gm"fxcxbxcxaxcxbxcx
-|"D"dxcxbxcxaxcxbxcx
-|"D"dxcxbxcxaxcxbxcx
-|"D"dxcxbxcxaxcxbxcx
-|"D"dxcxbxcxaxcxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"G"fxcxbxcxaxcxbxcx
-|"Em"fxcxbxcx "A"excxbxcx
-|"D"dxcxbxcxaxcxbxcx
-|"D"dxcxbxcxaxcxbxcx
-|"D"dxcxbxcxaxcxbxcx
-|"D"dxcxbxcxaxcxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"G"fxcxbxcxaxcxbxcx
-|"Em"fxcxbxcx "A"excxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"D"dxcxbxcxaxcxbxcx
-|"D"dxcxbxcxaxcxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"G"fxcxbxcxaxcxbxcx
-|"Em"fxcxbxcxaxcxbxcx
-|"A"excxbxcxaxcxbxcx
-|"A"excxbxcxaxcxbxcx
-|"D"dxcxbxcxaxcxbxcx
-|"F#"fxcxbxcxaxcxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"G"fxcxbxcxaxcxbxcx
-|"F#m"fxcxbxcx "Bm"excxbxcx
-|"Em"fxcxbxcxaxcxbxcx
-|"A"excxbxcxaxcxbxcx
-|"D"dxcxbxcxaxcxbxcx
-|"F#"fxcxbxcxaxcxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"G"fxcxbxcxaxcxbxcx
-|"F#m"fxcxbxcx "Bm"excxbxcx
-|"Em"fxcxbxcxaxcxbxcx
-|"Gm"fxcxbxcxaxcxbxcx
-|"D"dxcxbxcxaxcxbxcx
+"D"dxcx b5a5 axdx b5a5
+|"D" axcx b5a5 ax*4
+|"Bm" exdx b5a5 axex b5a5
+|"Bm" axcx b5a5 ax*4
+|"Gm" fxex d7bx cxd7 exa5
+|"Gm" axex d7bx cxd7 [dxbx][exb5]
+|"D"[dxax]cx b5a5 axdx b5a5
+|"D" axcx b5a5 ax*4
+|"D"dxcx b5a5 axdx b5a5
+|"D" axcx b5a5 ax*4
+|"Bm" exdx b5a5 axex b5a5
+|"Bm" axcx b5a5 ax*4
+|"G" fxdx cxc2 b3c2 cxf2
+|"Em"f0e2 d4c0 "A7" [ex*4dx*4cx*4bx*4]
+|"D"dxcx b5a5 axdx b5a5
+|"D" axcx b5a5 ax*3/2"A7"[ex/2dx/2cx/2] -[ex*2dx*2cx*2]
+|"D"dxcx b5a5 axdx b5a5
+|"D" axcx b5a5 ax*4
+|"Bm7" [exax]dx cxax [exb5]dx cxb5
+|"Bm7" [exbx]dx cxbx e0dx cxbx
+|"G" fxdx cxbx axdx fxf2
+|"Em7" fxex cxdx "A7" [ex*4dx*4cx*4bx*4]
+|"Bm7" exdx bxa5 axex b2bx
+|"Bm6" [ex*2cx*2bx*2ax*2] cxc2 b0*4
+|"D"dxcx b5a5 axdx b5a5
+|"D" axcx b5a5 ax*4
+|"Bm7" [exax]dx cxax [exb5]dx cxb5
+|"Bm7" [exbx]dx cxbx e0dx cxbx
+|"G" fxdx cxbx axbx cxf2
+|"Emadd9" fxex dxcx axcx bxcx
+|"G/A" exdx cxbx axcx bxcx
+|"A7" exdx cxbx axcx bxcx
+|"D"dxcx bxax cxbx axcx
+|"F#"fxex dxcx axcx bxax
+|"Bm"exdx cxbx axcx bxax
+|"D/A"exdx cxbx axcx bxax
+|"G"fxdx cxbx axcx bxax
+|"F#m"fxcx bxax "Bm"exdx cxbx
+|"Em"fxdx cxbx axcx bxax
+|"Em/A"exdx cxbx [ex*2dx*2cx*2bx*2] "A"[ex*2dx*2cx*2bx*2]
+|"D"dxcx bxax cxbx axcx
+|"F#"fxex dxcx axcx bxax
+|"Bm"exdx cxbx axcx bxax
+|"D/A"exdx cxbx axcx bxax
+|"G"fxdx cxbx axcx bxax
+|"F#m"fxcx bxax "Bm"exdx cxbx
+|"Em"fxcx bxax "Em/A"exdx cxbx
+|"G" fxdx c2c3 b1c2 c3b1
+|"G" [fxc2]c3 b1c2 c3b1 c2cx
+|"Fmaj7" fxex dxcx bxdx cxbx
+|"Fmaj7" [d3ax]cx bxax [d3a5]bx axa5
+|"Emadd9" fxex dxcx c2ex dxcx
+|"Emadd9" [fxc2]ex dxcx bxdx cxbx
+|"Cm" exdx cxb3 bxdx cxb3
+|"Cm" [exbx]dx cxb3 bxax b6bx
+|"G" [fxb3]dx c2b1 [fxcxb1]bx [dxc2]cx
+|"D" [dxcxbx]cx b1a0 a3ax a0bx
+|"D" [dxcxbx]a0 axa3 B[dx*4cx*4bx*4a5*4]
+|-B[d0*8c2*8b3*8a5*8]
 |"D"dxcxbxcxaxcxbxcx
 |"D"dxcxbxcxaxcxbxcx
 |"Bm"excxbxcxaxcxbxcx
@@ -212,6 +236,26 @@ w: 非你说*离
 w: 离开我 你从不曾觉得
 |E'2 D'2 -D'4
 w: 遗憾
+|Z8
+w:
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w:
 |Z4 D'-D'/4^C'3/4 AE
 w: 生*活有些
 |^F8
