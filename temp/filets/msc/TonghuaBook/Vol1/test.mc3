@@ -1,14 +1,10 @@
 customChords:
-  'G#dim' : 4;1,2,3,1,3,1
-  'G' : 3;1,3,3,2,1,1
-  '　' : 7;X,4,3,1,2,1
-  '　　' : 2;X,X,1,3,4,2
-  '　　　' : 7;1,3,3,1,1,1
 tracks : 
   - name: guitar
     format: tab
+  - name: melody
+    format: jianpu
 =================
 <guitar> "F"1234
-<guitar> "C"[1234]^(^v)i0
-<guitar> "Dm7"[1234]^^i(0)"Bb"(v)
-<guitar> "Bb"(_[1234]^v) (_^v) (iv) 0
+<melody> [12]- -- 
+w: 一

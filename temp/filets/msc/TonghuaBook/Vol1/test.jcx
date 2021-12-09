@@ -4,18 +4,15 @@ M: 4/4
 L: 1/4
 K: C
 
-%%gchord G#dim=4;1,2,3,1,3,1
-%%gchord G=3;1,3,3,2,1,1
-%%gchord 　=7;X,4,3,1,2,1
-%%gchord 　　=2;X,X,1,3,4,2
-%%gchord 　　　=7;1,3,3,1,1,1
 
 V:guitar0 style=tab bracket=10
+V:melody1 style=jianpu 
 
 [V:guitar0]
-"F"axbxcxdx
-|"C"V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]!STACC!V[axbxcxdx]z
-|"Dm7"V[axbxcxdx]V[axbxcxdx]!STACC!V[axbxcxdx]z/2"Bb"U[ax/2bx/2cx/2dx/2]
-|"Bb"-V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] -V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] !STACC!V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] z|
+"F"axbxcxdx|
+
+[V:melody1]
+[C4D4]|
+w: 匯
 
   
