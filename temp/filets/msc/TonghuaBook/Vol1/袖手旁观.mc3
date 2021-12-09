@@ -28,6 +28,7 @@ customChords :
   'Em/A' : 1;X,0,2,0,0,0
   'Fmaj7' : 1;1,3,2,2,1,0
   'Cm' : 3;X,1,3,3,2,1
+  'D/#F' : 1;2(1),0,0,2(2),3(4),2(3)
 patterns : 
   T : "<C>0- -- -- --"
   P1_5 : '54 32 13 21'
@@ -37,6 +38,20 @@ patterns :
   P4 : '43231323'
   P5 : '53231323'
   P6 : '63231323'
+  P2_4 : '[1234]^-[123]^^ [1234]^-[123]^(^v)'
+  P2_5 : '[2345]^-[123]^^ [2345]^-[123]^(^v)'
+  P2_6 : '[3456]^-[123]^^ [3456]^-[123]^(^v)'
+  P3_5 : '[2345]^-[123]^^'
+  P4_5 : '[2345]^- [123]^(^v)'
+  P4_6 : '[3456]^- [123]^(^v)'
+  P5_6 : '[3456]^-[123]^^ [3456]^-'
+  P6_6 : '[3456]^([123]^v)'
+  S1 : '"D"%P2_4'
+  S6 : '"Bm"%P2_5'
+  S4 : '"G"%P2_6'
+  S6_3 : '"Bm"%P3_5'
+  S4_5 : '"G"%P5_6'
+  S2_6 : '"Em"%P6_6'
   p6 : '6323'
   p5 : '5323'
   T1 : '"D"%P4'
@@ -158,7 +173,7 @@ w: * 你*最近
 <melody> ((-3)-)((*4)-) *- -- --
 w: *好吗
 
-<guitar> <D> 4'6 3'6' 4'- --
+<guitar> <D> [24']6 3'6' 4'6 3'6'
 <melody> 0- -- ((02')-)(*1') ((*6)-)3
 w: 身 *体 *可无
 
@@ -178,7 +193,7 @@ w: 想** 夜夜偏又
 <melody> 7- -- 07 2'3'
 w: 想真教人
 
-<guitar> <G/A> 6.2 57 5'5 75
+<guitar> <Em/A> 6.3 57 5'5 75
 <melody> 4'- -- -- *_3'
 w: 为*
 
@@ -214,7 +229,7 @@ w: 非我们*从
 <melody> 4'3' 3'2' 2'7 *-
 w: 一开始 就不曾
 
-<guitar> "Em/A"%p1_5 [5432]- "A"[5432]-
+<guitar> "Em/A"%p1_5 [5432]- "A7"[5432]-
 <melody> 4'- 3'- 2'3' *6
 w: 爱过对方* 你
 
@@ -294,215 +309,176 @@ w:
 <melody> 0- -- 2'((*1')-) 63
 w: 生*活有些
 
-<guitar> %T1
+<guitar> %S1
 <melody> 4- -- -- --
 w: 忙
 
-<guitar> %T1
+<guitar> %S1
 <melody> 0- -- 2'((*1')-) ((*6)-)((*3)-)
 w: 坚*持*有*点
 
-<guitar> %T6
+<guitar> %S6
 <melody> ((*4)-)* *- -- --
 w: 难
 
-<guitar> %T6
+<guitar> %S6_3 "D/A"%P4_5
 <melody> 0- -- 2'1' 2'4'
 w: 闭上一只
 
-<guitar> %T4
+<guitar> %S4_5 "D/#F"%P6_6
 <melody> 7- -- 2'1' 2'4'
 w: 眼 点上一根
 
-<guitar> %t2 %t5
+<guitar> "Em"%P4_6 "G/A"%P4_5
 <melody> 7- -- 2'1' 6-
 w: 烟能不能
 
-<guitar> %T6
+<guitar> "Bm"%P2_5
 <melody> 34 *- -- --
 w: 不管
 
-<guitar> %T6
+<guitar> "Bm6"%P2_5
 <melody> -- -- ((02')-)(*1') (*6)*
 w: *你*最*近
 
-<guitar> %T1
+<guitar> "D"%P2_4
 <melody> 34 *- -- --
 w: 好吗
 
-<guitar> %T1
+<guitar> "D"%P2_4
 <melody> 0- -- 2'((*1')-) ((*6)-)((*3)-)
 w: 身*体*可*无
 
-<guitar> %T6
+<guitar> "Bm"%P2_5
 <melody> ((*4)-)* *- -- --
 w: *恙 
 
-<guitar> %T6
+<guitar> "Bm"%P3_5 "D/A"%P4_5
 <melody> 0- -- 2'1' 2'4'
 w: 多想不去
 
-<guitar> %T4
+<guitar> "G"%P2_5
 <melody> 7- -- 2'1' 2'4'
 w: 想 夜夜偏又
 
-<guitar> %T2
+<guitar> "Em"%P2_6
 <melody> 7- -- 07 2'3'
 w: 想真教人为难
 
-<guitar> %T5
+<guitar> "Em/A"%P2_5
 <melody> 4'- -- -- *_3'
 w: 为*
 
-<guitar> %T5
+<guitar> "A"%P2_5
 <melody> 3'- -- -- *6
 w: 难*你
 
-<guitar> %T1
+<guitar> "D"%P2_4
 <melody> 5'- -4' 4'- -5'
 w: 的脸庞闭
 
-<guitar> %T3M
+<guitar> "F#"%P2_6
 <melody> 5'4' 4'3' 3'2' 1'3'
 w: 上眼 睛 就 在我面前
 
-<guitar> %T6
+<guitar> "Bm"%P2_5
 <melody> 3'- -2' 2'- -1'
 w: 转呀转 我
 
-<guitar> %T6
+<guitar> "D/A"%P2_5
 <melody> 3'2' 2'1' 1'7 76
 w: 拿什么条件能够把
 
-<guitar> %T4
+<guitar> "G"%P2_6
 <melody> 1'- -2' 7- -7
 w: 你遗忘 除
 
-<guitar> %t3 %t6
+<guitar> "F#m"%P4_6 "Bm"%P4_5
 <melody> 6- 2'2' *- -4'
 w: 非我们*从
 
-<guitar> %T2
+<guitar> "Em"%P2_6
 <melody> 4'3' 3'2' 2'7 *-
 w: 一开始 就不曾
 
-<guitar> %T5
+<guitar> "Em/A"%P4_5 "A7"%P4_5
 <melody> 4'- 3'- 2'3' *6
 w: 爱过对方* 你
 
-<guitar> %T1
+<guitar> "D"%P2_4
 <melody> 5'- -4' 4'- -5'
 w: 的近况断
 
-<guitar> %T3M
+<guitar> "F#"%P2_6
 <melody> 5'4' 4'3' 3'2' 1'3'
 w: 续 从朋友口中传到
 
-<guitar> %T6
+<guitar> "Bm"%P2_5
 <melody> 3'- -2' 2'- -1'
 w: 我耳畔 我
 
-<guitar> %T6
+<guitar> "D/A"%P2_5
 <melody> 3'(-2') 2'1' 1'7 76
 w: 拿什么条件可以袖
 
-<guitar> %T4
+<guitar> "G"%P2_6
 <melody> 1'- -2' 7- -7
 w: 手旁观 除
 
-<guitar> %t3 %t6
+<guitar> "F#m"%P4_6 "Bm"%P4_5
 <melody> 6- 2'2' *- -4'
 w: 非你说*离
 
-<guitar> %T2
+<guitar> "Em"%P4_6 "Em/A"[5432]$- --
 <melody> 4'3' 3'2' 4'3' 3'2'
 w: 离开我 你从不曾觉得
 
-<guitar> %T4m
+<guitar> <Gm> 5.2 5b7 2'5 3'5
 <melody> -- ((*3')-)* *2' --
 w: **遗**憾
 
-<guitar> %T1
+<guitar> <Gm> [5.5']5 b72' [5.4']5 b73'
 <melody> 0- -- -- --
 w: 
 
-<guitar> %T
+#<guitar> <D> [262'4']6 2'6 26 2'(5's6')
+<guitar> <D>[24']6 3'6' 4'2 6(5's6')
 <melody> 0- -- -- --
 w: 
 
-<guitar> %T
+<guitar> <D> [26']6 2'6 2- 62'
 <melody> 0- -- -- --
 w: 
 
-<guitar> %T
+<guitar> <Gm> [5.b7']5 b75 2'5 3'5
 <melody> 0- -- -- --
 w: 
 
-<guitar> %T
+<guitar> <G > [5.b75']2 52 [64']2 [53']2
 <melody> 0- -- -- --
 w: 
 
-<guitar> %T
+<guitar> <D>[24']6 3'6' 4'2 3'6'
 <melody> 0- -- -- --
 w: 
 
-<guitar> %T
+<guitar> <D> 4'6 3'6' 4'- -(62')
 <melody> 0- -- -- --
 w: 
 
-<guitar> %T
+<guitar> <Gm> [5.b7']2 b75 2'5 3'5
 <melody> 0- -- -- --
 w: 
 
-<guitar> %T
+<guitar> <Gm> [5.5']5 b72' [5.2'b7']$- --
 <melody> 0- -- -- --
 w: 
 
-<guitar> %T
+<guitar> <D > [262'3']$h4' *- -- --
 <melody> 0- -- -- --
 w: 
 
-<guitar> %T
-<melody> 0- -- -- --
-w: 
-
-<guitar> %T
-<melody> 0- -- -- --
-w: 
-
-<guitar> %T
-<melody> 0- -- -- --
-w: 
-
-<guitar> %T
-<melody> 0- -- -- --
-w: 
-
-<guitar> %T
-<melody> 0- -- -- --
-w: 
-
-<guitar> %T
-<melody> 0- -- -- --
-w: 
-
-<guitar> %T
-<melody> 0- -- -- --
-w: 
-
-<guitar> %T
-<melody> 0- -- -- --
-w: 
-
-<guitar> %T
-<melody> 0- -- -- --
-w: 
-
-<guitar> %T
-<melody> 0- -- -- --
-w: 
-
-<guitar> %T
+<guitar> -- -- -- --
 <melody> 0- -- -- --
 w: 
 

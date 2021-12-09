@@ -21,6 +21,7 @@ K: C
 %%gchord Em/A=1;X,0,2,0,0,0
 %%gchord Fmaj7=1;1,3,2,2,1,0
 %%gchord Cm=3;X,1,3,3,2,1
+%%gchord D/#F=1;2(1),0,0,2(2),3(4),2(3)
 
 V:guitar0 style=tab bracket=10
 V:melody1 style=jianpu 
@@ -51,12 +52,12 @@ V:melody1 style=jianpu
 |"Bm7" exdx bxa5 axex b2bx
 |"Bm6" [ex*2cx*2bx*2ax*2] cxc2 b0*4
 |"D"dxcx b5a5 axdx b5a5
-|"D" axcx b5a5 ax*4
+|"D" [dxax]cx b5a5 axcx b5a5
 |"Bm7" [exax]dx cxax [exb5]dx cxb5
 |"Bm7" [exbx]dx cxbx e0dx cxbx
 |"G" fxdx cxbx axbx cxf2
 |"Emadd9" fxex dxcx axcx bxcx
-|"G/A" exdx cxbx axcx bxcx
+|"Em/A" exdx cxbx a3cx bxcx
 |"A7" exdx cxbx axcx bxcx
 |"D"dxcx bxax cxbx axcx
 |"F#"fxex dxcx axcx bxax
@@ -65,7 +66,7 @@ V:melody1 style=jianpu
 |"G"fxdx cxbx axcx bxax
 |"F#m"fxcx bxax "Bm"exdx cxbx
 |"Em"fxdx cxbx axcx bxax
-|"Em/A"exdx cxbx [ex*2dx*2cx*2bx*2] "A"[ex*2dx*2cx*2bx*2]
+|"Em/A"exdx cxbx [ex*2dx*2cx*2bx*2] "A7"[ex*2dx*2cx*2bx*2]
 |"D"dxcx bxax cxbx axcx
 |"F#"fxex dxcx axcx bxax
 |"Bm"exdx cxbx axcx bxax
@@ -85,59 +86,49 @@ V:melody1 style=jianpu
 |"D" [dxcxbx]cx b1a0 a3ax a0bx
 |"D" [dxcxbx]a0 axa3 B[dx*4cx*4bx*4a5*4]
 |-B[d0*8c2*8b3*8a5*8]
-|"D"dxcxbxcxaxcxbxcx
-|"D"dxcxbxcxaxcxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"G"fxcxbxcxaxcxbxcx
-|"Em"fxcxbxcx "A"excxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"D"dxcxbxcxaxcxbxcx
-|"D"dxcxbxcxaxcxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"G"fxcxbxcxaxcxbxcx
-|"Em"fxcxbxcxaxcxbxcx
-|"A"excxbxcxaxcxbxcx
-|"A"excxbxcxaxcxbxcx
-|"D"dxcxbxcxaxcxbxcx
-|"F#"fxcxbxcxaxcxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"G"fxcxbxcxaxcxbxcx
-|"F#m"fxcxbxcx "Bm"excxbxcx
-|"Em"fxcxbxcxaxcxbxcx
-|"A"excxbxcxaxcxbxcx
-|"D"dxcxbxcxaxcxbxcx
-|"F#"fxcxbxcxaxcxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"Bm"excxbxcxaxcxbxcx
-|"G"fxcxbxcxaxcxbxcx
-|"F#m"fxcxbxcx "Bm"excxbxcx
-|"Em"fxcxbxcxaxcxbxcx
-|"Gm"fxcxbxcxaxcxbxcx
-|"D"dxcxbxcxaxcxbxcx
-|"C"z*8
-|"C"z*8
-|"C"z*8
-|"C"z*8
-|"C"z*8
-|"C"z*8
-|"C"z*8
-|"C"z*8
-|"C"z*8
-|"C"z*8
-|"C"z*8
-|"C"z*8
-|"C"z*8
-|"C"z*8
-|"C"z*8
-|"C"z*8
-|"C"z*8
-|"C"z*8
-|"C"z*8
-|"C"z*8|
+|"D"V[ax*2bx*2cx*2dx*2]V[axbxcx]V[axbxcx] V[ax*2bx*2cx*2dx*2]V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"D"V[ax*2bx*2cx*2dx*2]V[axbxcx]V[axbxcx] V[ax*2bx*2cx*2dx*2]V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"Bm"V[bx*2cx*2dx*2ex*2]V[axbxcx]V[axbxcx] V[bx*2cx*2dx*2ex*2]V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"Bm"V[bx*2cx*2dx*2ex*2]V[axbxcx]V[axbxcx] "D/A"V[bx*2cx*2dx*2ex*2] V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"G"V[cx*2dx*2ex*2fx*2]V[axbxcx]V[axbxcx] V[cx*2dx*2ex*2fx*2] "D/#F"V[cxdxexfx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"Em"V[cx*2dx*2ex*2fx*2] V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2] "G/A"V[bx*2cx*2dx*2ex*2] V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"Bm"V[bx*2cx*2dx*2ex*2]V[axbxcx]V[axbxcx] V[bx*2cx*2dx*2ex*2]V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"Bm6"V[bx*2cx*2dx*2ex*2]V[axbxcx]V[axbxcx] V[bx*2cx*2dx*2ex*2]V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"D"V[ax*2bx*2cx*2dx*2]V[axbxcx]V[axbxcx] V[ax*2bx*2cx*2dx*2]V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"D"V[ax*2bx*2cx*2dx*2]V[axbxcx]V[axbxcx] V[ax*2bx*2cx*2dx*2]V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"Bm"V[bx*2cx*2dx*2ex*2]V[axbxcx]V[axbxcx] V[bx*2cx*2dx*2ex*2]V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"Bm"V[bx*2cx*2dx*2ex*2]V[axbxcx]V[axbxcx] "D/A"V[bx*2cx*2dx*2ex*2] V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"G"V[bx*2cx*2dx*2ex*2]V[axbxcx]V[axbxcx] V[bx*2cx*2dx*2ex*2]V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"Em"V[cx*2dx*2ex*2fx*2]V[axbxcx]V[axbxcx] V[cx*2dx*2ex*2fx*2]V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"Em/A"V[bx*2cx*2dx*2ex*2]V[axbxcx]V[axbxcx] V[bx*2cx*2dx*2ex*2]V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"A"V[bx*2cx*2dx*2ex*2]V[axbxcx]V[axbxcx] V[bx*2cx*2dx*2ex*2]V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"D"V[ax*2bx*2cx*2dx*2]V[axbxcx]V[axbxcx] V[ax*2bx*2cx*2dx*2]V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"F#"V[cx*2dx*2ex*2fx*2]V[axbxcx]V[axbxcx] V[cx*2dx*2ex*2fx*2]V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"Bm"V[bx*2cx*2dx*2ex*2]V[axbxcx]V[axbxcx] V[bx*2cx*2dx*2ex*2]V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"D/A"V[bx*2cx*2dx*2ex*2]V[axbxcx]V[axbxcx] V[bx*2cx*2dx*2ex*2]V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"G"V[cx*2dx*2ex*2fx*2]V[axbxcx]V[axbxcx] V[cx*2dx*2ex*2fx*2]V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"F#m"V[cx*2dx*2ex*2fx*2] V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2] "Bm"V[bx*2cx*2dx*2ex*2] V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"Em"V[cx*2dx*2ex*2fx*2]V[axbxcx]V[axbxcx] V[cx*2dx*2ex*2fx*2]V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"Em/A"V[bx*2cx*2dx*2ex*2] V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2] "A7"V[bx*2cx*2dx*2ex*2] V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"D"V[ax*2bx*2cx*2dx*2]V[axbxcx]V[axbxcx] V[ax*2bx*2cx*2dx*2]V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"F#"V[cx*2dx*2ex*2fx*2]V[axbxcx]V[axbxcx] V[cx*2dx*2ex*2fx*2]V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"Bm"V[bx*2cx*2dx*2ex*2]V[axbxcx]V[axbxcx] V[bx*2cx*2dx*2ex*2]V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"D/A"V[bx*2cx*2dx*2ex*2]V[axbxcx]V[axbxcx] V[bx*2cx*2dx*2ex*2]V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"G"V[cx*2dx*2ex*2fx*2]V[axbxcx]V[axbxcx] V[cx*2dx*2ex*2fx*2]V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"F#m"V[cx*2dx*2ex*2fx*2] V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2] "Bm"V[bx*2cx*2dx*2ex*2] V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"Em"V[cx*2dx*2ex*2fx*2] V[axbxcx]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2] "Em/A"B[ex*4dx*4cx*4bx*4]
+|"Gm" fxex dxcx bxdx b5dx
+|"Gm" [fxax]dx cxbx [fxb7]dx cxb5
+|"D"[dxax]cx b5a5 axdx cxa3/2-S-a5/2
+|"D" [dxa5]cx bxcx dx*2 cxbx
+|"Gm" [fxa6]dx cxdx bxdx b5dx
+|"G" [fxc3ax]dx cxdx [c2a2]dx [cxa0]dx
+|"D"[dxax]cx b5a5 axdx b5a5
+|"D" axcx b5a5 ax*3cx/2bx/2
+|"Gm" [fxa6]ex cxdx bxdx b5dx
+|"Gm" [fxax]dx cxbx B[fx*4bx*4a6*4]
+|"D" B[dxcxbxa0]-H-ax -ax*6
+|-a2*8|
 
 [V:melody1]
 Z8
@@ -322,26 +313,6 @@ w: 非你说*离
 w: 离开我 你从不曾觉得
 |-D'2 -D'/4E'3/4-E' -E'D'3
 w: **遗**憾
-|Z8
-w: 
-|Z8
-w: 
-|Z8
-w: 
-|Z8
-w: 
-|Z8
-w: 
-|Z8
-w: 
-|Z8
-w: 
-|Z8
-w: 
-|Z8
-w: 
-|Z8
-w: 
 |Z8
 w: 
 |Z8
