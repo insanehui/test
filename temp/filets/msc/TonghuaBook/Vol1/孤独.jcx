@@ -1,0 +1,447 @@
+%MUSE2
+T: 孤独
+T: 宾阳乐队
+M: 4/4
+L: 1/8
+Q: 1/4=133
+C: tcli编谱
+K: C
+
+%%gchord C=1;X,3,2,0,1,0
+%%gchord G=1;3,2,0,0,0,3
+%%gchord Am=1;X,0,2,2,1,0
+%%gchord Am(5)=5;X,0,3,1,1,1
+%%gchord Em=1;0,2,2,0,0,0
+%%gchord F=1;1,3,3,2,1,1
+%%gchord Dm=1;X,X,0,2,3,1
+%%gchord F(8)=8;X,1,3,3,3,1
+%%gchord C(8)=8;1,3,3,2,1,1
+%%gchord Dm(10)=10;X,X,0,1,1,1
+%%gchord G(10)=10;X,1,3,3,3,1
+%%gchord Em(7)=7;X,1,3,3,2,1
+
+V:guitar0 style=tab bracket=10
+V:melody1 style=jianpu 
+
+[V:guitar0]
+z*6 b1/2-S-b5*3/2
+|"C"[ex*2ax*2] dxcx b3*2 [cx*2bx*2]
+|"G"[fx*2ax*2] dxcx [bx*2a1*2] [cx*2a0*2]
+|"Am"[ex*2bx*2] dxcx b0*2 [b0/2cx/2]-H-bx*3/2
+|"Em" [fx*2bx*2] dxcx bx/2-H-b1*3/2 [cx*2bx*2]
+|"F"[fx*2cx*2] dxcx bx*2 [cx/2bx/2]-H-b3*3/2
+|"C" [ex*2bx*2] dx[cxb0] [c2*2bx*2] [cx/2bx/2]-H-b3*3/2
+|"Dm"[dx*2bx*2] cxbx bx/2-S-b5*3/2 [cxbx]b1
+|"G" [fx/2b1/2]-H-b3*3/2 cxbx [b1*2ax*2] [cx/2b3/2]-S-b5*3/2
+|"C"[exax]cx bxcx a3cx [bxa1][axcx]
+|"G" [fxb3]cx bxcx a1cx [a0bx][b3cx]
+|"Am" [exbx]cx bxcx axcx b3bx
+|"Em"[fxbx]cx bxcx [bx/2ax/2]-H-b1*3/2 bxcx
+|"F" [fxcx]dx bxcx axcx bx/2-H-b3*3/2
+|"C"[exbx]dx cxb0 c2dx bx-H-b3
+|"Dm"[dxbx]cx bxcx bx/2-S-b5/2cx bxb1
+|"G" [fx/2b1/2]-H-b3/2cx bxcx axcx b3-P-b1
+|"C"excxbxcxaxcxbxcx
+|"G"fxcxbxcxaxcxbxcx
+|"Am"excxbxcxaxcxbxcx
+|"Em"fxcxbxcxaxcxbxcx
+|"F"fxcxbxcxaxcxbxcx
+|"C"excxbxcxaxcxbxcx
+|"Dm"dxcxbxcxaxcxbxcx
+|"G"fxcxbxcxaxcxbxcx
+|"C"excxbxcxaxcxbxcx
+|"G"fxcxbxcxaxcxbxcx
+|"Am"excxbxcxaxcxbxcx
+|"Em"fxcxbxcxaxcxbxcx
+|"F"fxcxbxcxaxcxbxcx
+|"C"excxbxcxaxcxbxcx
+|"Dm"dxcxbxcxaxcxbxcx
+|"G"fxcxbxcxaxcxbxcx
+|"C"excxbxcxaxcxbxcx
+|"G"fxcxbxcxaxcxbxcx
+|"Am"excxbxcxaxcxbxcx
+|"Am"excxbxcxaxcxbxcx
+|"F"fxcxbxcxaxcxbxcx
+|"G"fxcxbxcxaxcxbxcx
+|"C"excxbxcxaxcxbxcx
+|"C"excxbxcxaxcxbxcx
+|"C"excxbxcxaxcxbxcx
+|"G"fxcxbxcxaxcxbxcx
+|"Am"excxbxcxaxcxbxcx
+|"Em"fxcxbxcxaxcxbxcx
+|"F"fxcxbxcxaxcxbxcx
+|"C"excxbxcxaxcxbxcx
+|"Dm"dxcxbxcxaxcxbxcx
+|"G"fxcxbxcxaxcxbxcx
+|"C"excxbxcxaxcxbxcx
+|"G"fxcxbxcxaxcxbxcx
+|"Am"excxbxcxaxcxbxcx
+|"Em"fxcxbxcxaxcxbxcx
+|"F"fxcxbxcxaxcxbxcx
+|"C"excxbxcxaxcxbxcx
+|"Dm"dxcxbxcxaxcxbxcx
+|"G"fxcxbxcxaxcxbxcx
+|"C" [exax]cx bxcx axcx b3cx
+|"G" [fx/2a0/2]-H-a1/2cx [bxa0]cx b3cx b3-S-a0
+|"Am" [exax]cx bxcx axcx b3bx
+|"Em" [fx/2ax/2]-H-a1/2cx [bxax]cx a1cx [bxa3]cx
+|"F(8)" [exbx]dx cxb8 bxdx c9dx
+|"C(8)" [fxa12]cx bxa10 a9cx a10cx
+|"Dm(10)" [dxax]cx bxcx dxcx axcx
+|"G(10)" [exa12]cx axcx a13cx bxa12
+|"C(8)" [fxa12]dx cxdx bxdx cxdx
+|"G(10)" [exax]dx cxdx bxdx cxdx
+|"Am(5)" [ex/2a7/2]-S-a8/2dx cxdx bxdx a7-S-a8
+|"Em" [fxa7]cx bxcx dxcx a8-P-a7
+|"F(8)" [exbx]dx b8dx bxdx b12dx
+|"C(8)" [fxax]cx b12cx axcx a10cx
+|"Dm(10)" [dx/2ax/2]-S-a12/2cx bxcx dxcxa12cx
+|"G(10)" [exax]dx cxdx exdx bx-S-b13
+|"C"V[ex*4dx*4cx*4bx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"G"V[fx*4ex*4dx*4cx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"Am"V[ex*4dx*4cx*4bx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"Em"V[fx*4ex*4dx*4cx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"F"V[fx*4ex*4dx*4cx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"C"V[ex*4dx*4cx*4bx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"Dm"V[ax*4bx*4cx*4dx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"G"V[fx*4ex*4dx*4cx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"C"V[ex*4dx*4cx*4bx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"G"V[fx*4ex*4dx*4cx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"Am"V[ex*4dx*4cx*4bx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"Am"V[ex*4dx*4cx*4bx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"F"V[fx*4ex*4dx*4cx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"G"V[fx*4ex*4dx*4cx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"C"V[ex*4dx*4cx*4bx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"C"V[ex*4dx*4cx*4bx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"C"V[ex*4dx*4cx*4bx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"G"V[fx*4ex*4dx*4cx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"Am"V[ex*4dx*4cx*4bx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"Em"V[fx*4ex*4dx*4cx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"F"V[fx*4ex*4dx*4cx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"C"V[ex*4dx*4cx*4bx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"Dm"V[ax*4bx*4cx*4dx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"G"V[fx*4ex*4dx*4cx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"C"V[ex*4dx*4cx*4bx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"G"V[fx*4ex*4dx*4cx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"Am"V[ex*4dx*4cx*4bx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"Em"V[fx*4ex*4dx*4cx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"F"V[fx*4ex*4dx*4cx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"C"V[ex*4dx*4cx*4bx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"Dm"V[ax*4bx*4cx*4dx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"G"V[fx*4ex*4dx*4cx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"C"V[ex*4dx*4cx*4bx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"G"V[fx*4ex*4dx*4cx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"Am"V[ex*4dx*4cx*4bx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"Em"V[fx*4ex*4dx*4cx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"F"V[fx*4ex*4dx*4cx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"C"V[ex*4dx*4cx*4bx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"Dm"V[ax*4bx*4cx*4dx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"G"V[fx*4ex*4dx*4cx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"C"V[ex*4dx*4cx*4bx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"G"V[fx*4ex*4dx*4cx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"Am"V[ex*4dx*4cx*4bx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"Em"V[fx*4ex*4dx*4cx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"F"V[fx*4ex*4dx*4cx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"C"V[ex*4dx*4cx*4bx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"Dm"V[ax*4bx*4cx*4dx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"G"V[fx*4ex*4dx*4cx*4] V[ax*2bx*2cx*2dx*2] V[axbxcxdx]U[axbxcxdx]
+|"C"[exax]cx bxcx axcx bxcx
+|"G" [fx/2b1/2]-H-b3/2cx bxcx axcx bxcx
+|"Am" [exbx]cx bxcx axcx b0-H-bx
+|"Em"[fxbx]cx bxcx axcx b1bx
+|"F" [fxcx]ex c0ex cxex b0ex
+|"C" [exbx]cx b0cx bxcx bx/2-H-b3/2cx
+|"Dm" [dx/2bx/2]-S-b5/2cx bxcx axcx a0cx
+|"G" [fxb3]cx bxcx b1cx b3/2-S-b5/2cx
+|"C" [exax]cx [bxax]ax a3cx a1cx
+|"G" [fxa0]cx b3cx a0cx a0/2-H-a1/2cx
+|"Am" [exax]cx bxcx axcx axa1
+|"Em" [fxax]cx b3cx b1cx bxcx
+|"F" [fxcx]ex dxex b0ex dxex
+|"C"[exbx]cx bxcx axcx b0bx
+|"Dm" [dx/2b1/2]-H-bx/2cx bxcx axcx bx/2-S-b5/2cx
+|"G" B[fx*6cx*6b3*6] bx-H-b1
+|"C" B[ex*2dx*2cx*2bx*2] dx*2 cx*2 bx*2
+|"C" cx*8|
+
+[V:melody1]
+Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|E'2 E'E' -E'2 E'E'
+w: 那天你*决定
+|D'2 E'D' -D'2 G2
+w: 朝南而*去
+|A2 C'C' -C'2 C'C'
+w: 我说我*只能
+|B2 E'B -B2 G2
+w: 朝北而*行
+|A2 AA -A2 AA
+w: 你渡过*那条
+|G2 GC' -C'2 C'2
+w: 潺潺小*河
+|A2 D'2 D'2 C'2
+w: 越过那座
+|D'6 E'E'
+w: 山 多少
+|E'2 E'E' -E'2 E'E'
+w: 年的一*切都
+|D'2 E'D' -D'2 G2
+w: 随风而*去
+|A2 C'C' -C'2 C'C'
+w: 记忆里*开始
+|B2 E'B -B2 G2
+w: 想起过*去
+|A2 AA -A2 AA
+w: 是否该*丢掉
+|G2 GC' -C'2 C'2
+w: 心中的*罪
+|A2 D'2 D'2 C'2
+w: 擦干那些
+|D'4 E'2 D'2
+w: 泪 擦干
+|C'2 C'C' -C'2 C'2
+w: 当年的*泪
+|B2 BB -B2 C'B
+w: 所有的*痛都
+|A2 A2 -A2 A-G
+w: 无法*忍
+|A6 AG
+w: 受 没有
+|A2 C'2 -C'4
+w: 理由
+|D'2 D'2 D'-C' B-C'
+w: 无助的*流*
+|C'8
+w: 泪
+|Z4 E'2 D'2
+w: 我想
+|G2 G2 E'2 E'-D'
+w: 你啊在心*
+|D'4 E'2 D'2
+w: 里 没什
+|C'2 C'C' B2 C'-B
+w: 么能够代替*
+|B4 C'2 B2
+w: 你 你为
+|A2 A2 A2 F'2
+w: 什么离开
+|E'4 E'-D' C'2
+w: 我 让*我
+|D'2 D'2 E'2 F'2
+w: 孤独和落
+|D'4 E'2 D'-C'
+w: 寞 好想*
+|C'2 C'2 E'2 E'-D'
+w: 你啊好爱*
+|D'4 E'2 D'-C'
+w: 你 我是*
+|C'2 C'2 B2 C'-B
+w: 真的喜欢*
+|B4 C'2 B2
+w: 你 你为
+|A2 A2 A2 F'2
+w: 什么抛弃
+|E'4 E'-D' C'2
+w: 我 让*我
+|D'2 D'2 E'2 F'2
+w: 孤独和落
+|D'8
+w: 寞
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z4 Z2 E'E'
+w: 多少
+|E'2 E'E' -E'2 E'E'
+w: 年的一*切都
+|D'2 E'D' -D'2 G2
+w: 随风而*去
+|A2 C'C' -C'2 C'C'
+w: 记忆里*开始
+|B2 E'B -B2 G2
+w: 想起过*去
+|A2 AA -A2 AA
+w: 是否该*丢掉
+|G2 GC' -C'2 C'2
+w: 心中的*罪
+|A2 D'2 D'2 C'2
+w: 擦干那些
+|D'4 E'2 D'2
+w: 泪 擦干
+|C'2 C'C' -C'2 C'2
+w: 当年的*泪
+|B2 BB -B2 C'B
+w: 所有的*痛都
+|A2 A2 -A2 A-G
+w: 无法*忍
+|A6 AG
+w: 受 没有
+|A2 C'2 -C'4
+w: 理由
+|D'2 D'2 D'-C' B-C'
+w: 无助的*流*
+|C'8
+w: 泪
+|Z4 E'2 D'2
+w: 我想
+|G2 G2 E'2 E'-D'
+w: 你啊在心*
+|D'4 E'2 D'2
+w: 里 没什
+|C'2 C'C' B2 C'-B
+w: 么能够代替*
+|B4 C'2 B2
+w: 你 你为
+|A2 A2 A2 F'2
+w: 什么离开
+|E'4 E'-D' C'2
+w: 我 让*我
+|D'2 D'2 E'2 F'2
+w: 孤独和落
+|D'4 E'2 D'-C'
+w: 寞 好想*
+|C'2 C'2 E'2 E'-D'
+w: 你啊好爱*
+|D'4 E'2 D'-C'
+w: 你 我是*
+|C'2 C'2 B2 C'-B
+w: 真的喜欢*
+|B4 C'2 B2
+w: 你 你为
+|A2 A2 A2 F'2
+w: 什么抛弃
+|E'4 E'-D' C'2
+w: 我 让*我
+|D'2 D'2 E'2 F'2
+w: 孤独和落
+|D'6 C'D'
+w: 寞 当你
+|E'2 E'E' -E'2 E'2
+w: 觉得爱*情
+|G'2 F'E' -E'-D' D'2
+w: 不是这**样
+|C'2 C'C' -C'2 C'2
+w: 爱与恨*已
+|E'2 F'E' -E'-D' D'-C'
+w: 没有理**由*
+|C'2 C'C' -C'2 C'2
+w: 如果说*要
+|C'2 C'C' -C'-G G2
+w: 我来承**担
+|D'2 D'D' D'2 C'2
+w: 虚伪的爱和
+|D'6 C'D'
+w: 恨 当你
+|E'2 E'E' -E'2 E'2
+w: 觉得爱*情
+|G'2 A'G' -G'-D' D'2
+w: 不是这**样
+|C'2 C'C' -C'2 C'2
+w: 爱与恨*已
+|E'2 F'E' -E'-D' D'-C'
+w: 没有理**由*
+|C'2 C'C' -C'2 C'2
+w: 如果说*要
+|C'2 C'C' -C'-G G2
+w: 我来承**担
+|D'2 D'D' D'2 C'2
+w: 虚伪的爱和
+|D'4 C'2 B2
+w: 恨 不可
+|C'8
+w: 能
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8|
+w:
+
+  
