@@ -1,0 +1,218 @@
+%MUSE2
+T: 是对爱的渴望
+T: 房东的猫
+M: 4/4
+L: 1/8
+Q: 1/4=72
+C: tcli编谱
+K: C
+
+%%gchord A=1;X,0,2,2,2,0
+%%gchord A/#G=1;4,X,2,2,2,0
+%%gchord Fm7=1;2,X,2,2,2,X
+%%gchord A/D=2;X,4,1,1,1,X
+%%gchord Bm/A=1;X,0,4,4,3,X
+%%gchord Bm/E=1;0,X,4,4,3,X
+%%gchord A/#C=1;0,4,2,2,2,0
+%%gchord Bm7=2;X,1,3,1,2,1
+%%gchord Esus4=1;0,2,2,2,0,0
+%%gchord C#7=2;X,3,2,3,1,X
+%%gchord D=1;X,X,0,2,3,2
+%%gchord Dsus2/B=1;X,2,0,2,3,0
+%%gchord E/#G(4)=3;2,X,X,2,3,2
+%%gchord F#m=2;1,3,3,1,1,1
+%%gchord C#(1)=1;1,X,3,1,2,1
+%%gchord Esus4(4)=3;0,X,X,2,3,3
+%%gchord E(4)=3;0,X,X,2,3,2
+
+V:guitar0 style=tab bracket=10
+V:melody1 style=jianpu 
+
+[V:guitar0]
+"A"[exbx]dx cxb0 "A/#G" [fxbx]dx cxc4
+|"Fm7" [fxbx]dx c1cx -cx*4
+|"A/D"exdx cxbx "E"[f0b0]d2 c2*2
+|"A" [excx]dx [cx*2ax*2] "Bm/A" [ex*3dx*3cx*3bx*3]c2/2cx/2
+|"A"[exbx]dx ax*2 "Bm/E"[fx*4dx*4cx*4bx*4]
+|"A"[exbx]dx cxb0 "A/#G" [fxbx]dx cxc4
+|"Fm7" [fxbx]dx c1cx -cx*2 a0*2
+|"D"dxa0 cxb0 "A/#C"exdx cxbx
+|"Dsus2/B"[exbx]ax cxb0 "Esus4"fxex cx*2
+|"A"[exbx]dx cxb0 "C#7" [excx]dx cxbx
+|"Fm7" [fxbx]a0 c1cx "A/#C" fxex [dx*2cx*2]
+|"D" dxa0cxb0 "A/#C"exdx cxbx
+|"Dsus2/B"[exbx]ax cxb0 "Esus4" [fxcx]ex dxcx
+|"A" [exbx]cx [bx*2ax*2] "E/#G(4)" [fxcx]ax bx*2
+|"F#m" fxex [bxax]cx "A/#C" fxex [cxbx]dx
+|"D" dxcx [bxax]cx "E"fxcx [axbx]cx
+|"F#m" fxex [bxa4]a5 "E" [f0*2a7*2] [e2*2b0*2a0*2]
+|"A" excx [bxax]cx "C#7"[exbxcx]dx "C#(1)"[fx*2bx*2cx*2dx*2]
+|"F#m" fxex [bxax]cx "Esus4(4)" [fx*2cx*2bx*2ax*2] "E(4)"[cx*2bx*2ax*2]
+|"D"[dxax]cx bxcx "Esus4(4)"[fx*4ax*4bx*4cx*4]
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|"C"z*8
+|z*8|
+
+[V:melody1]
+Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|ZZ/2E/2 ^C'/2^C'/2^C'/2A/2 B3/4^C'3/4B/2 -B3/2^G/2
+w: 靠太阳最近的地方* 是
+|AA AB A4
+w: 不是叫天堂
+|Z2 A/2A/2A/2A/2 EA/2B/2 -B/2^C'^C'/2
+w: 那里不用假装坚*强 过
+|D'^C' BA B4
+w: 得不慌不忙
+|ZZ/2E/2 ^C'/2^C'/2^C'/2A/2 B3/4^C'3/4B/2 -B3/2^G/2
+w: 有多少人跟我一样* 还
+|AA A3/4B3/4^C'/2 -^C'4
+w: 迷失在路上
+|ZZ/2E/2 A/2A/2A/2A/2 E3/4B3/4^C'/2 -^C'3/2^C'/2
+w: 向另一个国度眺望 *想
+|D'^C' BA B4
+w: 重新活一场
+|^C'3/2E'/2 -E'A' B'4
+w: 我的*眼泪
+|^G'A'/2A'/2 -A'/2B'-A'/2 A'4
+w: 止不住*地*淌
+|ZZ/2^F'/2 ^F'A' ^G'^G'/2^G'/2 ^G'E'
+w: 是因为快忘了家的
+|B^C' -^C'6
+w: 模样
+|^C'3/2E'/2 -E'A' B'3Z/2A'/2
+w: 我的*伤悲 督
+|^G'A'/2A'/2 -A'/2B'-A'/2 A'4
+w: 促着我*成*长 
+|ZZ/2^F'/2 ^F'E'/2B/2 -^C'B/2B/2 B^G/2B/2
+w: 可一个人*容易走错方
+|-B-A -A6
+w: *向
+|Z8
+w: 
+|ZZ/2E/2 ^C'/2^C'/2^C'/2A/2 B3/4^C'3/4B/2 -B3/2^G/2
+w: 当鸟儿没有了翅膀 *谁
+|AA A3/2B/2 -BA -A2
+w: 代替 它飞 *翔
+|ZZ/2E/2 A/2A/2A/2A/2 E3/4B3/4^C'/2 -^C'3/2^C'/2
+w: 当空气没有了花香* 谁
+|D'^C' BA B4
+w: 又能去绽放
+|ZZ/2E/2 ^C'/2^C'/2^C'/2A/2 B3/4^C'3/4B/2 -B3/2^G/2
+w: 如果一定要谈梦想 *是
+|AA A3/4B3/4^C'/2 -^C'4
+w: 有勇气流浪
+|Z2 A/2A/2A/2A/2 E3/4B3/4^C'/2 -^C'3/2^C'/2
+w: 可最奢望的时光 *是
+|D'^C' BA B4
+w: 你们在身旁
+|^C'3/2E'/2 -E'A' B'4
+w: 我的*眼泪
+|^G'A'/2A'/2 -A'/2B'-A'/2 -A'/2A'3/2 -A'2
+w: 止不住*地**淌
+|ZZ/2^F'/2 ^F'A' ^G'^G'/2^G'/2 ^G'E'
+w: 是因为快忘了家的
+|-E'B ^C'6
+w: *模样
+|^C'3/2E'/2 -E'A' B'3Z/2A'/2
+w: 我的*伤悲 督
+|^G'A'/2A'/2 -A'/2B'-A'/2 -A'A' -A'2
+w: 促着我*成**长 
+|ZZ/2^F'/2 ^F'A'3/4^G'/4 -^G'^G'/2^G'/2 ^G'^G'
+w: 可一个人*容易走错
+|-^G'/2^G'A'/2 -A'6
+w: *方向
+|^C'3/2E'/2 -E'A' B'3Z/2A'/2
+w: 童年*印象 是
+|^G'A' A'/2B'-A'/2 A'4
+w: 嘴角的上*扬
+|ZZ/2^F'/2 ^F'A' ^G'E' -E'Z/2E'/2
+w: 是小船游荡 *是
+|^F'A'/2A'/2 A'/2B'3/2 B'4
+w: 奖励的那颗糖
+|^C'3/2E'/2 -E'A' B'3Z/2A'/2
+w: 现在*慌张 是
+|^G'A'/2A'/2 -A'/2B'^C''/2 -^C''4
+w: 对爱的*渴望
+|-^C''8
+w: 
+|^F'A' A'B' A'E' -E'Z/2E'/2
+w: 因为还有向往 *还
+|^F'A' A'B' A'2 ^G'/4-A'3/4A'
+w: 盼着你们的目*光
+|-A'8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8|
+w:
+
+  

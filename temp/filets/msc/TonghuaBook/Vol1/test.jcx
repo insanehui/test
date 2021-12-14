@@ -9,10 +9,16 @@ V:guitar0 style=tab bracket=10
 V:melody1 style=jianpu 
 
 [V:guitar0]
-"F"axbxcxdx|
+e3e3e3e3
+|[M: 2/4] e3e3
+|[M: 4/4] e3e3e3e3|
 
 [V:melody1]
-[C4D4]|
-w: 匯
+CCCC
+w: 込込込込
+|  CC
+w: 込込
+| CCCC|
+w: 込込込込
 
   
