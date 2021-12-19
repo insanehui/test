@@ -6,4 +6,10 @@
 		取指定的sheet: wb.getWorksheet('My Sheet')
 	worksheet, 简写为ws
 		取得单元格：ws.getCell('C3') // 列名不能用小写，只能大写
+	column
+		worksheet.getColumn('B')
+		eachCell((cell, rowNum)=>{})
+	row
+		column和row都有eachCell方法
+		eachCell((cell, colNum)=>{})
 	cell

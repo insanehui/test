@@ -8,6 +8,8 @@
 		Ctrl+G 直接输入要去的位置
 		Alt+F11 查看代码
 	宏
+	基本运算
+		不等于: <>
 	逻辑运算
 		用的是函数，而非运算符: and(...), or(...), not(.)
 	条件判断只需要一个等号，如 if(B1=1,...)
@@ -22,6 +24,7 @@
 			[text] 文本格式化，类似于时间的format <url:https://jingyan.baidu.com/article/c1a3101e674d6ede646deb46.html>
 				TEXT(C3,"e-mm-dd") 转为类似2021-10-23这样的格式
 				text(123, "#") 得到 "123"
+				text(0.1666, "0.0%") 得到 "16.7%"
 			[right] [rightb] 取右边子串
 				right("abcde",3) 返回"cde"
 		[rank] 求某个值在集合中的排名: rank.eq(B1, B:B)
