@@ -2,23 +2,16 @@
 T: 
 M: 4/4
 L: 1/4
+Q: 1/4=65
 K: C
 
 
 V:guitar0 style=tab bracket=10
-V:melody1 style=jianpu 
 
 [V:guitar0]
-e3e3e3e3
-|[M: 2/4] e3e3
-|[M: 4/4] e3e3e3e3|
-
-[V:melody1]
-CCCC
-w: 込込込込
-|  CC
-w: 込込
-| CCCC|
-w: 込込込込
+e3e3c0c0
+|c2c2c0*2
+|d3d3d2d2
+|d0d0e3*2|
 
   

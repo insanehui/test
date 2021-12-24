@@ -1,19 +1,14 @@
 customChords:
+tempo : 1/4=65
 tracks : 
   - name: guitar
     format: tab
-  - name: melody
-    format: jianpu
 =================
-<guitar> 1111
-<melody> 1111
-w: 哈哈哈哈
+<guitar> 1155
 
-<guitar> 11
-<melody> 11
-w: 哈哈
+<guitar> 665-
 
-<guitar> 1111
-<melody> 1111
-w: 哈哈哈哈
+<guitar> 4433
+
+<guitar> 221-
 

@@ -12,47 +12,47 @@ V:guitar0 style=tab bracket=10
 V:melody1 style=jianpu 
 
 [V:guitar0]
-"Em"fxdxbxcx "C"exdxbxcx|"G"fxdxbxcx d4c0 c2d0|
-"Em"fxdxbxcx "C"exdxbxcx|"G"fxdxbxcx d4c0 c2d0|
-"Em"fxdxbxcx "C"exdxbxcx|"G"fxdxbxcx d4c0 c2d0|
-"Em"fxdxbxcx "C"exdxbxcx|"G"fxdxbxcx d4c0 c2d0|
-"Em"fxdxbxcx "C"exdxbxcx|"G"fxdxbxcx d4c0 c2d0|
-"Em"fxdxbxcx "C"exdxbxcx|"G"fxdxbxcx d4c0 c2d0|
-"Em"fxdxbxcx "C"exdxbxcx|"G"fxdxbxcx d4c0 c2d0|
-"Em"fxdxbxcx "C"exdxbxcx|"G"fxdxbxcx d4c0 c2d0|
-"Em"fxdxbxcx "C"exdxbxcx|"G"fxdxbxcx d4c0 c2d0|
-"Em"fxdxbxcx "C"exdxbxcx|"G"fxdxbxcx d4c0 c2d0|
-"Em"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "C"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]|"G"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "D"V[ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]|
-"Em"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "C"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]|"G"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "D"V[ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]|
-"Em"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "C"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]|"G"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "D"V[ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]|
-"Em"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "C"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]|"D"V[ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "G"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]|
+"Em"fxdxbxcx "C"exdxbxcx|"G"fxdxbxcx d4c0 c2d0
+|"Em"fxdxbxcx "C"exdxbxcx|"G"fxdxbxcx d4c0 c2d0
+|"Em"fxdxbxcx "C"exdxbxcx|"G"fxdxbxcx d4c0 c2d0
+|"Em"fxdxbxcx "C"exdxbxcx|"G"fxdxbxcx d4c0 c2d0
+|"Em"fxdxbxcx "C"exdxbxcx|"G"fxdxbxcx d4c0 c2d0
+|"Em"fxdxbxcx "C"exdxbxcx|"G"fxdxbxcx d4c0 c2d0
+|"Em"fxdxbxcx "C"exdxbxcx|"G"fxdxbxcx d4c0 c2d0
+|"Em"fxdxbxcx "C"exdxbxcx|"G"fxdxbxcx d4c0 c2d0
+|"Em"fxdxbxcx "C"exdxbxcx|"G"fxdxbxcx d4c0 c2d0
+|"Em"fxdxbxcx "C"exdxbxcx|"G"fxdxbxcx d4c0 c2d0
+|"Em"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "C"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]|"G"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "D"V[ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"Em"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "C"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]|"G"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "D"V[ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"Em"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "C"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]|"G"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "D"V[ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"Em"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "C"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]|"D"V[ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "G"V[fx*2ex*2dx*2cx*2]V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]|
 
 [V:melody1]
-Z8|Z8|
-Z8|Z8|
-ZE EA/2A/2 -AC DE/2E/2|-E8|
+Z8|Z8
+|Z8|Z8
+|ZE EA/2A/2 -AC DE/2E/2|-E8
 w: 徘徊着的 *在路上的
-ZE EA/2A/2 -A3/2G/2 G2|F/2E3/2 -E6|
+|ZE EA/2A/2 -A3/2G/2 G2|F/2E3/2 -E6
 w: 你要走吗 *Vi-a Vi-a
-ZE EA -AC DE|-E8|
+|ZE EA -AC DE|-E8
 w: 易碎的 *骄傲着
-ZE EC EF/2F/2 -FE|C8|
+|ZE EC EF/2F/2 -FE|C8
 w: 那也曾是我的*模样
-ZE EA/2A/2 -AC DE/2E/2|-E8|
+|ZE EA/2A/2 -AC DE/2E/2|-E8
 w: 沸腾着的 *不安着的
-ZE EA/2A/2 -A3/2G/2 G2|F/2E3/2 -E6|
+|ZE EA/2A/2 -A3/2G/2 G2|F/2E3/2 -E6
 w: 你要去哪 *Vi-a Vi-a
-ZE EA/2A/2 -AC DE/2E/2|-E8|
+|ZE EA/2A/2 -AC DE/2E/2|-E8
 w: 谜一样的 *沉默着的
-ZE EC FF/2F/2 -FE|C4ZG AB|
+|ZE EC FF/2F/2 -FE|C4ZG AB
 w: 故事你真的在*听吗 我曾经
-C'B/2C/2 -C/2G/2A A2 GF/2E/2|-EE EE/2D/2 -DG AB|
+|C'B/2C/2 -C/2G/2A A2 GF/2E/2|-EE EE/2D/2 -DG AB
 w: 跨过山*和大海 也穿过 *人山人海 *我曾经
-C'B/2C/2 -C/2G/2A A2 AB/2C'/2|-C'C' C'C'/2D'/2 -D'Z/2G/2 AB|
+|C'B/2C/2 -C/2G/2A A2 AB/2C'/2|-C'C' C'C'/2D'/2 -D'Z/2G/2 AB
 w: 拥有着*的一切 转眼都 *飘散如烟 *我曾经
-C'B/2C'/2 -C'E' A'-A'/2G'/2 -G'F'|E'2 E'D' -D'2 AB|
+|C'B/2C'/2 -C'E' A'-A'/2G'/2 -G'F'|E'2 E'D' -D'2 AB
 w: 失落失 *望 失 *掉 *所有方向 *直到
-C'2 C'D'/2C'/2 -C'Z/2C'/2 BC'/2D'/2|-D'2 C'B C'4|
+|C'2 C'D'/2C'/2 -C'Z/2C'/2 BC'/2D'/2|-D'2 C'B C'4|
 w: 看见平凡 *才是唯一 *的答案
 
   
