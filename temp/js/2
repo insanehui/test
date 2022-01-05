@@ -1,0 +1,3 @@
+tone.js维持了一条时间线
+import * as Tone from 'tone'
+Synth

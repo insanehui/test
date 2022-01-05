@@ -1,0 +1,198 @@
+%MUSE2
+T: 自己
+T: 牧云先生
+M: 4/4
+L: 1/8
+Q: 1/4=60
+C: tcli编谱
+K: F
+
+%%gchord F=1;1,3,3,2,1,1
+%%gchord Fadd9=1;1,X,3,2,1,3
+%%gchord C=1;0,3,2,0,1,0
+%%gchord Dm7=1;X,X,0,2(2),1(1),1(1)
+%%gchord Bbsus2=1;X,1,3,3,1,1
+%%gchord Gm7add11=1;3,X,3,3,1,X
+%%gchord Bb/C=1;X,3,X,3,3,1
+%%gchord Gm/C=1;X,3,X,3,3,3
+%%gchord Gm7=1;3,X,3,3,X,1
+%%gchord F/A=1;X,0,3,2,1,1
+%%gchord Gm7(3)=3;1,3,1,1,1,1
+%%gchord C7sus4(3)=3;X,1,3,1,4,1
+%%gchord D9-=3;X,3,2,3,2,X
+%%gchord C7(3)=3;X,1,3,1,3,1
+%%gchord Dm7/C=1;X,3,X,2,1,1
+%%gchord F(8)=8;X,1,3,3,3,1
+%%gchord Fsus2(8)=8;X,1,3,3,1,1
+%%gchord C.=1;0,3,2,0,1,3
+%%gchord F(5)/A=5;X,0,3,1,2,1
+%%gchord Csus4(8)=8;1,3,3,3,1,1
+%%gchord Fmaj7=1;X,X,3,2,1,0
+
+V:guitar0 style=tab bracket=10
+V:melody1 style=jianpu 
+
+[V:guitar0]
+"F" [fx/2c0/2]cx/2bx/2[bx/2a3/2] -[bx/2a3/2]axbx/2 -bxdx/2c0/2 dx/2bx/2cx/2dx/2
+|"Gm7(3)" [fx/2d7/2]cx/2 c5/2[bx/2a5/2] -[bx/2a5/2]axbx/2 -bx*3/2cx/2 ex/2c5/2c0/2d7/2
+|"C7(3)" [ex/2d7/2]cx/2 b3/2a5/2 -a5/2axb3/2 -b3*3bx/2b6/2
+|"Fmaj7" [dx/2ax/2]c0/2cx/2bx/2 dx/2bx/2c0/2B[dx/2cx/2bx/2ax/2] -B[dx*4cx*4bx*4ax*4]
+|"F" fx*3/2bx/2 -bx/2c0*3/2 "C"fx*3/2bx/2 -bx/2cx/2dx
+|"Dm7"dx*3/2ax/2 -ax/2bx/2cx/2d3/2 "F"exdx/2bx/2 -bx/2cx*3/2
+|"Bbsus2"exdx/2bx/2 -bx/2cx/2ex "F"e0dx/2bx/2 -bx/2c0*3/2
+|"Gm7add11"fxdx/2bx/2 dx/2cx/2dx "Bb/C" ex/2cx/2bx/2ax/2 -ax/2bx*3/2
+|"F" fx*3/2bx/2 -bx/2cx*3/2 "C"fx*3/2bx/2 -bx/2cx*3/2
+|"Dm7"dxcx/2ax/2 -ax/2bxcx/2 "F"ex*3/2ax/2 -ax/2bx/2dx
+|"Bbsus2"exdx/2bx/2 dx/2cx*3/2 "Gm/C" [ex/4cx/4bx/4ax/4]-H-a5/4-a5*3/2 ax*2
+|"F" fxdx/2bx/2 -bx/2cx*3/2 "Gm7"B[fxdxcx]dx "F/A"B[exdxbx]c0
+|"Bbsus2"V[ax*2bx*2cx*2dx*2ex*2] V[ax*3/2bx*3/2cx*3/2dx*3/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdxex]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"F"V[ax*2bx*2cx*2dx*2ex*2fx*2] V[ax*3/2bx*3/2cx*3/2dx*3/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdxexfx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"Gm7(3)"V[ax*2bx*2cx*2dx*2ex*2fx*2] V[ax*3/2bx*3/2cx*3/2dx*3/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdxexfx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"Bbsus2"V[ax*2bx*2cx*2dx*2ex*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "C7sus4(3)"V[ax*2bx*2cx*2dx*2ex*2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"Bbsus2"V[ax*2bx*2cx*2dx*2ex*2] V[ax*3/2bx*3/2cx*3/2dx*3/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdxex]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"Am"V[ax*2bx*2cx*2dx*2ex*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "D9-"B[bx*4cx*4dx*4ex*4]
+|"Gm7(3)"V[ax*2bx*2cx*2dx*2ex*2fx*2] V[ax*3/2bx*3/2cx*3/2dx*3/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdxexfx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"C7sus4(3)"V[ax*2bx*2cx*2dx*2ex*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] V[axbxcxdxex]zV[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"F"V[ax*2bx*2cx*2dx*2ex*2fx*2] V[ax*3/2bx*3/2cx*3/2dx*3/2]U[ax/2bx/2cx/2dx/2] "C"V[ax/2bx/2cx/2dx/2ex/2fx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"Dm"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "Am"V[ax/2bx/2cx/2dx/2ex/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdxex]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"Gm7(3)"V[ax*2bx*2cx*2dx*2ex*2fx*2] V[ax*3/2bx*3/2cx*3/2dx*3/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdxexfx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"C7(3)"V[ax*2bx*2cx*2dx*2ex*2]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] B[ax*4bx*4cx*4dx*4ex*4]
+|"F" [fx/2a3/2]cx/2bx/2ax/2 dx/2c0/2cx/2ax/2 dx/2c0/2cx/2ax/2 [dx/2a5/2]c0/2cx/2bx/2
+|"Gm7(3)" [fx/2a5/2]cx/2a6/2ax/2 "Gm7" [fx/2dx/2]c2/2cx/2ax/2 dx/2c2/2cx/2ax/2 "Gm7(3)" [fx/2a5/2]cx/2bx/2cx/2
+|"C7(3)" [ex/2a5/2]dx/2cx/2ax/2 ex/2dx/2cx/2b6/2 ex/2dx/2cx/2b6/2 ex/2dx/2cx/2b6/2
+|"Fmaj7" [dx/2ax/2]cx/2bx/2cx/2 ax/2cx/2bx/2cx/2 B[dx*4cx*4bx*4ax*4]
+|"F"V[ax*2bx*2cx*2dx*2ex*2fx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "C"V[ax/2bx/2cx/2dx/2ex/2fx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"Dm7"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "Dm7/C"V[ax/2bx/2cx/2ex/2]U[ax/2bx/2cx/2]V[axbxcx] V[axbxcxex]V[ax/2bx/2cx/2]U[ax/2bx/2cx/2]
+|"Bb"V[ax*2bx*2cx*2dx*2ex*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "C7(3)"V[ax/2bx/2cx/2dx/2ex/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdxex]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"F"V[ax*2bx*2cx*2dx*2ex*2fx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "Gm7(3)"V[axbxcxdxexfx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "F/A"V[axbxcxdxex]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"Bbsus2"V[ax*2bx*2cx*2dx*2ex*2] V[ax*3/2bx*3/2cx*3/2dx*3/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdxex]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"F"V[ax*2bx*2cx*2dx*2ex*2fx*2] V[ax*3/2bx*3/2cx*3/2dx*3/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdxexfx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"Gm7(3)"V[ax*2bx*2cx*2dx*2ex*2fx*2] V[ax*3/2bx*3/2cx*3/2dx*3/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdxexfx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"Bbsus2"V[ax*2bx*2cx*2dx*2ex*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "C7sus4(3)"V[ax*2bx*2cx*2dx*2ex*2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"Bbsus2"V[ax*2bx*2cx*2dx*2ex*2] V[ax*3/2bx*3/2cx*3/2dx*3/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdxex]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"Am"V[ax*2bx*2cx*2dx*2ex*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "D9-"B[bx*4cx*4dx*4ex*4]
+|"Gm7(3)"V[ax*2bx*2cx*2dx*2ex*2fx*2] V[ax*3/2bx*3/2cx*3/2dx*3/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdxexfx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"C7sus4(3)"V[ax*2bx*2cx*2dx*2ex*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] V[axbxcxdxex]zV[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"F"V[ax*2bx*2cx*2dx*2ex*2fx*2] V[ax*3/2bx*3/2cx*3/2dx*3/2]U[ax/2bx/2cx/2dx/2] "C"V[ax/2bx/2cx/2dx/2ex/2fx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"Dm"V[ax*2bx*2cx*2dx*2] V[axbxcxdx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2] "Am"V[ax/2bx/2cx/2dx/2ex/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdxex]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"Gm7(3)"V[ax*2bx*2cx*2dx*2ex*2fx*2] V[ax*3/2bx*3/2cx*3/2dx*3/2]U[ax/2bx/2cx/2dx/2] V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] V[axbxcxdxexfx]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]
+|"C7(3)"V[ax*2bx*2cx*2dx*2ex*2]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] B[ax*4bx*4cx*4dx*4ex*4]
+|"F"V[ax*2bx*2cx*2dx*2ex*2]V[ax/2bx/2cx/2dx/2]U[ax/2bx/2cx/2dx/2]V[axbxcxdx] B[ax*4bx*4cx*4dx*4ex*4fx*4]
+|"Fsus2(8)" [ex/2ax/2]dx/2cx/2ax/2 -ax/2dx/2bx/2ax/2 "C." [fx*2cx*2bx*2ax*2] -[fx/2cx/2bx/2ax/2]ex/2cx/2b5/2
+|"Bbsus2" [excxbxax]bx -bx/2ax/2a8 "F(5)/A" [excxbxax]cx bx/2b8/2ax/2a8/2
+|"Gm7(3)" [fxdxcx]ex/2[cx/2bx/2] -[cx/2bx/2]dx/2[bxa5] B[fx*4dx*4cx*4bx*4a5*4]
+|"Gm/C"B[ex*4cx*4bx*4ax*4] "Csus4(8)" B[dx*4cx*4bx*4ax*4]
+|"F" [fx/2a3/2]cx/2bx/2ax/2 dx/2c0/2cx/2ax/2 dx/2c0/2cx/2ax/2 [dx/2a5/2]c0/2cx/2bx/2
+|"Gm7(3)" [fx/2a5/2]cx/2a6/2ax/2 "Gm7" [fx/2dx/2]c2/2cx/2ax/2 dx/2c2/2cx/2ax/2 "Gm7(3)" [fx/2a5/2]cx/2bx/2cx/2
+|"C7(3)" [ex/2a5/2]dx/2cx/2ax/2 ex/2dx/2cx/2b6/2 -b6bx c5dx
+|"Fadd9" B[fx*3/2dx*3/2cx*3/2bx*3/2ax*3/2]bx/2 a8/2-S-a5/2ax/4-S-a5/4-a5/4a6/8-H-a5/8 ax/2b6/2ax b1*2|
+
+[V:melody1]
+Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z/2G/2D/2C/2 D/2GG/2 GG/2A/2 -A/2G/2G/2G/2
+w: 偶尔会浮躁却不再哭*闹 习惯
+|C/2CC/2 C3/4A,3/4G,/2 G/2E3/2 -ED/2C/2
+w: 把微笑强挂在嘴角 *明明
+|D/2CD/2 -D3/2D/2 E/2DE/2 -E/2A,/2A,/2G,/2
+w: 不知道*该如何是*好 越来
+|A,/2C/2C/2C/2 -CC D2 Z/2C/2D/2C/2
+w: 越不习惯*喧嚣 城市里
+|DC/2D/2 -D/2G3/2 GG/2A/2 -A/2G/2G/2G/2
+w: 酒绿灯*红 人潮汹 *涌 成就
+|C3/4C3/4C/2 C3/4A,3/4G,/2 G/2-D/2-E -ED/2C/2
+w: 破灭了多少个 梦*** 害怕
+|D/2C/2A,/2D/2 -DG,/2G,/2 E/2ED/2 CA,/2C/2
+w: 寂寞的人 *房间里总会亮着灯
+|-C6 ZC/2C/2
+w: * 那些
+|A/2G/2A/2G/2 G/2A3/2 -A/2AA/2 A3/2E/2
+w: 信誓旦旦的话 *早就 该被
+|G/2G/2-D/2-E/2 -E4 ZD/2C/2
+w: 遗忘*** 承诺
+|A,D/2E/2 -E/2A,3/2 -A,2 ZG,/2G,/2
+w: 有时太*假* 哪有
+|G/2GG/2 GA/2B/2 -BG -GC/2C/2
+w: 那么多地久天*长 *还有
+|A/2AA/2 AG/2C'/2 -C'/2A3/2 ZG/2E/2
+w: 多少人与你相*伴 多少
+|G/2GG/2 GA/2G/2 -G/2E3/2 ZD/2C/2
+w: 人与你挥手道*别 我们
+|DC D/2EA,/2 -A,2 ZG,/2G,/2
+w: 疯狂的成长* 忍着
+|GG GA/2B/2 -BG -G/2C/2D/2C/2
+w: 伤痛故作坚*强* 一个人
+|DC/2D/2 -D/2G3/2 GG/2A/2 -A/2G/2G/2G/2
+w: 忙忙碌*碌 走走停 *停 回头
+|C/2C/2C/2C/2 A3/4G3/4E/2 G/2E3/2 -E/2E/2D/2C/2
+w: 看看那些错过的风景* 蹲下来
+|DE/2E/2 -E/2A,3/2 -A,2 ZZ/2G,/2
+w: 抱住自*己* 你
+|E/2G,3/2 -G,G,/2G,/2 E/2D3/2 CA,/2C/2
+w: 看你 *怎么 那么不小心
+|-C8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z6 Z/2C/2D/2C/2
+w: 城市里
+|DC/2D/2 -D/2G3/2 GG/2A/2 -A/2G/2G/2G/2
+w: 酒绿灯*红 人潮汹 *涌 成就
+|C3/4C3/4C/2 C3/4A,3/4G,/2 G/2-D/2-E -ED/2C/2
+w: 破灭了多少个 梦*** 害怕
+|D/2C/2A,/2D/2 -DG,/2G,/2 E/2ED/2 CA,/2C/2
+w: 寂寞的人 *房间里总会亮着灯
+|-C6 ZC/2C/2
+w: * 那些
+|A/2G/2A/2G/2 G/2A3/2 -A/2AA/2 A3/2E/2
+w: 信誓旦旦的话 *早就 该被
+|G/2G/2-D/2-E/2 -E4 ZD/2C/2
+w: 遗忘*** 承诺
+|A,D/2E/2 -E/2A,3/2 -A,2 ZG,/2G,/2
+w: 有时太*假* 哪有
+|G/2GG/2 GA/2B/2 -BG -GC/2C/2
+w: 那么多地久天*长 *还有
+|A/2AA/2 AG/2C'/2 -C'/2A3/2 ZG/2E/2
+w: 多少人与你相*伴 多少
+|G/2GG/2 GA/2G/2 -G/2E3/2 ZD/2C/2
+w: 人与你挥手道*别 我们
+|DC D/2EA,/2 -A,2 ZG,/2G,/2
+w: 疯狂的成长* 忍着
+|GG GA/2B/2 -BG -G/2C/2D/2C/2
+w: 伤痛故作坚*强* 一个人
+|DC/2D/2 -D/2G3/2 GG/2A/2 -A/2G/2G/2G/2
+w: 忙忙碌*碌 走走停 *停 回头
+|C/2C/2C/2C/2 A3/4G3/4E/2 G/2E3/2 -E/2E/2D/2C/2
+w: 看看那些错过的风景* 蹲下来
+|DE/2E/2 -E/2A,3/2 -A,2 ZZ/2G,/2
+w: 抱住自*己* 你
+|E/2G,3/2 -G,G,/2G,/2 E/2D3/2 CA,/2C/2
+w: 看你 *怎么 那么不小心
+|-C6 Z/2C/2D/2C/2
+w: * 一个人
+|DC/2D/2 -D/2G3/2 GG/2A/2 -A/2G/2G/2G/2
+w: 忙忙碌*碌 走走停 *停 回头
+|C/2C/2C/2C/2 A3/4G3/4E/2 G/2E3/2 -E/2E/2D/2C/2
+w: 看看那些错过的风景* 蹲下来
+|DE/2E/2 -E/2A,3/2 -A,2 ZZ/2G,/2
+w: 抱住自*己* 你
+|E/2G,3/2 -G,G,/2G,/2 E/2D3/2 CA,/2C/2
+w: 看你 *怎么 那么不小心
+|-C8
+w: 
+|Z8
+w: 
+|Z8
+w: 
+|Z8|
+w:
+
+  

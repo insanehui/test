@@ -1,0 +1,36 @@
+首页 <url:https://tonejs.github.io/>
+tone.js维持了一条时间线
+import * as Tone from 'tone'
+Synth 合成器 <url:https://tonejs.github.io/docs/14.7.77/Synth>
+	据说其相当于一个 振动器 + 包络
+	triggerAttackRelease 弹奏一个音 相当于按下琴键又松开 <url:https://tonejs.github.io/docs/14.7.77/Synth#triggerAttackRelease>
+		synth.triggerAttackRelease("C4", "8n");
+	toDestination （就是原来的toMaster） 连接到播放设备
+Transport 音序器，歌曲时间 <url:https://tonejs.github.io/docs/14.7.77/Transport>
+	Audio Context里的时间线相当于现实中的绝对时间，比如当前是几月几日几分几秒，即audio context里的时间线一直流逝着，不受任何控制，也不会暂停
+	而transport里的时间线，则相当于一首歌曲的进度条里的时间，比如总长3:45，0:00开始，1:24处进入副歌，2:25处转调，等等
+		该时间线是可以任意定位、暂停以及回溯的
+	因此使用tone.js一定要分清楚 [歌曲时间] 以及 [世界时间]
+	start
+	pause 暂停，下次start如果缺省参数会从暂停的地方继续开始
+	stop 与pause 不同在于stop之后下次start缺省会从头开始
+Part
+	播放音乐序列可以使用Part来记录
+	start
+Sampler <url:https://tonejs.github.io/docs/14.7.77/Sampler>
+	const sampler = new Tone.Sampler({
+		urls: {
+			"C4": "C4.mp3",
+			"D#4": "Ds4.mp3",
+			"F#4": "Fs4.mp3",
+			"A4": "A4.mp3",
+		},
+		release: 1,
+		baseUrl: "https://tonejs.github.io/audio/salamander/", }).toDestination();
+资源
+	Gridsound 一个用js写的daw，开源，很厉害 <url:https://github.com/gridsound/daw>
+		它自身的帮助文档也很丰富，很想好好学一下
+	Jake Albaugh主页 <url:https://www.youtube.com/c/JakeAlbaugh/videos>
+		midi格式讲解 <url:https://www.youtube.com/watch?v=556e3cLWusc>
+		做了一个类似编曲工作台的界面 <url:http://jakealbaugh.github.io/random_commander/>
+			源代码 <url:https://github.com/jakealbaugh/random_commander>

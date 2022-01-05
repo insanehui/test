@@ -1,0 +1,6 @@
+官网 <url:http://mohayonao.github.io/timbre.js/>
+安装
+	直接npm好像不能安装，但可以使用其timbre.dev.js 简单修改一下即可在工程中import
+上手
+	播放音频 T("sin").play(); 一直播放一段正弦波，默认频率是A
+	T('saw')是锯齿波，不同的波形的音色不一样，但音高是相同的

@@ -31,6 +31,7 @@
 			undefined === undefined
 		单双引号互括用于规避引号转义
 			这是很多语言的做法
+		>>> 无符号右移 
 		...操作符
 			对象里展开：{ ...xxx } 如果xxx不是对象，直接忽略
 				即：...undefined, ...null, ...123 都是合法的，但仅限于对象内，在其他场合的使用方法会不同
@@ -310,7 +311,7 @@
 			arr.push(element1[, ...[, elementN]])，返回push的数目
 			arr.pop() 弹出最后一个元素，返回弹出的元素
 			arr.unshift(element1[, ...[, elementN]]) 反向push
-			arr.shift() 反向pop
+			arr.shift() 反向pop，弹出第一个元素，返回弹出的元素
 		arr.join(sep = ',')
 		arr.fill(value[, start[, end]]) // 填值
 		提案中
@@ -320,6 +321,7 @@
 	Math
 		Math.min(1,2,3,4) / Math.max类似
 		Math.hypot 用来求距离很方便: Math.hypot(3, 4) => 5
+		Math.random() 0~1之间的小数
 	函数
 		函数的名字可以通过其name属性取到，但尽量不要依赖它。因为js压缩混淆之后，函数名会丢失
 		函数的length: 即函数定义时的参数个数
@@ -1425,6 +1427,7 @@
 				_.groupBy(['one', 'two', 'three'], 'length');
 				// => { '3': ['one', 'two'], '5': ['three'] }
 			_.filter 筛选（有点类似sql的select）
+				反向过滤，用_.reject
 				可以操作对象，但返回的结果一定是数组（类似_.map的机制）
 				注：哪怕是筛选出来之后只有一个结果，仍然是返回数组，这跟sql的select一样!
 				如果要返回对象，可以使用pick、pickBy
@@ -1448,8 +1451,10 @@
 				: // The `_.property` iteratee shorthand.
 				: _.filter(users, 'active');
 				: // => objects for ['barney']
+			_.reject
 			_.find 类似filter，但只找第一个
 			_.findLast 类似find，但从后开始找
+			_.size 元素个数，如果是字符串，取长度，其他返回0
 			[_.map]
 				缺省调用，如：_.map(a)返回a的克隆
 				lodash的map和数组原生的map相比，其容错性更强，还能兼容arraylike
