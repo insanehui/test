@@ -1,0 +1,116 @@
+title : [Remember Me, Coco]
+artist : tcli编谱
+timeSign : 4/4
+beat : 1/8
+key : C
+tempo : 1/4=86
+tracks : 
+  - name: guitar
+    format: tab
+  - name: melody
+    format: jianpu
+    instrument: flute
+    volume: 16
+customChords : 
+  'C' : 1;X,3,2,0,1,0
+  'G#-5' : 1;4,X,0,1,1,X
+  'Bb9' : 1;X,1,0,1,1,X
+  'E7' : 1;0,2,0,1,0,0
+  'Am(5)' : 3;X,0,X,3,3,3
+  'Gm/bB' : 1;X,1,X,3,3,3
+  'C7(3)' : 3;X,1,3,1,3,1
+  'F' : 1;1,3,3,2,1,1
+  'F/G' : 1;3,X,3,2,1,X
+  'Gm7' : 3;1,3,1,1,1,1
+  'C7' : 1;X,3,2,3,1,0
+  'F(8)' : 8;X,1,3,3,3,1
+  'Fm/#G' : 1;4,X,3,1,1,1
+  'Em(3)' : 3;0,X,X,2,3,1
+  'E/#G' : 1;4,X,X,1,0,0
+  'Am' : 1;X,0,2,2,1,0
+  'G#/#D' : 1;X,X,1,1,1,X
+  'Fm6(8)' : 8;X,X,X,3,2,3
+  'G' : 1;3,2,0,0,0,3
+  'Cm/#D' : 1;X,X,1,0,1,X
+  'Fm' : 1;1,3,3,1,1,1
+patterns : 
+  L : "<C>0- -- -- --"
+=================
+<melody> {translate: 12, env: gp5}
+
+<guitar> %L
+<melody> 0- -- 23 *1
+w: Re-me-m-ber 
+
+<guitar> <C>1[351'] == == ==
+<melody> 5.- -- -- 5.3.
+w: me Though I 
+
+<guitar> <G#-5> #5.[2#51'] [2#51'][2#51'] [2#51'][2#51'] [2#51'][2#51']
+<melody> 4.1 1(22) *3 32
+w: have to say good-bye *Re-mem-ber 
+
+<guitar> <C>1[351'] [351'][351'] [351'][351'] [351'][351']
+<melody> 5.- -- -- 03
+w: me Don't 
+
+<guitar> <Bb9> b7.[2#51'] [2#51'][2#51'] <E7>3.[2#57] [2#57][2#57]
+<melody> 43 32 2- -1
+w: let it make you cry For 
+
+<guitar> <Am(5)> 6.[1'6'] [1'6'][1'5'] [1'5'][1'3'] [1'3']1'
+<melody> 16 65 53 31
+w: e-ven if I'm far a-way I 
+
+<guitar> <Gm/bB> b7.[b72'5'] [b72'5'][b72'5'] <C7(3)>1[b73'@b5'] [b73'@b5'][b73'@b5']
+<melody> 54 43 3- -6.
+w: hold you in my heart I
+
+<guitar> <F > 4[3'@b5'] [3'@b5'][2'4'] [2'4'][1'3'] [1'3']b7
+<melody> 6.5 54 43 31
+w: sing a se-cret song to you each 
+
+<guitar> <Fm/#G> [#5.4#51']$- -- <F/G> [5.41']$- --
+<melody> 3(-2) (21-2) *1 3(-1)
+w: night we are a-part *Re-mem-ber
+
+<guitar> <C>1[351'] [351'][351'] [351'][351'] [351'][351']
+<melody> 5.- -- -- 5.3.
+w: me Though I 
+
+<guitar> <G#-5> #5.[2#51'] [2#51'][2#51'] [2#51'][2#51'] [2#51'][2#51']
+<melody> 4.1 12 2(-3) 34
+w: have to tra-vel far Re-mem-ber
+
+<guitar> <C>1[351'] [351'][351'] [351'][351'] [351'][351']
+<melody> 3- -- 03 34
+w: me Each time you
+
+<guitar> <Gm7> 5.[4b72'] [4b72'][4b72'] <C7> 1[3b71'] [3b71'][3b71']
+<melody> 43 34 5- --
+w:  hear a sad gui-tar
+
+<guitar> <F(8)> 4[1''6'@b] [1''6'@b][7'@e5'@b] [7'@e5'@b][6'@e4'@b] [6'@e4'@b][5'@e3'@b] 
+<melody> 11' 1'7 76 65
+w: Know that I'm with you the on-ly 
+
+<guitar> <Em(3)> [3.73'5']$- <E/#G> [#5.#573']$-  <Am> [6.1']3 <G#/#D> [#2#51']$-
+<melody> 53 32 1- --
+w: way that I can be 
+
+<guitar> <G#-5> 2[#51'] [#51'][1'@g#2'] [1'@g#2'][#2'@b#5'@e] [#2'@b#5'@e][1''@e5'@b]
+<melody> 01 1#2 #2#5 #51'
+w: Un-til you're in my arms a-
+
+<guitar> <Fm6(8)> [4'#5'2'']$- -- <G> 5.- --
+<melody> 2'- -- -- --
+w: -gain
+
+<guitar> <Cm/#D> [#251']$- <G#/#D> [#2#51']$- <Fm> [4#51']$- --
+<melody> 1'- 1'- 1'- --
+w: Re-mem-ber 
+
+<guitar> <C> [1351']$- -- -- --
+<melody> 1'- -- -- --
+w: me
+

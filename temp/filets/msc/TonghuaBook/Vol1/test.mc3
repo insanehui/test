@@ -1,10 +1,11 @@
 customChords:
-tempo : 1/4=65
+tempo: 1/4=120
+beat: 1/8
 tracks : 
   - name: guitar
     format: tab
 =================
-<guitar> 1155
+<guitar> [15']5' [5.5']5' [15'](6'h5') [5.3']2'
 
 <guitar> 665-
 
