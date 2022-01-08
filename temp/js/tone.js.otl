@@ -1,5 +1,6 @@
 首页 <url:https://tonejs.github.io/>
 tone.js维持了一条时间线
+时间单位 <url:https://github.com/Tonejs/Tone.js/wiki/Time>
 import * as Tone from 'tone'
 Synth 合成器 <url:https://tonejs.github.io/docs/14.7.77/Synth>
 	据说其相当于一个 振动器 + 包络
