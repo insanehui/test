@@ -1,5 +1,6 @@
-[spleeter]
-	知乎专栏 <url:https://zhuanlan.zhihu.com/p/118743228>
+自动分离音轨（分离伴奏）
+	[spleeter]
+		知乎专栏 <url:https://zhuanlan.zhihu.com/p/118743228>
 [Tone.js] 首页 <url:https://tonejs.github.io/>
 	tone.js维持了一条时间线
 	时间单位 <url:https://github.com/Tonejs/Tone.js/wiki/Time>
