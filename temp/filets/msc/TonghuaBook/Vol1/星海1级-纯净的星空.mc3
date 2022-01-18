@@ -19,6 +19,8 @@ customChords :
   'Em' : 1;0,2,2,0,0,0
 patterns : 
   L : "<G>0- -- -- --"
+jcxStyle : 
+  barsperstaff: 4
 =================
 <melody> {translate: 12, env: gp5}
 

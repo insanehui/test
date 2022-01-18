@@ -1,0 +1,66 @@
+title : 小草
+timeSign : 4/4
+beat : 1/8
+key : G
+artist : 童话吉他记谱
+tracks : 
+  - name: guitar
+    format: tab
+  - name: melody
+    format: jianpu
+    instrument: flute
+    volume: 16
+customChords : 
+  'Em' : 1;0,X,X,0,0,0
+patterns : 
+  L : "<Em>3.5 73' 3.5 73'"
+  La : "<Em>3.5 73' [3.573']- 0-"
+  Lb : "0- -- <Em>[3.573']- 0-"
+=================
+<melody> {translate: 12, env: gp5}
+
+<guitar> {key: G}
+<melody> {key: G}
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %La
+<melody> 0- -- -- --
+w: 
+
+#开始唱
+
+<guitar> %L
+<melody> 6.6. 1_7. 6.- --
+w: 没有花* 香
+
+<guitar> %L
+<melody> 6.6. 3_2 3- --
+w: 没有树* 高
+
+<guitar> %L
+<melody> 33 53 22 1(7.7.)
+w: 我是一棵无人知道的
+
+<guitar> %L
+<melody> 6.- -_5. 3- --
+w: 小*草
+
+<guitar> %L
+<melody> 6.6. 1_7. 6.- --
+w: 从不寂*寞
+
+<guitar> %L
+<melody> 6.6. 3_2 3- --
+w: 从不烦* 恼
+
+<guitar> %L
+<melody> 33 53 22 17.
+w: 你看我的伙伴遍及
+
+<guitar> %Lb
+<melody> 7.(6._7.) 6._5. 6.- --
+w: 天涯* 海* 角
+
