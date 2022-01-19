@@ -1,11 +1,15 @@
-友谊地久天长
-
+title : [友谊地久天长, 苏格兰民歌]
+timeSign : 4/4
 beat : 1/8
+key : C
+artist : 童话吉他记谱
 tracks : 
   - name: guitar
     format: tab
   - name: melody
     format: jianpu
+    instrument: flute
+    volume: 16
 jcxStyle : 
   barsperstaff: 3
 customChords: 
@@ -30,22 +34,33 @@ patterns:
   FF: '"F"43231323'
   C0 : '"C"532-'
 =================
-<guitar> |: %L1a
-<guitar> %L1
-<guitar> %L5
-<guitar> %L1
-<guitar> %L4
-<guitar> %L1
-<guitar> %L5s
-<guitar> %L645
-<guitar> %L1
-<guitar> %L1
-<guitar> %L5
-<guitar> %L1
-<guitar> %L4
-<guitar> %L1
-<guitar> %L5s
-<guitar> %L645
-<guitar> %L1a :|
+<guitar> %L1a
+<melody> 0- -- -- 5.-
+w: 怎
 
-#include ./友谊地久天长简谱.mc3
+<guitar> |: %L1
+<guitar> %L5
+<guitar> %L1
+<guitar> %L4
+<guitar> %L1
+<guitar> %L5s
+<guitar> %L645
+<guitar> %L1
+<guitar> %L1
+<guitar> %L5
+<guitar> %L1
+<guitar> %L4
+<guitar> %L1
+<guitar> %L5s
+<guitar> %L645
+
+#include ./友谊地久天长简谱.mc3,#第2句,#最后一句
+
+<guitar> >1 %L1a :|
+<melody> 1- -- -- 5.-
+w: 长 我
+
+<guitar> >2 %L1a :|
+<melody> 1- -- -- --
+w: 长 
+

@@ -1,7 +1,9 @@
 %MUSE2
 T: 友谊地久天长
+T: 苏格兰民歌
 M: 4/4
 L: 1/8
+C: 童话吉他记谱
 K: C
 
 %%barsperstaff 3
@@ -15,8 +17,8 @@ V:guitar0 style=tab bracket=10
 V:melody1 style=jianpu 
 
 [V:guitar0]
-|: "C"exdxcxbx B[ex*4dx*4cx*4bx*4ax*4]
-|"C"excx[bxax]cx[bxax]cx[bxax]cx
+"C"exdxcxbx B[ex*4dx*4cx*4bx*4ax*4]
+|: "C"excx[bxax]cx[bxax]cx[bxax]cx
 |"G7" fxcx [bxax]cx [bxax]cx [bxax]cx
 |"C"excx[bxax]cx[bxax]cx[bxax]cx
 |"F" dxcx [bxax]cx [bxax]cx [bxax]cx
@@ -31,12 +33,12 @@ V:melody1 style=jianpu
 |"C"excx[bxax]cx[bxax]cx[bxax]cx
 |"G7" fxcx [bxax]cx [bxax]cx "E/#G" [fx*2bx*2ax*2]
 |"Am" excx [bxax]cx "F" [dx*2cx*2bx*2ax*2] "G7" [fx*2dx*2cx*2bx*2]
-|"C"exdxcxbx B[ex*4dx*4cx*4bx*4ax*4] :|
+|1"C"exdxcxbx B[ex*4dx*4cx*4bx*4ax*4] 
+:|2"C"exdxcxbx B[ex*4dx*4cx*4bx*4ax*4] :|
 
 [V:melody1]
 Z6 G,2
 w: 怎
-w: 我
 |C3C C2 E2
 w: 能忘记旧
 w: 们往日情
@@ -59,11 +61,11 @@ w: 杯畅饮 友
 w: 谊地久天
 |C6 A2
 w: 长 友
-|G3E E2 C2
+|G3-E E2 -C2
 w: 谊*万*
 |D3C D2 A2
 w: 岁 朋友 友
-|G3E E2 G2
+|G3-E E2 -G2
 w: 谊*万*
 |A6 C'2
 w: 岁 举
@@ -73,6 +75,8 @@ w: 杯痛饮 同
 w: 声歌颂 友
 |C3A, A,2 G,2
 w: 谊地久天
+|C6 G,2
+w: 长 我
 |C8|
 w: 长
 
