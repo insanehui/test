@@ -1,0 +1,53 @@
+title : [真的爱你, Beyond]
+timeSign : 4/4
+beat : 1/8
+key : C
+artist : 童话吉他记谱
+#tempo : 1/4=120
+tracks : 
+  - name: guitar
+    format: tab
+  - name: melody
+    format: jianpu
+    instrument: flute
+    volume: 16
+customChords :
+  'C' : 1;X,3,2,0,1,0
+  F: 1;X,X,3,2,1,1
+patterns : 
+  S : '[1234]^-^(^v)'
+  C : '"C"53 23'
+  Am : '"Am"53 23'
+  G : '"G"63 23'
+  F : '"F"43 23'
+  CC : '"C"54 32 [12345]$- --'
+  C2 : '"C"53 [12]3'
+  Am2 : '"Am"53 [12]3'
+  G2 : '"G"63 [12]3'
+  F2 : '"F"43 [12]3'
+  CC2 : '"C"53 [12]3 [12345]$- --'
+=================
+<guitar> "C"[12345]$- -- -- --
+<guitar> %C %G
+<guitar> %Am %F
+<guitar> %C %G
+<guitar> %CC
+<guitar> %C %G
+<guitar> %Am %F
+<guitar> %C %G
+<guitar> %CC
+<guitar> %F %G
+<guitar> %F %G {* [M: 2/4] *}
+
+<guitar>  "G" [123456]$- -- {* [M: 4/4] *}
+
+<guitar> %C2 %G2
+<guitar> %Am2 %F2
+<guitar> %C2 %G2
+<guitar> %CC2
+<guitar> %C2 %G2
+<guitar> %Am2 %F2
+<guitar> %C2 %G2
+<guitar> %CC2
+
+#include ./真的爱你简谱.mc3
