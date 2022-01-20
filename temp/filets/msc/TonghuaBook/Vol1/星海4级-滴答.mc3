@@ -1,13 +1,18 @@
 title : [滴答, 侃侃]
 timeSign : 4/4
 beat : 1/8
+key : C
+artist : 童话吉他记谱
 tracks : 
   - name: guitar
     format: tab
   - name: melody
     format: jianpu
+    instrument: flute
+    volume: 16
 customChords:
   Am/E: 1;X,X,2,2,1,0
+  'Dm' : 1;X,0,0,2,3,1
 patterns : 
   Dm : '"Dm"43231323'
   Dm1 : '"Dm"[42]32313[25]3'
@@ -46,7 +51,7 @@ w: 寂寞的夜和谁说*话
 w: 嘀嗒嘀嗒嘀嗒嘀嗒
 
 <guitar> %Dm | %AmOnE
-<melody> 02 22 21 16. | 33 *- -- --
+<melody> 02 22 21 16. | _33 *- -- --
 w: 小雨她拍打着水*花
 w: 伤心的泪儿谁来*擦
 
