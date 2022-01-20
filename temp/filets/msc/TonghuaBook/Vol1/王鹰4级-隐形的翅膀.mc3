@@ -1,0 +1,146 @@
+title : [隐形的翅膀, 张韶涵]
+timeSign : 4/4
+beat : 1/8
+key : C
+artist : 童话吉他记谱
+tempo : 1/4=120
+tracks : 
+  - name: guitar
+    format: tab
+  - name: melody
+    format: jianpu
+    instrument: flute
+    volume: 16
+customChords : 
+  'C' : 1;X,3,2,0,1,0
+  'Fmaj7' : 1;X,X,3,2,1,0
+  'G' : 1;3,2,0,0,0,3
+  'Am' : 1;X,0,2,2,1,0
+  'Am/G' : 1;3,X,X,2,1,0
+  'Am/#F' : 1;2,X,2,2,1,0
+  'Dm7' : 1;X,X,0,2(2),1(1),1(1)
+  'F/G' : 1;3,X,X,2,1,1
+  'Em/G' : 1;3,X,X,0,0,0
+  'Em' : 1;X,X,2,0,0,0
+  Em7 : 1;X,X,2,0,3,0
+  'Cmaj7' : 1;X,3,2,0,0,0
+patterns : 
+  L1 : "<C> 13 1'5 3'5 1'5"
+  L5 : "<G> 5.2 75 5'5 75"
+  l1 : "<C> 13 51'"
+  l2 : "<Dm7> 26 1'6"
+  l6 : "<Am> 6.6 1'6"
+  l6_5 : "<Am/G> 5.6 1'6"
+  l4 : "<Fmaj7> 46 1'6"
+=================
+<melody> {translate: 12, env: gp5}
+
+<guitar> 0- -- -- --
+<melody> 0- -- -- 5.1
+w: 每一
+
+<guitar> |: %L1
+<melody> 3- -5 3- 21
+w: 次 都在徘徊
+w: 想 他们拥有
+
+<guitar> %l4 %l1
+<melody> 11 16. 5.- 5.1
+w: 孤单中坚强 每一
+w: 美丽的太阳 我看
+
+<guitar> %L1
+<melody> 3- -5 55 65
+w: 次 就算很受伤 
+w: 见 每天的夕阳 
+
+<guitar> %L5
+<melody> 53 2(1_2) 2- 65
+w: 也不闪泪*光 我知
+w: 也会有变*化 我知
+
+<guitar> %l6 %l6_5
+<melody> 3- -5 55 65
+w: 道 我一直有双
+w: 道 我一直有双
+
+<guitar> <Am/#F> #4.6 1'6 [#4.61'3']- --
+<melody> 32 12 6.- 5.6.
+w: 隐形的翅膀 带我
+
+<guitar> >1 %l2 <F/G> [5.61'4']- --
+<melody> 1- -3 2- 2_3
+w: 飞 飞过绝*
+
+<guitar> <C>15 4'5 [151'3']$- -- :|
+<melody> 1- -- -- 5.1
+w: 望 不去
+
+<guitar> >2 %l2 <F/G> [5.61'4']- --
+<melody> 1- -3 2- 3_1
+w: 飞 给我希*
+
+<guitar> <C>15 4'5 [151'3']$- --
+<melody> 1- -- 0- 35
+w: 望 我终
+
+<guitar> %l6 <Em/G> 5.5 73'
+<melody> 1'- -1' 7- 65
+w: 于 看到 所有
+
+<guitar> <Fmaj7> 46 1'3' <C>15 1'3'
+<melody> 61' 32 1- 11
+w: 梦想都开花 追逐
+
+<guitar> <Dm7> 26 1'4' <C>15 1'3'
+<melody> 11' *6 53 21
+w: 的年*轻 歌声多嘹
+
+<guitar> <F/G>5.6 1'6 <G>5.5 75
+<melody> 2- -- -- 35
+w: 亮 我终
+
+<guitar> %l4 <Em>35 75
+<melody> 1'- -1' 7- 65
+w: 于 翱翔 用心
+
+<guitar> <Dm7>26 1'4' <C>15 1'3'
+<melody> 61' 32 1- 11
+w: 凝望不害怕 哪里
+
+<guitar> <Dm7>26 1'4' "F/G" [6123]- --
+<melody> 11' *6 53 21
+w: 会有*风 就飞多远
+
+<guitar> <C>15 4'5 [151'3']$- --
+<melody> 1- -- -- 35
+w: 吧 隐形
+
+<guitar> "Fmaj7"43 21 "Em"43 21
+<melody> 1'- -1' 7- 65
+w: 的翅膀 让梦
+
+<guitar> "Dm7"43 21 "C"53 21
+<melody> 61' 32 1- 11
+w: 恒久比天长 留一
+
+<guitar> "Dm7"43 21 "F/G"[6321]- --
+<melody> 11' *6 53 21
+w: 个 愿*望 让自己想
+
+<guitar> "Fmaj7"43 21 "Em7"43 21
+<melody> 1- -- -- --
+w: 象
+
+<guitar> "Dm7"43 21 _1- --
+<melody> 0- -- -- --
+w: 
+
+<guitar> "F/G" [6321]$- -- "G" [6321]$- --
+<melody> 0- -- -- --
+w: 
+
+<guitar> "Cmaj7"[12345]$- -- -- --
+<melody> 0- -- -- --
+w: 
+
