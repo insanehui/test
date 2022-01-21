@@ -1,0 +1,43 @@
+游戏引擎
+	phaser.js <url:https://phaser.io/> 在github上与pixi齐名，但好像国内的资源更多
+		api文档 <url:https://newdocs.phaser.io>
+		中文学习站点的资源大全 <url:https://www.phaser-china.com/show.html>
+		阿里大神竹逊 一个基于Phaser的小游戏集合 <url:https://github.com/channingbreeze/games>
+			非常全，已经囊括了市面流行或曾流行过的H5小游戏
+			打飞机 demo <url:http://game.webxinxin.com/plane/>
+	pixi
+资源
+	发现一个很牛逼的物理库 physicsjs <url:http://wellcaffeinated.net/PhysicsJS/>
+	发现一个很牛逼的动画特效库 Paper.js <url:http://paperjs.org/>
+	svg 俄罗斯方块 <url:http://www.codedread.com/yastframe.php>
+	JavaScript 勇者冒险（代码编程游戏） <url:http://www.mindpin.com/js-warrior.html> <url:http://www.mindpin.com/js-warrior/game/1.html>
+	react俄罗斯方块，厉害 <url:https://github.com/chvin/react-tetris>
+	h5游戏集锦 <url:https://github.com/topics/javascript-game>
+		但可能参差不齐
+	知乎集锦 <url:https://www.zhihu.com/question/19954833>
+	智能学习flappy小鸟玩法！ <url:https://github.com/xviniette/FlappyLearning>
+	2048游戏 <url:https://github.com/gabrielecirulli/2048>
+	老外写的一个多人在线3D网游, threejs, nodejs backend <url:https://github.com/Lallassu/wizardwarz>
+	在线贪食蛇游戏（没有代码） <url:http://joyfulgames.io/snakejoy/>
+	这个游戏的loading到底是怎么实现的？ [2018-03-11 17:15:53]
+		[X] [2018-03-11 18:52:46] 建一个react的工程来试试 [2018-03-11 17:26:58]
+		[X] [2018-03-11 18:57:28] 那个粒子如何做到是抛物线？ [2018-03-11 18:53:12]
+		[X] [2018-03-12 10:30:04] 为什么可以做到进度条加载完之后，才显示背景 [2018-03-12 09:59:41]
+			其实背景很早就已经在渲染了，只是进度条加载完之后才显示出来而已
+		[X] [2018-03-12 14:59:43] 研究一下那个enemy.escape到底干了什么事情 [2018-03-12 14:16:28]
+		[!] [2018-03-12 15:23:03] 波浪效果是怎么实现的？ [2018-03-12 15:06:04]
+			先这样吧。不好直接研究其代码
+	暂时开始学createjs吧 [2018-03-12 17:08:06]
+		有没有可能用webpack dev server来调试easeljs? [2018-03-12 20:29:55]
+	先学习 从零开始开发一款H5小游戏
+		从零开始开发一款H5小游戏(一) 重温canvas的基础用法 <url:https://segmentfault.com/a/1190000005892330>
+	然后再学particals.js?
+		一部分粒子效果: 星空 <url:https://codepen.io/e11world/pen/PZMjLE>
+		星座拆线 <url:https://codepen.io/MichaelVanDenBerg/pen/WpXGRm>
+		非particles.js: 原生js小球碰撞特效（类似windows泡泡屏保） <url:http://www.jq22.com/jquery-info4940>
+	游戏引擎
+		phaser.io 似乎最受欢迎 <url:https://phaser.io/>
+			中文网 <url:https://www.phaser-china.com/>
+			从零到一：用Phaser.js写意地开发小游戏 <url:https://segmentfault.com/a/1190000009212221>
+		一个统计 <url:https://html5gameengine.com/>
+		另一个汇总 <url:https://ourcodeworld.com/articles/read/308/top-15-best-open-source-javascript-game-engines>

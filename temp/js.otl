@@ -363,9 +363,10 @@
 			(?:ｘ)：匹配子模块但不放入$1-$9里
 			ｘ(?=ｙ)：look ahead
 			ｘ(?!ｙ)：negated look ahead
-				现在也普遍支持look behind了
+			现在也普遍支持look behind了:
 				console.log(/(?<=Jack|Tom)Sprat/.test('TomSprat')) // true
 				console.log(/(?<=Jack|Tom)Sprat/.test('TSprat')) // false
+				(?<!a)b 匹配前面不跟着"a"的"b"
 			ｘ|ｙ
 			{n}
 			{n,}
