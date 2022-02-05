@@ -1,7 +1,9 @@
 title : [白桦林, 朴树]
+artist: 童话吉他记谱
 timeSign : 3/4
 beat : 1/8
 key : G
+#tempo : 1/4=120
 tracks : 
   - name: guitar
     format: tab
@@ -29,6 +31,9 @@ patterns :
   L5 : "<D>26 2'4' 2'6"
   L1b : "<G/B>7.5 75' 75"
 =================
+<melody> {translate: 12, env: gp5}
+<melody> {translate: 5, env: jcx}
+
 <guitar> {key: G}
 <guitar> %L6
 <guitar> %L6b
@@ -85,7 +90,7 @@ patterns :
 <guitar> %L6 :|
 
 <melody> {key: G}
-<melody> 7.- -1 7-
+<melody> 7.- -1 7.-
 w: 静静的
 w: 有一天
 w: 噩耗声
