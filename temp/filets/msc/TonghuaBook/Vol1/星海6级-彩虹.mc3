@@ -1,8 +1,9 @@
 title : [彩虹, 周杰伦]
+artist: 童话吉他记谱
 timeSign : 4/4
 beat : 1/8
 key : C
-tempo : 1/4=90
+#tempo : 1/4=78
 tracks : 
   - name: guitar
     format: tab
@@ -32,6 +33,7 @@ customChords :
   'D' : 1;X,X,0,2(1),3(2),2(1)
   'D/#F' : 1;X,X,4,2,3,2
   'Am/#F' : 1;2,X,2,2,1,0
+  'F/G' : 1;3,X,3,2,1,1
 patterns : 
   A1: "<C> [13']51'1 "
   A2: "<Dm7> [24']61'2" 
@@ -39,6 +41,7 @@ patterns :
   s: '[1234]^-^^'
   s5: '[12345]^-[1234]^^'
   s6: '[123456]^-[1234]^^'
+  s6-5: '[12346]^-[1234]^^'
   ss: '[1234]^-^(^v)'
   ss5: '[12345]^-^(^v)'
   ss6: '[123456]^-[1234]^(^v)'
@@ -49,7 +52,7 @@ patterns :
   S3M: '"E"%s6'
   S6: '"Am7"%s5'
   S2: '"Dm7"%s'
-  S5s4: '"Gsus4add9"%s6'
+  S5s4: '"Gsus4add9"%s6-5'
 =================
 <melody> {translate: 12, env: gp5}
 
@@ -187,17 +190,17 @@ w: 白
 <guitar> %S4 %S5
 <guitar> %S3 %S6
 <guitar> %S2 %S5s4
-<guitar> "Cadd9"%s5 "C"%ss5
+<guitar> "Cadd9"%s5 %ss5
 <guitar> "Bm7"%s5 "E"%s6
-<guitar> "Am"%s5 "C/G"%s6
+<guitar> "Am"%s5 "C/G"%s6-5
 <guitar> "D"%s "D/#F"%s
-<guitar> "Gsus4add9"[123456]^^ ^^ "G"%ss6
+<guitar> "Gsus4add9"[12346]^^ ^^ "G"%ss6
 <guitar> %S1 %S3M
-<guitar> "Am"%s5 "C/G"%s6
+<guitar> "Am"%s5 "C/G"%s6-5
 <guitar> %S4 %S5
-<guitar> %S1 "F"[123456]^- "Gsus4add9"[123456]^[1234]^
+<guitar> %S1 "F/G"[64321]^-[1234]^^
 <guitar> %S1 %S3M
-<guitar> "Am"[12345]^- ^"C/G"[123456]^ "Am/#F"%s6
+<guitar> "Am"[12345]^- ^"C/G"[12346]^ "Am/#F"%s6-5
 <guitar> %S2 %S5s4
 <guitar> >1 %S1 [12345]$- -- :|
 <guitar> >2 %A1 %A2
