@@ -1,5 +1,6 @@
 title : [情非得已, 庾澄庆]
 artist : 童话吉他记谱
+#tempo : 1/4=120
 timeSign : 4/4
 beat : 1/8
 key : C
@@ -110,7 +111,7 @@ patterns :
 #include ./情非得已简谱.mc3
 
 # 反复1
-<guitar> >1 "C"[123456]^- %X5 :|
+<guitar> >1 "C"[12345]^- %X5 :|
 <melody> 0- -- -- 34
 w: 难以
 

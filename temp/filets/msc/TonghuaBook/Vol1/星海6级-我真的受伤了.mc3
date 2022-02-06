@@ -1,7 +1,10 @@
 title : [我真的受伤了, 张学友]
+artist: 童话吉他记谱
 timeSign : 4/4
 beat : 1/8
 key : G
+#key : C
+#tempo : 1/4=78
 tracks : 
   - name: guitar
     format: tab
@@ -43,7 +46,9 @@ patterns :
   A2m : '"Am7"5423'
 =================
 <melody> {translate: -7, key: G}
+
 <guitar> {key: G}
+<melody> {key: G}
 
 <guitar> 0- -- -- --
 <melody> 35 37 6- --
@@ -57,10 +62,10 @@ w: 音乐低声了 我
 <melody> 1'7 53 5- 65
 w: 的心开始想 你了
 
-<guitar> 0- -- 
+<guitar> {*[M: 2/4]*} 0- -- 
 <melody> -- --
 
-<guitar> <Cmaj7>1375 <D>262'6.
+<guitar> {*[M: 4/4]*} <Cmaj7>1375 <D>262'6.
 <melody> 0-------
 
 <guitar> %L3 %L6
@@ -123,7 +128,7 @@ w: 又想念了
 
 <guitar> %L4 %L577
 <melody> 03' 3'(3'3') *2' 61'
-w: 怎么你声音*变得
+w: 怎么你声*音变得
 
 <guitar> %L3 <E>3.#5 73'
 <melody> 7- 6- #5- -3
