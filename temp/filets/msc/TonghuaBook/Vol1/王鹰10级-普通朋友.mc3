@@ -1,0 +1,27 @@
+title : [听海, 张学友]
+artist : tcli编谱
+timeSign : 4/4
+beat : 1/8
+key : E
+tempo : 1/4=68
+tracks : 
+  - name: guitar
+    format: tab
+  - name: melody
+    format: jianpu
+    instrument: flute
+    volume: 16
+customChords : 
+  'Eadd9' : 1;0,X,4,1,0,0
+patterns : 
+  L : "<G>0- -- -- --"
+=================
+#<melody> {translate: 12, env: gp5}
+#<melody> {translate: -4, env: jcx}
+
+<guitar> {key: E}
+
+<guitar> <Eadd9> 3.7. 45 73' *-
+<melody> 0- -- -- --
+w: 
+
