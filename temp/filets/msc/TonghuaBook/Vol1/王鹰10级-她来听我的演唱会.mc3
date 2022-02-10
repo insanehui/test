@@ -1,9 +1,9 @@
 title : [她来听我的演唱会, 张学友]
 artist : 童话吉他记谱
 beat : 1/8
-#key : G
-key : C
-tempo : 1/4=68 
+key : G
+#key : C
+#tempo : 1/4=68 
 tracks : 
   - name: guitar
     format: tab
@@ -39,7 +39,7 @@ patterns :
   D2 : "<Am11 >(6.51'7 *3'75)"
   B5 : "<C/D> (21'3'5') *-"
 =================
-# <melody> ::translate: -7
+<melody> {translate: -7, env: jcx}
 
 <guitar> <G> ([5.7]51'p7 [7.2']55'5) <C>([1#4']3'2'1') <G>([7.2']-5-)
 <melody> 0-------
