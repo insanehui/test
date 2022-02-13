@@ -5,7 +5,7 @@ artist : 童话吉他记谱
 timeSign : 4/4
 beat : 1/8
 key : E
-tempo : 1/4=90
+#tempo : 1/4=90
 tracks : 
   - name: guitar
     format: tab
