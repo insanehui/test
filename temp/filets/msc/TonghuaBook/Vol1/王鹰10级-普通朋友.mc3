@@ -4,7 +4,7 @@ title : [普通朋友, 陶喆]
 artist : 童话吉他记谱
 timeSign : 4/4
 beat : 1/8
-key : C
+key : E
 tempo : 1/4=90
 tracks : 
   - name: guitar
@@ -14,6 +14,7 @@ tracks :
     instrument: flute
     volume: 16
 customChords : 
+  'E' : 1;0,2,2,1,0,0
   'Eadd9' : 1;0,2,4,1,0,0
   'Ebm7-5(6)' : 6;X,1(1),2(3),1(2),2(4),X
   'G#7' : 4;1,X,1,2,1,1
@@ -22,19 +23,35 @@ customChords :
   'Bm7' : 2;X,1,3,1,2,1
   'E6add9+' : 1;0,X,X,1,2,3
   'A' : 1;X,0,2,2,2,0
+  'Gm7' : 3;1,3,1,1,1,1
   'G#m7.' : 4;1(1),X,1(2),1(3),1(4),X
+  'G#m7' : 4;1,3,1,1,1,1
+  'F#7' : 2;1,3,1,2,1,1
   'F#m7' : 1;2(1),X,2(2),2(3),2(4),0
   'F#m7(2)' : 2;1,X,3,1,4,1
+  'B7' : 2;X,1,3,1,3,1
   'B7sus4.' : 2;X,1,1,1,4,1
   'B7sus4' : 2;X,1,3,1,4,1`
+  'Am7' : 1;X,0,2,0,1,0
+  'A/B' : 1;X,2,X,2,2,0
+  'Am11' : 5;X,0,0,1,3,1
+  'Am6' : 1;X,0,X,2,1,2
 patterns : 
   L : "<G>0- -- -- --"
+  P62b : "6[234] x[6234] [234]= x[6234]"
+  P6 : "6[123] x[6123] [123]= x[6123]"
+  P6b : "6[123] x[6123] *[123] x[6123]"
   L1 : '"E"6- x[6123] *[123] x[123]'
+  L2 : '"F#m7"%P6'
+  L2a : '"F#m7"%P62b'
+  L2b : '"F#m7"%P6b'
+  L5 : '"B7sus4"5[234] x"B7"[5123] [123]= x[5123]'
   L4m : '"Am"5- x[5123] *[123] x[123]'
+  L4m7 : "<Am7>6.&5 &1'3' *&1' &53"
   L4mb : '"Am"5- x[5123] [123]= x[123]'
 =================
 #<melody> {translate: 12, env: gp5}
-#<melody> {translate: -4, env: jcx}
+<melody> {translate: -4, env: jcx}
 
 <guitar> {key: E}
 <melody> {key: E}
@@ -73,191 +90,318 @@ w: 等
 
 #开始唱
 
-<guitar> %L1
+<guitar> |: %L1
 <melody> 5- -- -- 03
 w: 待 我
+w: 猜 你
 
 <guitar> %L4m
 <melody> 65 65 6- 75
 w: 随时随地在等待
+w: 早就想要说明白
 
 <guitar> %L1
 <melody> -- -- -- 03
 w: *做
+w: *我
 
 <guitar> %L4mb
 <melody> 65 65 6- 75
 w: 你感情上的依赖
+w: 觉得自己好失败
+
+<guitar> %L1
+<melody> -- -- -- 03
+w: *我
+w: *从
+
+<guitar> %L4m
+<melody> 43 43 4- 54
+w: 没有任何的疑问
+w: 天堂掉落到深渊
+
+<guitar> <F#m7(2)> 4.- x[463'] *[3'4'] x[46]
+<melody> -(_3_1) *- 05 54
+w: ***这是爱
+w: ***多无奈
+
+<guitar> >1 <B7sus4>7.4 63' s2'+ +- :|
+<melody> -- -- -- 03
+w: *我
+
+<guitar> >2 %L5
+<melody> -- -- -- 07
+w: *我
+
+<guitar> %L4m7
+<melody> &1'- -7 *6 *5
+w: 愿意*改*变
+
+<guitar> %L1
+<melody> -- -- -- 07
+w: *重
+
+<guitar> %L4m7
+<melody> &1'- &1'7 *6 *5
+w: 新再来*一*遍
+
+<guitar> %L1
+<melody> -- -- -- 07
+w: *我
+
+<guitar> %L4m7
+<melody> 3'- 3'&2' *&1' *7
+w: 无法只*是*普
+
+<guitar> "G#m7"6[234] x"C#m7"[5123] *3 12
+<melody> -5 4'(4'_3') *- 07
+w: *通朋友** 感
+
+<guitar> %L2a
+<melody> 1'3' 3'1' 3'- 77
+w: 情已那么深 叫我
+
+<guitar> "B7sus4"54 32 _23 42
+<melody> 5'5' 5'6' 5'- -(_6'_5')
+w: 怎么能放手
+
+<guitar> "B7"[12345]$- -- ""07. (7.h1)3
+<melody> _4'- -- 07 77
+w: * 但你说
+
+<guitar> %L1
+<melody> 5'- -- -- 03'
+w: 爱 I
+
+<guitar> "G#m7"%P62b
+<melody> 4'4' 4'4' 4'- 5'3'
+w: on-ly wan-na be your friend
+
+<guitar> %L2b
+<melody> -- -- 01' 3'1'
+w: *做个朋
+
+<guitar> %L5
+<melody> -7 *_5 _4- 07
+w: *友*** 我
+
+<guitar> %L1
+<melody> 5'_6' _5'_6' (_5'_4')_3' *3'
+w: 在*** *** * 你
+
+<guitar> "G#m7"6[432] x6 [6432]- "Gm7"[6432]-
+<melody> 4'4' 4'3' 7'- 5'4'
+w: 心中只是 Just a fri-
+
+<guitar> %L2
+<melody> -- (_5'_4')_3' *1' 3'5'
+w: *end*** 不是情
+
+<guitar> %L5
+<melody> -_6' _5'_4' *- -7
+w: ***人* 我
+
+<guitar> "Ebm7-5(6)"54 32 _24 34
+<melody> 1'1' 1'1' *1' 1'&1'
+w: 感激你对*我这样
+
+<guitar> "G#7"64 32 _11 2-
+<melody> -- &1'1' *2' *5
+w: *的坦*白* 但
+
+<guitar> "C#m7"54 32 _24 34
+<melody> 3'2' 3'2' *1' 2'3'
+w: 我给你的*爱暂时
+
+<guitar> "F#7"63 21 _12 34
+<melody> -2' 3'2' *1' *7
+w: *收不回*来 *So
+
+<guitar> "F#m7"6[234] x[6234] [234]= x6
+<melody> 5'- -- -- (_5'_4')_3'
+w: I
+
+<guitar> "A/B"[5123]- [5123]- 0+ +-
+<melody> 4'4' 4'4' 4'- 5'(4'_3')
+w: 不能只是 Be your friend
+
+<guitar> <E>3.[357] x[3.7] ((4'h5')-)(*(4'h5')) p4'3'
+<melody> -- -- 0- --
+w: 
+
+<guitar> <Am>[6.&1']((&2'p&1'p7h&1')) *6. 3'&1' 63
+<melody> 0- -- -- --
+w: 
+
+<guitar> <E>3.[357] x3. [53'](-[64']) *[7@g5']
+<melody> 0- -- -- --
+w: 
+
+<guitar> "Am11"[12345]$- -- 0+ +-
+<melody> 0- -- -- 03
+w: 我
+
+<guitar> %L1
+<melody> 5- -- -- 03
+w: 猜 你
+
+<guitar> %L4m
+<melody> 65 65 6- 75
+w: 早就想要说明白
 
 <guitar> %L1
 <melody> -- -- -- 03
 w: *我
 
+<guitar> %L4mb
+<melody> 65 65 6- 75
+w: 觉得自己好失败
+
+<guitar> %L1
+<melody> -- -- -- 03
+w: *从
+
 <guitar> %L4m
 <melody> 43 43 4- 54
-w: 没有任何的疑问
+w: 天堂掉落到深渊
 
 <guitar> <F#m7(2)> 4.- x[463'] *[3'4'] x[46]
 <melody> -(_3_1) *- 05 54
-w: ***这是爱
+w: ***多无奈
 
-<guitar> <B7sus4>7.4 63' s2'+ +-
-<melody> -- -- -- 03
+<guitar> %L5
+<melody> -- -- -- 07
 w: *我
 
-<guitar> %L
+<guitar> %L4m7
+<melody> &1'- -7 *6 *5
+w: 愿意*改*变
+
+<guitar> %L1
+<melody> -- -- -- 07
+w: *重
+
+<guitar> %L4m7
+<melody> &1'- &1'7 *6 *5
+w: 新再来*一*遍
+
+<guitar> %L1
+<melody> -- -- -- 07
+w: *我
+
+<guitar> %L4m7
+<melody> 3'- 3'&2' *&1' *7
+w: 无法只*是*普
+
+<guitar> "G#m7"6[234] x"C#m7"[5123] *3 12
+<melody> -5 4'(4'_3') *- 07
+w: *通朋友** 感
+
+<guitar> %L2a
+<melody> 1'3' 3'1' 3'- 77
+w: 情已那么深 叫我
+
+<guitar> "B7sus4"54 32 _23 42
+<melody> 5'5' 5'6' 5'- -(_6'_5')
+w: 怎么能放手
+
+<guitar> "B7"[12345]$- -- ""07. (7.h1)3
+<melody> _4'- -- 07 77
+w: * 但你说
+
+<guitar> %L1
+<melody> 5'- -- -- 03'
+w: 爱 I
+
+<guitar> "G#m7"%P62b
+<melody> 4'4' 4'4' 4'- 5'3'
+w: on-ly wan-na be your friend
+
+<guitar> %L2b
+<melody> -- -- 01' 3'1'
+w: *做个朋
+
+<guitar> %L5
+<melody> -7 *_5 _4- 07
+w: *友*** 我
+
+<guitar> %L1
+<melody> 5'_6' _5'_6' (_5'_4')_3' *3'
+w: 在*** *** * 你
+
+<guitar> "G#m7"6[432] x6 [6432]- "Gm7"[6432]-
+<melody> 4'4' 4'3' 7'- 5'4'
+w: 心中只是 Just a fri-
+
+<guitar> %L2
+<melody> -- (_5'_4')_3' *1' 3'5'
+w: *end*** 不是情
+
+<guitar> %L5
+<melody> -_6' _5'_4' *- -7
+w: ***人* 我
+
+<guitar> "Ebm7-5(6)"54 32 _24 34
+<melody> 1'1' 1'1' *1' 1'&1'
+w: 感激你对*我这样
+
+<guitar> "G#7"64 32 _11 2-
+<melody> -- &1'1' *2' *5
+w: *的坦*白* 但
+
+<guitar> "C#m7"54 32 _24 34
+<melody> 3'2' 3'2' *1' 2'3'
+w: 我给你的*爱暂时
+
+<guitar> "F#7"63 21 _12 34
+<melody> -2' 3'2' *1' *7
+w: *收不回*来 *So
+
+<guitar> "F#m7"6[234] x[6234] [234]= x6
+<melody> 5'- -- -- 03'
+w: I 我
+
+<guitar> "A/B"[5123]- [5123]- *- --
+<melody> 4'4' 4'3' 4'- --
+w: 不能只是 Be 
+
+<guitar> 0- -- 0"Harm"""7'@b "Harm"""3''-
+<melody> -- -- -- 5'(4'_3')
+w: *your friend
+
+<guitar> <E>3.[357] x[3.7] ((4'h5')-)(*(4'h5')) p4'3'
 <melody> -- -- -- --
 w: 
 
-<guitar> %L
-<melody> -- -- -- --
+<guitar> <Am >[6.&1']((&2'p&1'p7h&1')) *6. 3'&1' 63
+<melody> 0- -- -- --
 w: 
 
-<guitar> %L
-<melody> -- -- -- --
+<guitar> <E >3.[357] (3'(-4')-5') ((5's6')--5') *(4'p3')
+<melody> 0- -- -- --
 w: 
 
-<guitar> %L
-<melody> -- -- -- --
+<guitar> <Am6 > [6.6&1'4']- -6. ((3'h4')-)(*(3'h4')) p3'&1'
+<melody> 0- -- -- --
 w: 
 
-<guitar> %L
-<melody> -- -- -- --
+<guitar> <E> ([3.7]h&1')7 *3 5(3'7) (3'(-4')-5')
+<melody> 0- -- -- --
 w: 
 
-<guitar> %L
-<melody> -- -- -- --
+<guitar> ([6.&1'@g3'@b6']h7'-6') *5' ([6.6&1'3']h4'-3') *4'
+<melody> 0- -- -- --
 w: 
 
-<guitar> %L
-<melody> -- -- -- --
+<guitar> ([3.64']s[7@g5'])- x3. 35 73'
+<melody> 0- -- -- --
 w: 
 
-<guitar> %L
-<melody> -- -- -- --
+<guitar> <Am6 > [6.6&1'4']- ((3'h4')p3')- &1'- 6-
+<melody> 0- -- -- --
 w: 
 
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
-w: 
-
-<guitar> %L
-<melody> -- -- -- --
+<guitar> "Eadd9"[123456]$- -- -- --
+<melody> 0- -- -- --
 w: 
 
