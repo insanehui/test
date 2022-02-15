@@ -1,0 +1,71 @@
+title : [蓝莲花, 许巍]
+artist : 童话吉他记谱
+key : D
+beat : 1/8
+#tempo : 1/4=90 
+tracks : 
+  - name: guitar
+    format: tab
+  - name: melody
+    format: jianpu
+customChords:
+  'G5' : 1;3,X,0,0,3,3
+patterns: 
+  S : '[1234]^-^(^v)(^v)^^(^v)'
+  L1: '"D"%S'
+  L4: '"G5"%S'
+  L6: '"Bm"%S'
+  L2: '"Em"%S'
+  L5: '"A"%S'
+=================
+<guitar> "D"[4321]$------- | %L4
+<melody> 5.6. 12 3(-2) *1| 6.- -- -- --
+w: 没有什么能够*阻挡
+
+<guitar> %L1 | %L5
+<melody> 5.6. 12 35 *2 | -- -- -- --
+w: 你对自由的向*往
+
+<guitar> %L5 | %L6
+<melody> 02 *5. 22 32 | 1- -- -- --
+w: 天*马行空的生涯
+
+<guitar> %L5 | %L4
+<melody> 02 22 5.6. 16.| -- -- -- --
+w: 你的心了无牵挂
+
+<guitar> %L2 | %L5
+<melody> 04 *4 32 13| 2- -- -- --
+w: 穿*过幽暗的岁月
+
+<guitar> %L2 | %L5
+<melody> 04 *6 54 32 | -- -- -- --
+w: 也*曾感到彷徨
+
+<guitar> %L5 | %L6
+<melody> 02 *5. 22 32 | 1- -- -- --
+w: 当*你低头的瞬间
+
+<guitar> %L5 | %L4
+<melody> 02 22 5.6. 16.| -- -- -- --
+w: 才发觉脚下的路
+
+<guitar> %L1 | %L4
+<melody> 05 55 55 56| 6- -- -- --
+w: 心中那自由的世界
+
+<guitar> %L4 | %L1
+<melody> 06 66 1'6 65| -- -- -- --
+w: 如此的清澈高远
+
+<guitar> %L1 | %L4
+<melody> 05 55 56 1'6| -- -- -- 56
+w: 盛开着永不凋零 *蓝莲
+
+<guitar> %L1 | "A"[654321]$-------
+<melody> 3'-------| _2'-------
+w: 花*
+
+<guitar> "D"[1234]$- -- -- --
+<melody> 0-------
+w: 
