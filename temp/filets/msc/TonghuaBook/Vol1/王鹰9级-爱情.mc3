@@ -21,8 +21,10 @@ customChords :
   'Em7/B' : 1;X,2(2),X,0,3(4),0
   Em7 : 1;0,X,2,0,3,3
   'A7sus4' : 1;X,0,X,0,3(4),0
+  'G.' : 1;3,2,0,0,3,0
   'G6.' : 1;3,X,0,0,3,0
   'G6/#F' : 1;2,X,0,0,3,0
+  'G/B' : 1;X,2,0,0,3,X
   'F#m7' : 2;1,3,1,1,1,1
   'Bm7' : 2;X,1,3,1,2,1
   'Bm' : 2;X,1,3,3,2,1
@@ -30,9 +32,11 @@ customChords :
   'Bm/A' : 1;X,0,4,4,3,2
   'A7' : 1;X,0,2,0,2,0
   'A.' : 2;X,0,1,1,1,4
+  'A6' : 1;X,0,2,2,2,2
   'D(7)' : 7;X,X,0,1,1,4
   'Bm(5)/D' : 5;X,X,0,3,3,3
   'G6' : 3;X,X,3,2,1,0
+  'C6' : 1;X,3,X,2,1,0
   'D(2)/#F' : 2;X,X,3,1,2,1
   'D' : 1;X,X,0,2,3,2
   'G#m7-5' : 3;2,X,2,2,1,X
@@ -207,42 +211,261 @@ w:
 #副歌
 
 <guitar> %L65
-<melody> 0- -- -- --
-w: 
+<melody> 2'- -1' 7- 64
+w: 爱是折磨人
 
 <guitar> %L45 "D"[1234]2 3-
-<melody> 0- -- -- --
-w: 
+<melody> 3- 4_6 4- --
+w: 的东*西
 
 <guitar> %L65
-<melody> 0- -- -- --
-w: 
+<melody> 2'- -1' 7- 64
+w: 却又舍不得
 
 <guitar> %L45 <D >[262'4']((3'h4')p3') 2'6
-<melody> 0- -- -- --
-w: 
+<melody> 3- 46 4- --
+w: 这样放弃
 
 <guitar> %L3
-<melody> 0- -- -- --
-w: 
+<melody> 6- -6 7- 64
+w: 不停揣测你
 
 <guitar> <Bm>7.4 [72']- <G#m7-5>#5.4 2'7
-<melody> 0- -- -- --
-w: 
+<melody> 6- 7_6 2'_7 *-
+w: 的心*理*
 
 <guitar> <Em>3.7. 35 75 3'7
-<melody> 0- -- -- --
-w: 
+<melody> 2'7 *- -- --
+w: 可有
 
 <guitar> <Em>3.7. 35 7- 3'-
-<melody> 0- -- -- --
-w: 
+<melody> 2'- -- 7- _4-
+w: 我姓*
 
-<guitar> <Asus4> 6.3 62' 6'2' 62'
-<melody> 0- -- -- --
-w: 
+<guitar> <Asus4> 6.3 62' 6'2' 62' 
+<melody> 3- -- -- --
+w: 名
 
 <guitar> <Asus4> [6.2']3 62' <A>[6.1']- 6- 
+<melody> 0- -- -- --
+w: 
+
+<guitar> <Dsus2>26 2'3' <Asus4/#C> 16 2'3'
+<melody> 6.- 6.4. 43 *-
+w: 若不是因为
+
+<guitar> <Em7/B>7.5 2'3' <A7sus4>6.5 2'3'
+<melody> 2- -4. 7.6. *-
+w: 爱着你*
+
+<guitar> <G6.>5.5 2'3' <G6/#F>4.5 2'3'
+<melody> 7.- 6.4. 6.2 *-
+w: 怎会不经意
+
+<guitar> <Em>3.5 3'7 <A>[6.361']- --
+<melody> 3- -2 4_3 *-
+w: 就叹息*
+
+<guitar> %L3
+<melody> 4- -6 6- 43
+w: 有种不完整
+
+<guitar> <Bm7>7.4 62' 4'- 2'-
+<melody> 2- -(3_2) 7.- --
+w: 的心*情
+
+<guitar> %L4
+<melody> 4(3_2) _7.- -- --
+w: 爱你** 
+
+
+<guitar> <Em>[3574']- 3'- -- --
+<melody> 4(-3) *- -- --
+w: 爱你
+
+<guitar> <A6> [6.61'4']- -- 6- --
+<melody> 4- -- 6.- --
+w: 爱着
+
+<guitar> <Dsus2>26 2'3' *4' (4's6')-
+<melody> (3_2)- *- -- --
+w: 你
+
+#间奏
+
+<guitar> <Dsus2>26 2'6 <C6>&16 &1'6
+<melody> 0- -- -- --
+w: 
+
+<guitar> <G/B>7.5 2'<Dsus2>6. *6 2'6
+<melody> 0- -- -- --
+w: 
+
+<guitar> <Dsus2>26 2'6 <C6>&16 &1'6
+<melody> 0- -- -- --
+w: 
+
+<guitar> <G/B>7.5 2'<Dsus2>6. *6 2'6
+<melody> 0- -- -- --
+w: 
+
+<guitar> <G.>5.2 52' 3'((3'h4')-) 3'2'
+<melody> 0- -- -- --
+w: 
+
+<guitar> <Em> [3.7]3 57 3'4' 3'2'
+<melody> 0- -- -- --
+w: 
+
+<guitar> <A.>6.- 36 6'1' 61'
+<melody> 0- -- -- --
+w: 
+
+<guitar> <A.>[6.62']3 6'2' [6.1']3 63
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
 <melody> 0- -- -- --
 w: 
 
