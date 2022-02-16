@@ -13,7 +13,12 @@ customChords :
   'Cadd9' : 1;X,3,2,0,3,0
   'Cadd9.' : 1;X,3,2,0,3,3
   'C/bB' : 1;X,1,X,0,1,0
+  'D/C' : 1;X,3,0,2,3,2
+  'Dm7' : 1;X,X,0,2(2),1(1),1(1)
+  'Em' : 1;0,X,2,0,0,0
+  'F/C' : 1:X;1,X,X,2,1,1
   'F6(3)' : 3;X,X,1,3,1,3
+  'Fadd9' : 1;X,X,3,2,1,3
   'Gsus4' : 1;3,2,0,0,1,3
   'G' : 1;3,2,0,0,0,3
 patterns : 
@@ -62,27 +67,27 @@ w:
 <melody> 0- -- -- --
 w: 
 
-<guitar> %L
+<guitar> <D/C>16 #4'2' *- --
 <melody> 0- -- -- --
 w: 
 
-<guitar> %L
+<guitar> <F/C> 1- 61' *4' *-
 <melody> 0- -- -- --
 w: 
 
-<guitar> %L
+<guitar> <Csus2>15 1'2' *5' 2'1'
 <melody> 0- -- -- --
 w: 
 
-<guitar> %L
+<guitar> <Em>35 73' *7 53
 <melody> 0- -- -- --
 w: 
 
-<guitar> %L
+<guitar> <Fadd9>4- 65' *- 1'-
 <melody> 0- -- -- --
 w: 
 
-<guitar> %L
+<guitar> <Dm7>26 1'4' *1' 6-
 <melody> 0- -- -- --
 w: 
 
