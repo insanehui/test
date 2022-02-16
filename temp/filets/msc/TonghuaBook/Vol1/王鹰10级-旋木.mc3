@@ -3,204 +3,248 @@ artist : 童话吉他记谱
 timeSign : 4/4
 beat : 1/8
 key : C
-tempo : 1/4=120
+tempo : 1/4=70
 tracks : 
   - name: guitar
     format: tab
   - name: melody
     format: jianpu
 customChords : 
-  'Gm7M' : 1;3,X,X,3,3,2
+  'Cadd9' : 1;X,3,2,0,3,0
+  'Cmaj7' : 1;X,3,2,0,0,0
+  'C#dim' : 3;X,2,3,1,3,1
+  'D' : 1;X,X,0,2,3,2
   'D(5)' : 5;X,X,0,3,3,1
-  'G/B' : 1;X,2,0,0,3,X
+  'D6add11' : 3;X,3,2,0,0,X
+  'D11/G' : 1;3,X,4,0,3,0
+  'G(3)' : 3;X,X,X,2(2),1(1),1(1)
+  'Gm7M' : 1;3,X,X,3,3,2
+  'G/B' : 1;X,2(1),0,0,3(4),X
+  'A' : 1;X,0,2,2,2,0
+  'A(5)' : 5;X,0,X,2(2),1(1),1(1)
+  'Bm7' : 1;X,2,0,2,3,2
 patterns : 
-  L: '"D"0- -- -- --'
-  Gm: " <Gm7M >(5.56b7 2'4'3'2')"
+  'L': '"D"0- -- -- --'
+  'Gm': " <Gm7M >(5.56b7 2'4'3'2')"
+  'C': "<Cadd9>(&1353' &1352')"
+  'C2': "<Cmaj7>(&1357 &15--)"
+  'D': "<D >(264'3' 261'2' 264'3' 22'--)"
+  'D2': "<D6add11 >(2457) (2@d6@g)- "
   'D(5)': "<D(5) >(22'4'6' p3'4'2'-) "
-  'D(5)2': "<D(5) >(22'[4'6'])<>[13'] (*)<G/B>([7.2'](5h6)2')"
+  'D(5)2': "<D(5) >(22'[4'6'])<>([13'@b]) (*)<G/B>([7.2'](5h6)2')"
+  'Bm': "<Bm7 >(7.64'3' 7.61'2' 7.64'3' 7.2'--)"
+  'G' : "<D11/G >(5.252' 452'3')"
+jcxStyle : 
+  #barsperstaff: 3
 =================
 <guitar> {key: D}
-<melody> {key: D}
+<melody> {key: D, translate: 12}
 
 #<melody> {translate: -2}
 
 <guitar> %Gm %D(5)
-<melody> 0------- 
-w: 
+<melody> 5- 25 4(-2) *-
+w: 呜呜呜呜呜
+
+<guitar> %Gm %D2
+<melody> 5- 25 4- --
+w: 呜呜呜呜呜
 
 <guitar> %Gm %D(5)2
-<melody> 0------- 
+<melody> 5- 65 4- 2-
+w: 呜呜呜呜呜
+
+<guitar> %C "A(5)"(53[12]5) "G(3)"(3[12])"G/B"[52]
+<melody> 3- 45 3- --
+w: 呜呜呜呜
+
+<guitar> {*[M: 2/4]*} "C#dim"(5432) 1-
+<melody> 0- 0(06.)
+w: 拥
+
+#开始唱
+
+<guitar> {*[M: 4/4]*} %D
+<melody> (3232 3632 1216. *--4.)
+w: 有华丽的外表和绚烂的灯光 *我
+
+<guitar> %Bm
+<melody> (7.111 17.7.1 23-4 *--2)
+w: 是匹旋转木马身在这天堂 *只
+
+<guitar> %G %D2
+<melody> (7.7.7.7. 7.5-- 4-34 *--6.)
+w: 为了满足孩子的梦想 * 爬
+
+<guitar> %C2 "A"(54[32])""([7.2'] 0[13'@b]--)
+<melody> (3434 3-22 7.-43 *--6.)
+w: 到我背上就带你去翱翔* 我
+
+<guitar> %L
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
 <guitar> %L
-<melody> 0------- 
-w: 
-
-<guitar> %L
-<melody> 0------- 
-w: 
-
-<guitar> %L
-<melody> 0------- 
+<melody> (0--- ---- ---- ----)
 w: 
 
