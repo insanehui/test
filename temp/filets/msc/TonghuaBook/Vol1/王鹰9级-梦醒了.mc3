@@ -20,12 +20,15 @@ customChords :
   'Dm7(5)' : 5;X,X,0,1,2,1
   'Em' : 1;0,X,2,0,0,0
   'F/C' : 1;X,3,X,2,1,1
+  'F/G' : 1;3,X,3,2,1,X
   'F6(3)' : 3;X,X,1,3,1,3
   'Fadd9' : 1;X,X,3,2,1,3
   'Fadd9.' : 1;1,X,3,2,1,3
   'Gsus4' : 1;3,2,0,0,1,3
   'G' : 1;3,2,0,0,0,3
   'Gsus4add9' : 1;3,X,0,2,1,3
+  'Am(5)' : 5;X,0,X,1,1,1
+  'Bb6' : 1;X,1,X,3,3,3
 patterns : 
   'L': '"C"0- -- -- --'
   '主1': "<Cadd9>13 52' *- --"
@@ -149,43 +152,43 @@ w:
 <melody> 0- -- -- --
 w: 
 
-<guitar> %L
-<melody> 0- -- -- --
-w: 
+<guitar> <F>4.1 46 41' 64
+<melody> 0- 43 43 1-
+w: 想跟着你一
 
-<guitar> %L
-<melody> 0- -- -- --
-w: 
+<guitar> <Am >6.3 67 1'7 63
+<melody> 3(-1) *- -1 16.
+w: 辈子* 至少这
 
-<guitar> %L
-<melody> 0- -- -- --
-w: 
+<guitar> <Fadd9.>4.4 64 5'1' 64
+<melody> 11 16. 16. *3
+w: 样的世界没有*现
 
-<guitar> %L
-<melody> 0- -- -- --
-w: 
+<guitar> <G >5.2 51' 76 5-
+<melody> -2 *- -- --
+w: 实
 
-<guitar> %L
-<melody> 0- -- -- --
-w: 
+<guitar> <Bb6>b7.b7 2'5' *- --
+<melody> 0- 43 43 1(-3)
+w: 想赖着你一辈
 
-<guitar> %L
-<melody> 0- -- -- --
-w: 
+<guitar> <Am(5)>6.1' 7'6' *3' 1'-
+<melody> -1 *- -- 16.
+w: *子* 做你
 
-<guitar> %L
-<melody> 0- -- -- --
-w: 
+<guitar> <F >4.4 65 6- 64
+<melody> 55 55 53 *4
+w: 感情里最后一*个
 
-<guitar> %L
-<melody> 0- -- -- --
-w: 
+<guitar> <F/G>54 [61']4 [61']4 [61']4
+<melody> 6- -5 *- --
+w: 天使
 
-<guitar> %L
-<melody> 0- -- -- --
-w: 
+<guitar> {*[M: 6/4]*} <G>[5.57]- -- -- -- -- --
+<melody> 0- -- 1'- -- 7- --
+w: 如果
 
-<guitar> %L
+<guitar> {*[M: 4/4]*} %L
 <melody> 0- -- -- --
 w: 
 
