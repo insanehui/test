@@ -14,24 +14,33 @@ customChords :
   'Cadd9' : 1;X,3,2,0,3,0
   'Cadd9.' : 1;X,3,2,0,3,3
   'Csus2' : 3;X,1,3,3,1,1
+  'Csus2/E' : 3;0,X,3,3,1,1
   'C/bB' : 1;X,1,X,0,1,0
   'D/C' : 1;X,3,0,2,3,2
   'Dm7' : 1;X,X,0,2(2),1(1),1(1)
   'Dm7(5)' : 5;X,X,0,1,2,1
+  'D7sus2' : 1;X,X,0,2,1,0
   'Em' : 1;0,X,2,0,0,0
+  'Em(7)' : 7;X,1,3,3,2,1
+  'Em7(7)' : 7;X,1,3,1,2,1
   'F/C' : 1;X,3,X,2,1,1
   'F/G' : 1;3,X,3,2,1,X
   'F6(3)' : 3;X,X,1,3,1,3
+  'Fmaj7(3)' : 3;X,X,1,3,3,3
   'Fadd9' : 1;X,X,3,2,1,3
   'Fadd9.' : 1;1,X,3,2,1,3
+  'Fmaj7(8)' : 8;X,1,3,2,3,1
+  'F(3)/G' : 3;1,X,X,3,4,3
   'Gsus4' : 1;3,2,0,0,1,3
   'G' : 1;3,2,0,0,0,3
   'Gsus4add9' : 1;3,X,0,2,1,3
+  'G6(5)/A' : 5;X,0,1,3,1,3
   'Am(5)' : 5;X,0,X,1,1,1
   'Bb6' : 1;X,1,X,3,3,3
 patterns : 
   'L': '"C"0- -- -- --'
   '主1': "<Cadd9>13 52' *- --"
+  'Csus2' : "<Csus2>15 1'2' 5'2' 1'5"
 jcxStyle : 
   #barsperstaff: 3
 =================
@@ -188,71 +197,71 @@ w: 天使
 <melody> 0- -- 1'- -- 7- --
 w: 如果
 
-<guitar> {*[M: 4/4]*} %L
+<guitar> {*[M: 4/4]*} <Csus2>15 1'2' 5'2' 1'5
 <melody> 65 53 5- 65
 w: 梦醒时还在一起
 
-<guitar> %L
+<guitar> <Csus2/E>3.5 1'2' 5'2' 1'5
 <melody> -- -- -- 35
 w: * 请容
 
-<guitar> %L
+<guitar> <Fmaj7(3)>41' 3'6' *- --
 <melody> 6- 61' 6- 53
 w: 许我们相依为
 
-<guitar> %L
+<guitar> <G6(5)/A>6.5 2'3' 7'- --
 <melody> -2 *- -- 32
 w: *命* 绚烂
 
-<guitar> %L
+<guitar> <Fmaj7(3)>41' 3'6' *- --
 <melody> 12 36 *- 32
 w: 也许一时*平淡
 
-<guitar> %L
+<guitar> "Em(7)"53 21 _1- --
 <melody> 12 37 *- 67
 w: 走完一世* 是我
 
-<guitar> %L
+<guitar> <D7sus2>26 1'3' *1' 6-
 <melody> 1'(-1') *6 1'1' *6
 w: 选择*你这样*的
 
-<guitar> %L
+<guitar> <F/G>[5.61']- -- <G> [5.57]- 5-
 <melody> 6(-5) *- -- 1'7
 w: 男子* 就怕
 
-<guitar> %L
+<guitar> %Csus2
 <melody> 65 53 5- 3(6_5)
 w: 梦醒时已分两地*
 
-<guitar> %L
+<guitar> <Csus2/E>3.5 1'2' 5'2' 1'5
 <melody> -- -- -- 35
 w: *谁也
 
-<guitar> %L
+<guitar> <Fmaj7(8)>43' 6'1'' *- --
 <melody> 6(-6) *1' 6(-5) *3
 w: 挽不*回这场*分
 
-<guitar> %L
+<guitar> <G6(5)/A>6.5 2'3' 7'3' 2'-
 <melody> -2 *- -- 32
 w: *离* 爱恨
 
-<guitar> %L
+<guitar> <Fmaj7(3)>41' 3'6' *- --
 <melody> 12 36 *- 32
 w: 可以不分*责任
 
-<guitar> %L
+<guitar> <Em7(7)>32' 5'7' *- --
 <melody> 12 37 *- 67
 w: 可以不问 *天亮
 
-<guitar> %L
+<guitar> <Dm7(5)>[21'4'6']$- -- -- --
 <melody> 1'1' 1'6 2'- 1'-
 w: 了我还是不是
 
-<guitar> %L
+<guitar> <F(3)/G> [5.1'4'6']$- -- -- --
 <melody> -- -- 63' *6
 w: *你的*女
 
-<guitar> %L
+<guitar> %Csus2
 <melody> 1'- -- -- --
 w: 人
 
