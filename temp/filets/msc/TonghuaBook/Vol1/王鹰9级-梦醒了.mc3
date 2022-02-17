@@ -3,7 +3,7 @@ artist : 童话吉他记谱
 timeSign : 4/4
 beat : 1/8
 key : C
-tempo : 1/4=100
+#tempo : 1/4=100
 tracks : 
   - name: guitar
     format: tab
@@ -11,18 +11,24 @@ tracks :
     format: jianpu
 customChords : 
   'C' : 1;X,3,2,0,1,0
+  'C69' : 1;X,3,2,2,3,3
   'Cadd9' : 1;X,3,2,0,3,0
   'Cadd9.' : 1;X,3,2,0,3,3
   'Csus2' : 3;X,1,3,3,1,1
   'Csus2/E' : 3;0,X,3,3,1,1
+  'Csus2/F' : 3;X,X,1,3,1,1
   'C/bB' : 1;X,1,X,0,1,0
   'D/C' : 1;X,3,0,2,3,2
   'Dm7' : 1;X,X,0,2(2),1(1),1(1)
   'Dm7(5)' : 5;X,X,0,1,2,1
   'D7sus2' : 1;X,X,0,2,1,0
+  'D7(3)/#F' : 3;X,X,2,3,1,3
   'Em' : 1;0,X,2,0,0,0
   'Em(7)' : 7;X,1,3,3,2,1
   'Em7(7)' : 7;X,1,3,1,2,1
+  'Em7' : 1;0,X,2,0,3,3
+  'F' : 1:1;1,3,3,2,1,1
+  'Fm' : 1;1,3,3,1,1,1
   'F/C' : 1;X,3,X,2,1,1
   'F/G' : 1;3,X,3,2,1,X
   'F6(3)' : 3;X,X,1,3,1,3
@@ -35,7 +41,9 @@ customChords :
   'G' : 1;3,2,0,0,0,3
   'Gsus4add9' : 1;3,X,0,2,1,3
   'G6(5)/A' : 5;X,0,1,3,1,3
+  'A' : 1;X,0,2,2,2,0
   'Am(5)' : 5;X,0,X,1,1,1
+  'Asus4' : 1;X,0,X,2,3,0
   'Bb6' : 1;X,1,X,3,3,3
 patterns : 
   'L': '"C"0- -- -- --'
@@ -45,7 +53,7 @@ jcxStyle :
   #barsperstaff: 3
 =================
 #<guitar> {key: D}
-<melody> {translate: 12}
+#<melody> {translate: 12}
 
 <guitar> <Cadd9.>15 [2'5']- -- --
 <melody> 0- -- -- --
@@ -121,7 +129,7 @@ w:
 <melody> 0- -- -- --
 w: 
 
-<guitar> %主1
+<guitar> |: %主1
 <melody> 03 33 32 21
 w: 你给我一个到那
 
@@ -189,7 +197,7 @@ w: *子* 做你
 <melody> 55 55 53 *4
 w: 感情里最后一*个
 
-<guitar> <F/G>54 [61']4 [61']4 [61']4
+<guitar> <F/G>5.4 [61']4 [61']4 [61']4
 <melody> 6- -5 *- --
 w: 天使
 
@@ -261,15 +269,55 @@ w: 了我还是不是
 <melody> -- -- 63' *6
 w: *你的*女
 
-<guitar> %Csus2
+<guitar> >1 %Csus2
 <melody> 1'- -- -- --
 w: 人
 
-<guitar> %L
+<guitar> <Csus2>[151'2'5']$- -- -- -- :|
 <melody> 0- -- -- --
 w: 
 
-<guitar> %L
+<guitar> >2 <D7(3)/#F>#41' 2'6' *- --
+<melody> 1'- -- -- --
+w: 人
+
+<guitar> <Csus2/F>41' 2'5' *- --
+<melody> 0- -- -- --
+w: 
+
+<guitar> <Em7>35 2'5' 2'5 5'-
+<melody> 0- -- -- --
+w: 
+
+<guitar> <Asus4>6.6 2'3' <A>[6.6#1']- -- 
+<melody> 0- -- -- 67
+w: 天亮
+
+<guitar> <Dm7>[261'4']$- -- -- --
+<melody> 1'1' 1'6 2'- 1'-
+w: 了我还是不是
+
+<guitar> <Dm7(5)>[1'4'6']~- -- -- --
+<melody> 0- -6 3'- 6-
+w: 你的女
+
+<guitar> <Cadd9.>13 52' 5'5 2'@g3'@g
+<melody> 1'- -- -- --
+w: 人
+
+<guitar> 2(2'@gs3'@g) 1''(3'@gs2'@g) 7'(2'@gs1'@g) 6'-
+<melody> 0- -- -- --
+w: 
+
+<guitar> <Fm>E4.#51' E#5'4'1' E4'1'#5 E1'#54 
+<melody> 0- -- -- --
+w: 
+
+<guitar> <Fm>E#541 *- -- --
+<melody> 0- -- -- --
+w: 
+
+<guitar> <C69>[1362'5']$- -- -- --
 <melody> 0- -- -- --
 w: 
 
