@@ -1,0 +1,449 @@
+title : [祝我生日快乐, 温岚]
+artist : tcli编谱
+timeSign : 4/4
+beat : 1/8
+key : C
+tempo : 1/4=100
+tracks : 
+  - name: guitar
+    format: tab
+  - name: melody
+    format: jianpu
+    instrument: flute
+    volume: 16
+customChords : 
+  'E' : 1;0,2,2,1,0,0
+patterns : 
+  L : "<E>0- -- -- --"
+=================
+<guitar> {key: E}
+<melody> {key: E}
+
+<guitar> %L
+<melody> 03 33 33 33
+w: 我知道伤心不能
+
+<guitar> %L
+<melody> 27. 7.3 *- 7.3
+w: 改变什么* 那么 
+
+<guitar> %L
+<melody> -- 33 32 17.
+w: *让我诚实一点
+
+<guitar> %L
+<melody> -- -- -- 23
+w: *诚实 
+
+<guitar> %L
+<melody> -3 33 34 35
+w: *难免有不能控制
+
+<guitar> %L
+<melody> -4 51 *- 0(12)
+w: *的宣泄* 只有
+
+<guitar> %L
+<melody> 33 33 *3 43
+w: 关上了门*不必理
+
+<guitar> %L
+<melody> 4- -- -- --
+w: 谁
+
+<guitar> %L
+<melody> 03 33 33 33
+w: 一个人坐在空荡
+
+<guitar> %L
+<melody> 27. 7.3 *- 7.3
+w: 包厢里面* 手机
+
+<guitar> %L
+<melody> -- 33 32 17.
+w: *让它休息一夜
+
+<guitar> %L
+<melody> -- -- -- 2-
+w: * 难
+
+<guitar> %L
+<melody> -3 33 34 35
+w: *像切歌切掉回忆
+
+<guitar> %L
+<melody> -4 5(-1) *- 0(12)
+w: *的画面* 眼泪
+
+<guitar> %L
+<melody> 33 35 *6 55
+w: 不能流过*十二点
+
+<guitar> %L
+<melody> -_4 *- 5.6. 7.5
+w: *** 生日快乐
+
+<guitar> %L
+<melody> -- -- 54 35
+w: * 我对自己
+
+<guitar> %L
+<melody> -4 *- 4.5. 7.3
+w: *说* 蜡烛点了
+
+<guitar> %L
+<melody> -- -- 32 12
+w: *寂寞亮了
+
+<guitar> %L
+<melody> -- -- 5.6. 7.5
+w: * 生日快乐
+
+<guitar> %L
+<melody> -- -- 54 33
+w: * 泪也融了
+
+<guitar> %L
+<melody> -(_1_7.) *- 5.6. 7.5
+w: **** 我要谢谢
+
+<guitar> %L
+<melody> -4 35 *4 35
+w: *你给的*你拿走
+
+<guitar> %L
+<melody> -6 54 *3 (4_3)5
+w: *的一切* 还爱*你 
+
+<guitar> %L
+<melody> -- -- 54 35
+w: *带一点恨
+
+<guitar> %L
+<melody> -_4 *- 5.6. 7.3
+w: *** 还要时间
+
+<guitar> %L
+<melody> -- -- 32 12
+w: * 才能平衡
+
+<guitar> %L
+<melody> -- -- 5.6. 7.5
+w: * 热恋伤痕
+
+<guitar> %L
+<melody> -- -- 54 33
+w: * 幻灭重生
+
+<guitar> %L
+<melody> -(_1_7.) *- 5.6. 7.3
+w: **** 祝我生日
+
+<guitar> %L
+<melody> -- -- -- *_2
+w: 
+
+<guitar> %L
+<melody> -(_1_7.) *- -- 2-
+w: ****快
+
+<guitar> %L
+<melody> 3- -- -- --
+w: 乐
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
+<guitar> %L
+<melody> 0- -- -- --
+w: 
+
