@@ -3,7 +3,7 @@ artist : 童话吉他记谱
 timeSign : 4/4
 beat : 1/8
 key : C
-tempo : 1/4=80
+tempo : 1/4=160
 tracks : 
   - name: guitar
     format: tab
@@ -18,7 +18,7 @@ customChords :
   'D/#F' : 1;2(1),0,0,2(2),3(4),2(3)
   'D7' : 1;X,X,0,2,1,2
   'D7sus4' : 1;X,X,0,2,1,3
-  'D7add13' : 5;X,1,X,1,3,3
+  'D7add13' : 5;X,1,1,1,3,3
   'D9' : 3;X,3,2,3,3,X
   'Em' : 1;0,2,2,0,0,0
   'F' : 1;1,3,3,2,1,1
@@ -30,27 +30,15 @@ customChords :
   'Am7' : 5;1,X,1,1,1,1
   'A7' : 5;1,X,1,2,1,1
 patterns : 
-  T: '0- -- -- --'
-  A1: "<G> ([5.5']-57 5.5'25)"
-  A11: "<G> ([5.5']-25 5.725 5.5'25 5.725)"
-  A12: "<G> ([5.5']-25 5.5'25 5.725 5.5'25)"
-  A13: "<G> (5.-25 5.5'25 5.725 5.5'25)"
-  A1765: "<G> ([5.5']575 [44']757) <Em >([33']757 23'57)"
-  A57: "<D/#F> ([4.4']-62' 4.4'26)"
-  A6: "<Em > ([3.3']-35 3.3'35 3.3'35 3.3'35 )"
-  A6a: "<Em > ([3.3']-5[6.h7] 7.3'[27]5 33'57 254.5)"
-  A6b: "<Em > ([3.3']-5[6.h7] 7.3'[27]5 3757 2757)"
-  A4: "<C> ([11']-35 13'15)"
-  A4a: "<C> ([11']-35 13'35)"
-  A6M: "<A7> ([6.#1']-35 6.3'35)"
-  A5: "<D7> ([24']-61' 24'26)"
-  B4: "<C >([11']-35 11'35 2h351' 11'35)"
+  T: '"G"0- -- -- --'
 =================
 <guitar> {key: G}
-<melody> {key: G}
 
-<melody> {translate: 12, env: gp5}
-#<melody> {translate: -7, env: jcx}
+# 试一下用B调来写简谱是什么感觉
+# 借用E调的调号来写B调的简谱
+<melody> {key: E}
+
+<melody> {translate: 8, env: jcx}
 
 <guitar> |: "Gmaj7"6[432] x"G#dim"6 _6[432] x6.@a
 <melody> 0- -- -- --
@@ -61,7 +49,7 @@ patterns :
 <guitar> "Gmaj7"6[432] x"G#dim"6 _6[432] x6.@a
 <melody> 0- -- -- --
 
-<guitar> -3'' 1''@b5'@g "D7add13"[5432]0 [5432]- :|
+<guitar> -3'' 1''@b5'@g "D7add13"[5123]0 [5123]- :|
 <melody> 0- -- -- --
 
 <guitar> "G"[6234]- x- "F"[6234]= 0"E"[123456]
@@ -78,10 +66,230 @@ patterns :
 
 # 开始唱
 <guitar> "Gmaj7"6[432] x"G#dim"6 _6[432] "Am7"x6
+<melody> 0- 2- 22 04
+w: 在很久很
+
+<guitar> "Am7"_62 34 "D9"5[234] [234]-
+<melody> -- 04 *- 03
+w: *久*以
+
+<guitar> %T
+<melody> 2- -- -- --
+w: 前
+
+<guitar> %T
+<melody> 0- 2- 2- 1-
+w: 你拥有
+
+<guitar> %T
+<melody> 7.- -- -- --
+w: 我
+
+<guitar> %T
+<melody> 0- 1- 1- 7.-
+w: 我拥有
+
+<guitar> %T
+<melody> 2- -- -- --
+w: 你
+
+<guitar> %T
 <melody> 0- -- -- --
 w: 
 
-<guitar> "Am7"_62 34 "D9"5[234] [234]-
+<guitar> %T
+<melody> 0- 2- 2- 2-
+w: 在很久
+
+<guitar> %T
+<melody> 4- 04 *- 05
+w: 很久*以
+
+<guitar> %T
+<melody> 5- -- -- --
+w: 前
+
+<guitar> %T
+<melody> 0- 2- 2- 1-
+w: 你离开
+
+<guitar> %T
+<melody> 7.- -- -- 7.-
+w: 我 去
+
+<guitar> %T
+<melody> 1- 4- 1_7. *-
+w: 远空翱*
+
+<guitar> %T
+<melody> 7.- -- -- --
+w: 翔
+
+<guitar> %T
+<melody> 0- -- -- --
+w: 
+
+<guitar> %T
+<melody> 0- 3- 3- 3-
+w: 外面的
+
+<guitar> %T
+<melody> 4- 4- 45 *-
+w: 世界很精
+
+<guitar> %T
+<melody> 4- -- -- --
+w: 彩
+
+<guitar> %T
+<melody> 0- -- -- --
+w: 
+
+<guitar> %T
+<melody> 0- 3- 3- 3-
+w: 外面的
+
+<guitar> %T
+<melody> 4- 4- 4(1_2) *-
+w: 世界很无*
+
+<guitar> %T
+<melody> 2- -- -- --
+w: 奈
+
+<guitar> %T
+<melody> 0- -- -- --
+w: 
+
+<guitar> %T
+<melody> 0- 33 3- 3-
+w: 当你觉得
+
+<guitar> %T
+<melody> 4- 44 45 0-
+w: 外面的世界
+
+<guitar> %T
+<melody> 4- 4_5 *- 02
+w: 很精**彩
+
+<guitar> %T
+<melody> (_1_&1)- *- 0- 2-
+w: *** 我
+
+<guitar> %T
+<melody> 1- 1- 17. *-
+w: 会在这里
+
+<guitar> %T
+<melody> 1- 11 2- 21
+w: 衷心的祝福你
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> 0- -- -- --
+w: 
+
+<guitar> %T
+<melody> 0- 22 2- 2-
+w: 每当夕阳
+
+<guitar> %T
+<melody> 4- 4- 43 02
+w: 西沉的时候
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> 0- -- 2- 1-
+w: 我总
+
+<guitar> %T
+<melody> 7.- 0- -- 7.-
+w: 是在
+
+<guitar> %T
+<melody> 1- 1- 17. 02
+w: 这里盼望你
+
+<guitar> %T
+<melody> -- -- -- --
+w: *
+
+<guitar> %T
+<melody> 0- -- -- --
+w: 
+
+<guitar> %T
+<melody> 0- 2- 2- 2-
+w: 天空中
+
+<guitar> %T
+<melody> 4- 4- 45 *5
+w: 虽然飘着*雨
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> 0- -- 2- 1-
+w: 我依
+
+<guitar> %T
+<melody> 7.- -- -- 7.7.
+w: 然等待
+
+<guitar> %T
+<melody> 1- 4- 1_7. *7.
+w: 你的归**期
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
+<melody> 0- -- -- --
+w: 
+
+<guitar> %T
+<melody> 0- -- 2- 17.
+w: 我依然
+
+<guitar> %T
+<melody> -- -- -- 7.7.
+w: *等待
+
+<guitar> %T
+<melody> 1- 4- 1_7. *7.
+w: 你的归**期
+
+<guitar> %T
+<melody> 0- -- -- --
+w: 
+
+<guitar> %T
+<melody> 0- -- 2- 17.
+w: 我依然
+
+<guitar> %T
+<melody> -- -- -- 7.7.
+w: *等待
+
+<guitar> %T
+<melody> 1- 4- 1_7. *7.
+w: 你的归**期
+
+<guitar> %T
+<melody> -- -- -- --
+w: 
+
+<guitar> %T
 <melody> 0- -- -- --
 w: 
 
