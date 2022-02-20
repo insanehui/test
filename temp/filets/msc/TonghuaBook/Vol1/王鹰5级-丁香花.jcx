@@ -1,13 +1,10 @@
-[V: 1]
 T: 丁香花
-T: （唐磊 演唱）
+T: 唐磊
 M: 3/4
 L: 1/2
-C: 唐磊   演唱
-C: 王鹰 马鸿 编配
-C: 童话音乐  记谱
-I: 选调用G调
+C: 童话音乐记谱
 K: G
+
 %%showfinger 1
 V:1 name= style=tab clef=standardtab ins=24 vol=40 bracket=2
 V:2 name= style=jianpu ins=1 vol=100
@@ -25,7 +22,7 @@ V:2 name= style=jianpu ins=1 vol=100
 "Em"fx//cx//bx//ax//bx//cx//|"Cmaj7"ex//cx//bx//ax//bx//cx//|"Dsus2"dx//cx//bx//ax//bx//cx//|"G"fx//cx//bx//cx//bx//cx//|
 "Am"ex//cx//bx//ax//bx//cx//|"Em"fx//cx//bx//ax//bx//cx//|"Cmaj7"ex//cx//bx//ax//bx//cx//|"B7"ex//cx//bx//ax//bx//cx//|
 "Em"fx//cx//bx//ax//bx//cx//|"Cmaj7"ex//cx//bx//ax//bx//cx//|"Dsus2"dx//cx//bx//ax//bx//cx//|"G"fx//cx//bx//cx//bx//cx//|
-"Am"ex//cx//bx//ax//bx//cx//|"Em"fx//cx//bx//ax//bx//cx//|"B7"ex/dx//cx//bx/|"Em"fx//cx//bx//ax//bx//cx//|1 B[a1b2c3d4e5][d9/a7/] :|2
+"Am"ex//cx//bx//ax//bx//cx//|"Em"fx//cx//bx//ax//bx//cx//|"B7"ex/dx//cx//bx/|"Em"fx//cx//bx//ax//bx//cx//|1 "Em"B[axbxcxdxexfx][d9/a7/] :|2
 "Em"{d0}d2//cx//bx//ax//bx//cx//|"Em"fx//cx//bx//ax//bx//cx//|fx//cx//bx//ax//bx//cx//|"Cmaj7"ex//cx//bx//ax//bx//cx//|
 "Em"fx//cx//bx//ax//bx//cx//|fx//cx//bx//ax//bx//cx//|"Am"ex//cx//bx//ax//bx//cx//|"B7"ex//cx//bx//ax//bx//cx//|"Em"fx//cx//bx//(ax// ax/ )|
 z/ z/ [d9/a7/] |"Em"[fx//ax//]cx//bx//ax//bx//cx// |"Cmaj7"[ex//ax//]cx//bx//ax//bx//cx// |
@@ -33,10 +30,13 @@ z/ z/ [d9/a7/] |"Em"[fx//ax//]cx//bx//ax//bx//cx// |"Cmaj7"[ex//ax//]cx//bx//ax/
 "Cmaj7"[ex//ax//]cx//bx//ax//bx//cx// |"D"dx/cx//bx//cx/|"B7"ex//cx//bx//ax//bx//cx//|"Em"[fx//ax//]cx//bx//ax//bx//cx//|B[a1/b2/c3/d4/e5/]z/ z/ |
 
 [V:2]
-z/z/z/|:(A/A// )(A/A// )|(A/A// )(A/A// )|A3/4c// B// A// |(A/A// )(A/A// )|
-w: *******
-(A/A// )(A/A// )|D3/4G// D/|z/z// (B// B/)|(A/A//)(A// A/)|z/z/z//A// |E//D//E//D//D//E// |EC//D// |E//A,//C//A,//C//A,// |A,3/2|A,//C//C//A,//(C//D// )|3D3/2|F//F//F//C//D//E//|3E3/2|E//D//E//D//D//E//|3Ez// A,// |E//D//E//D//C//A,//|3A,3/2|A,//C//C//A,//(C//D// )|3DZ//E//|F//F//F//C//D//E//|3E3/2|D//C//D//C//D//E//|3D3/2|C//E//E//D//D//C//|C//A,//A,/z//A,//|C//C//C//C//C//A,//|3C3/2|B,//B,//B,//B,//B,//A,//|3B,3/2|E/A/E/|G//A//A/A/|A//c// A//G//A//G//|E//D//E/Z/|A,/(E//D// )D/|E//A//(A//C// )C/|E//A//A//E//A//B//|3B3/2|E/A/E/|G//A//A/A/|A//c//A//G//A//G//|E//D//E/Z/|A,/(E//D// )D/|E//E//(E//A// )A/|B,//B,//B,//D//C//B,//|B,//A,//2A,|Z/Z/Z/:|Z/Z/Z//A,//|E//D//E//D//D//E//|2EC//D//|E//D//D//C//C//A,//|3A,3/2|A,//C//C//A,//C//D//|3D3/2|B,//B,//B,//D//C//B,//|3A,3/2|Z/Z/Z/|(A/A//)(A// A/)|(A/A//)(A// A/)|A3/4c//B//A//|(A/A//)(A// A/)|(A/A//)(A// A/)|D3/4G//D/|Z/Z//(B// B/)|(A/A//)(A// (A/)|3A3/2)|
-w: *************你说你最爱丁香花因为你的名字就是它多么犹豫的*花多愁善感的人啊花儿枯萎的时候当画面定格的时候多么娇柔的*花却躲不过风吹雨打飘啊飘啊的一生多少买了编织的梦啊就这样匆匆你走了留给我一生牵挂那坟前开满鲜花是你多么渴望的美啊你看*啊漫山遍*野你还觉得孤单吗你听啊有人在唱那首你最爱的歌谣啊尘世*间多少繁*芜从此不比再牵*挂*院子里栽满丁香话开满至盛美丽的鲜花我在这里陪着它一生一世保护它
+z/z/z/|:z3/2|z3/2|z3/2|z3/2|
+z3/2|z3/2|z3/2|z3/2|
+z/z/z//A// 
+w: 你
+|
+E//D// E//D// D//E// |EC//D// |E//A,// C//A,// C//A,// |A,3/2|A,//C// C//A,// (C//D// )|[3D3/2|F//F// F//C// D//E// |[3E3/2|E//D// E//D// D//E// |[3Ez//A,// |E//D// E//D// C//A,// |[3A,3/2|A,//C// C//A,// (C//D// )|[3Dz//E// |F//F// F//C// D//E// |[3E3/2|D//C// D//C// D//E// |[3D3/2|C//E// E//D// D//C// |C//A,// A,/z//A,// |C//C// C//C// C//A,// |[3C3/2|B,//B,// B,//B,// B,//A,// |[3B,3/2|E/A/E/|G//A// A/A/|A//c// A//G// A//G// |E//D// E/z/|A,/(E//D// )D/|E//A// (A//C// )C/|E//A// A//E// A//B// |[3B3/2|E/A/E/|G//A// A/A/|A//c// A//G// A//G// |E//D// E/z/|A,/(E//D// )D/|E//E// (E//A// )A/|B,//B,// B,//D// C//B,// |B,//A,// A,|z/z/z/:|z/z/z//A,// |E//D// E//D// D//E// |[2EC//D// |E//D// D//C// C//A,// |[3A,3/2|A,//C// C//A,// C//D// |[3D3/2|B,//B,// B,//D// C//B,// |[3A,3/2|z/z/z/|(A/A//)(A// A/)|(A/A//)(A// A/)|A3/4c// B//A// |(A/A//)(A// A/)|(A/A//)(A// A/)|D3/4G// D/|z/z//(B// B/)|(A/A//)(A// (A/)|[3A3/2)|
+w: 说你最爱丁香花因为你的名字就是它多么犹豫的*花多愁善感的人啊花儿枯萎的时候当画面定格的时候多么娇柔的*花却躲不过风吹雨打飘啊飘啊的一生多少买了编织的梦啊就这样匆匆你走了留给我一生牵挂那坟前开满鲜花是你多么渴望的美啊你看*啊漫山遍*野你还觉得孤单吗你听啊有人在唱那首你最爱的歌谣啊尘世*间多少繁*芜从此不比再牵*挂*院子里栽满丁香话开满至盛美丽的鲜花我在这里陪着它一生一世保护它
 
 
 
