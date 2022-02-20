@@ -3,7 +3,7 @@ artist : 童话吉他记谱
 timeSign : 4/4
 beat : 1/8
 key : C
-tempo : 1/4=70
+#tempo : 1/4=70
 jcxStyle : 
   #barsperstaff: 3
 tracks : 
