@@ -1,9 +1,7 @@
 %MUSE2
 T: 后来
-T: 刘若英（演唱）
-C: 玉成千春（作曲）
-C: 施人城（作词）
-C: 童话音乐（记谱）
+T: 刘若英
+C: 童话吉他记谱
 M: 4/4
 L: 1/4
 K: D
@@ -12,6 +10,9 @@ V: 2 style=jianpu
 %%gchord A/#C=2;0,3,1,1,1,0
 %%gchord #Fm=2;1,3,3,1,1,1
 %%gchord D/#F=0;2,0,0,2,3,2
+%%gchord A6=0;X,0,2,2,2,2
+%%gchord Gm=3;1,3,3,1,1,1
+
 [V: 1]
 "D"[axbxdx/]cx/[axbx/]cx/"A/#C"[bxcxex/]dx/[bxcx/]dx/|
 "Bm"[axbxex/]cx/[axbx/]cx/"#Fm"[axbxfx/]cx/[axbx/]cx/|
@@ -24,7 +25,8 @@ V: 2 style=jianpu
 "G"[axbxfx/]cx/[axbx/]cx/"A"[axbxex/]cx/[axbx/]cx/|
 "#Fm"[axbxfx/]cx/[axbx/]cx/"Bm"[axbxex/]cx/[axbx/]cx/|
 "Em"[axbxfx/]cx/[axbx/]cx/"A"[axbxex/]cx/[axbx/]cx/|
-"D"[axbxdx/]cx/[axbx/]cx/[axbx/]cx/[axbx/]c0//-H-c2//|
+"D"[axbxdx/]cx/[axbx/]cx/[axbx/]cx/[axbx/]c0//-H-c2//
+|:
 "D"[axbxdx/]cx/[axbx/]cx/[axbx/]cx/[axbx/]cx/|
 "#Fm"[axbxfx/]cx/[axbx/]cx/[axbx/]cx/[axbx/]cx/|
 "Bm"[axbxex/]cx/[axbx/]cx/[axbx/]cx/[axbx/]cx/|
@@ -39,13 +41,24 @@ V: 2 style=jianpu
 "D"[axbxdx/]cx/[axbx/]cx/[axbx/]cx/"A/#C"[bxcxex/]cx/|
 "Bm"[axbxex/]cx/[axbx/]cx/[axbx/]cx/[axbx/]cx/|
 "#Fm"[axbxfx/]cx/[axbx/]cx/[axbx/]cx/[axbx/]cx/|
-"Em"[axbxfx/]cx/[axbx/]cx/"A"[axbxex/]cx/[axbx/]cx/|
+"Em"[axbxfx/]cx/[axbx/]cx/"A"[axbxex/]cx/[axbx/]cx/|1
+"D"[axbxdx/]cx/[axbx/]cx/[axbx/]cx/[axbx/]cx/:|2
 "D"[axbxdx/]cx/[axbx/]cx/[axbx/]cx/[axbx/]cx/|
-"D"[axbxdx/]cx/[axbx/]cx/[axbx/]cx/[axbx/]cx/|
+
 "Em"[axbxfx/]cx/[axbx/]cx/"A"[axbxex/]cx/[axbx/]cx/|
 "#Fm"[axbxfx/]cx/[axbx/]cx/"Bm"[axbxex/]cx/[axbx/]cx/|
 "G"[axbxfx/]cx/[axbx/]cx/[axbx/]cx/[axbx/]cx/|
 "A"[axbxex/]cx/[axbx/]cx/[axbx/]cx/[axbx/]cx/|
+
+
+"D"[axbxdx/]cx/[axbx/]cx/[axbx/]cx/[axbx/]cx/|
+"A/#C"[bxcxex/]dx/[bxcx/]dx/[bxcx/]dx/[bxcx/]dx/|
+"Bm"[axbxex/]cx/[axbx/]cx/[axbx/]cx/[axbx/]cx/|
+"A6"[axbxex/]cx/[axbx/]cx/[axbx/]cx/[axbx/]cx/|
+"G"[axbxfx/]cx/[axbx/]cx/"A"[axbxex/]cx/[axbx/]cx/|
+"#Fm"[axbxfx/]cx/[axbx/]cx/"Bm"[axbxex/]cx/[axbx/]cx/|
+"Em"[axbxfx/]cx/[axbx/]cx/"A"[axbxex/]cx/[axbx/]cx/|
+
 "D"[axbxdx/]cx/[axbx/]cx/[axbx/]cx/V[axbxcxdx//]U[axbxcxdx//]V[axbxcxdx//]U[axbxcxdx//]|
 "Em"V[bxcxdxex]V[axbxcxdx/]V[axbxcxdx//]U[axbxcxdx//]"A"V[bxcxdxex]V[axbxcxdx/]V[axbxcxdx//]U[axbxcxdx//]|
 "#Fm"V[bxcxdxex]V[axbxcxdx/]V[axbxcxdx//]U[axbxcxdx//]"Bm"V[bxcxdxex]V[axbxcxdx/]V[axbxcxdx//]U[axbxcxdx//]|
@@ -97,10 +110,10 @@ w:栀子花*白花瓣
 w:那时候*的爱情  
 |G,3Z
 w:
-|ZA,/A,//A,// -A/,G,/ F,/A,/
+|ZA,/A,//A,// -A,/G,/ F,/A,/
 w:落在我*蓝色百
 w:为什么*就能那
-|G,/D,//E,// -E,2E,
+|G,/D,//E,// -E,2 z/E,/
 w:褶裙上
 w:样简单*而
 |
@@ -116,17 +129,17 @@ w:一定要让深爱
 |B,/A,/ A,/G,/-G,2
 w:一阵芬芳
 w:的人受伤
-|ZC/B//C// -C/C/ E,/F,/
+|ZC/B,//C// -C/C/ E,/F,/
 w:哪个永*恒的夜
 w:在~这相*思的深夜
 |
 G,2A,/G,/ F,/E,/
 w:晚十七岁仲
 w:里你是否一
-|F,3/2 F,//F,// ^G,/ G,^G,//F,//
+|F,3/2 F,//F,// ^G,/ ^G,G,//F,//
 w:夏你吻我的那个
 w:样也在静静追悔
-|^G,/^G,/ -G,2Z
+|G,/G,/ -G,2Z
 w:夜晚
 w:感伤
 |ZA,/B,/ C/C/ C/D/
@@ -152,7 +165,25 @@ CZ//A,//A,//B,//C/A,/ C/E/
 w:来有没有人能让你
 |E/D//D// -DZE/-D//-C//
 w:不寂寞*后
-|C2ZZ/A,//A,//
+
+
+|C3/2 C/ C/D/E/F/
+w:来我总算学会
+|E3/2F/D/C//D// -D/C//B,//
+w:了如何去爱*可惜
+|C-C//A,//A,//B,// C C/D/
+w:你*早已远去消失
+|E/B,//B,// -B, ZC/-B,//-A,//
+w:在人海*后
+|
+A,3/2 A/G/F/E/F/
+w:来终于在眼泪
+|G3/2 B,/C3/2 F//E//
+w:中明白有些
+|F3/2F//F// E/D/C//B,//D//-C//
+w:人一旦错过就不再
+
+|-C2ZZ/A,//A,//
 w:*你都
 |F/E/F/C//B,// -B,Z//G,//G,//G,//
 w:如何回忆我*带着笑
@@ -183,11 +214,11 @@ w:
 |G3/2,C/CG,/G/
 w:永远不会再
 |F/-E//F//-F2Z/C//C//
-w:重来*有一
+w:重*来*有一
 |
 F/F//F//-FF/ED//C//
 w:个男孩*爱着那个
-|C//B,//C/-C3
+|-C//B,//C/-C3
 w:*女孩
 |-C3Z
 w:
