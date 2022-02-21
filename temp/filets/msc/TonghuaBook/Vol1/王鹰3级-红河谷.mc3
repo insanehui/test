@@ -18,7 +18,7 @@ patterns :
   L : '"C"0- -- -- --'
   L1 : "<Asus2> 6.3 67 6.3 67"
   L5 : "<E> 3.5 73' 3.5 73'"
-  L4 : "<Dsus2> 26 2'4' 26 2'4'"
+  L4 : "<Dsus2> 26 2'3' 26 2'3'"
 =================
 <melody> {translate: 12, env: gp5}
 <melody> {translate: 3, env: jcx}
