@@ -1235,10 +1235,12 @@
 		mysql 官方<url:https://www.npmjs.com/package/mysql>
 			mysqljs <url:https://github.com/mysqljs/mysql>
 				统一一个query，不管是select，insert, update, delete都用该方法
-				prepared语句的一些奇技淫巧，比mysql官方的prepare机制更强大！
+				prepared语句的一些奇技淫巧，比mysql官方的prepare机制更强大！比如可以跟在where或者set的后面：
+					query('select * from lesson where ? ', {student:ctx.userid})
+						但如果where有多个的话，就不行了
+					query(`replace into blueprint set ?`, obj) // 直接将obj展开成类似"aa=1, bb=2"的字符串!
 					用数组来表示参数序列「不支持按参数排列的形式」。如果参数序列不是数组，将自动作为第一个问号的替换
 					db.query('select id from v_model where id in (?)', [[1,2]]) => in语句将变成 in ('1', '2')
-					db.query(`replace into blueprint set ?`, obj) // 直接将obj展开成类似"aa=1, bb=2"的字符串!
 					query自带prepare的功能一步到位，但如果要查看生成的sql，可以先调用mysql.format方法：
 						var sql = "SELECT * FROM ?? WHERE ?? = ?";
 						var inserts = ['users', 'id', userId];
@@ -1772,12 +1774,14 @@
 		坑
 			与某些库结合使用时，需要净化数据（使用toJS()方法，或者是用modash里的wash）。比如_.merge，如果不wash将得不到正确的结果
 	时间操作
-		moment 较受欢迎 <url:http://momentjs.com/docs/#/displaying/format/>
-			import moment from 'moment'
-			const tag = moment().format('YYYYMMDD_HH.mm') // 坑：注意是moment()，而不是直接用moment!
-		date-fns 后起之秀。dan大神推荐过 <url:https://date-fns.org/>
+		day.js <url:https://day.js.org/en/> YYDS!
+			比date-fns好用得多！
+		date-fns 虽然dan大神推荐过，但是用起来还是复杂，而且体积又大，对小程序不友好 <url:https://date-fns.org/>
 			import { format } from 'date-fns'
 			format(new Date(), 'yyyy-MM-dd', )
+		[deprecated] moment 曾经较受欢迎 <url:http://momentjs.com/docs/#/displaying/format/>
+			import moment from 'moment'
+			const tag = moment().format('YYYYMMDD_HH.mm') // 坑：注意是moment()，而不是直接用moment!
 	jsmind 思维导图js库
 	cookie操作 js-cookie <url:https://www.npmjs.com/package/js-cookie>
 	颜色操作 color <url:https://www.npmjs.com/package/color>
