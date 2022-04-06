@@ -1,4 +1,0 @@
-底部出现:=MA(IF(L<=LLV(L,13),MA(C,21),0),3)/200;
-买点:=IF(REF(底部出现,1)>0 AND REF(C,1)<=REF(O,1) AND 底部出现>0,1,0);
-STICKLINE(买点=1,0,0.3,4,0),COLORYELLOW;
-DRAWICON(买点=1,0.32,13);

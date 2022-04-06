@@ -1,5 +1,0 @@
-RSV:=(CLOSE-LLV(LOW,9))/(HHV(HIGH,9)-LLV(LOW,9))*100;
-K:=SMA(RSV,3,1);
-D:=SMA(K,3,1);
-J:=3*K-2*D;
-META短买:REF(J,1)<0 AND J>0;

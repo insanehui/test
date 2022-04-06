@@ -1,1 +1,0 @@
-A basic HTML bar chart. Part of the [Let’s Make a Bar Chart](http://bost.ocks.org/mike/bar/) tutorial.

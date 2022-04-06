@@ -1,8 +1,0 @@
-timeSign : 6/8
-beat: 1/8
-format: tab
-patterns:
-  S: '[3456]^([1234]^v)(^v)'
-  C: '"C"%S%S'
-========
-%C 

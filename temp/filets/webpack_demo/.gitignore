@@ -1,7 +1,0 @@
-*.swp
-*.swo
-*.log
-*.exe
-*.tmp
-package-lock.json
-node_modules

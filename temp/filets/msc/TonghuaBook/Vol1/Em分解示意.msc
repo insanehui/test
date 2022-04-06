@@ -1,8 +1,0 @@
-beat: 1/8
-format: tab
-customChords : 
-  F: 1;X,X,3,2,1,0
-patterns:
-  L: '"Em"63231323'
-========
-%L

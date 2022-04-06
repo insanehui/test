@@ -1,9 +1,0 @@
-Windows Registry Editor Version 5.00
-
-[HKEY_CLASSES_ROOT\Directory\shell\git_shell]
-@="Git Ba&sh Here"
-"Icon"="\"C:\\Program Files\\Git\\mingw64\\share\\git\\git-for-windows.ico\""
-
-[HKEY_CLASSES_ROOT\Directory\shell\git_shell\command]
-@="\"C:\\Program Files\\Git\\git-bash.exe\" \"--cd=%1\""
-

@@ -1,9 +1,0 @@
-*.swp
-*.swo
-*.log
-*.exe
-*.tmp
-package-lock.json
-yarn.lock
-node_modules
-miniprogram_npm

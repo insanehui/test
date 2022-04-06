@@ -1,3 +1,0 @@
-吃:=EMA(CLOSE,3);
-蕉:=EMA(CLOSE,20);
-吃香蕉:CROSS(吃,蕉),COLOR0888FF;

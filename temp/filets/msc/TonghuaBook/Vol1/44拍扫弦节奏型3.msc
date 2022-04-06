@@ -1,7 +1,0 @@
-beat: 1/8
-format: tab
-patterns:
-  S: '[1234]^-^(^v)(_^v)(^v)^(^v)'
-  C: '"C"%S'
-========
-%C 
